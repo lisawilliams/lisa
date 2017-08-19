@@ -4,6 +4,9 @@ title:  "Becoming an Art Collector"
 date:   2017-08-18 21:06:39 -0400
 categories: jekyll update
 ---
+
+!['Four Corners of the World,' Heather Adels, 2013](https://u13050632.dl.dropboxusercontent.com/u/13050632/heather-painting%20copy.jpg)
+
 I collect contemporary abstract art, primarily from emerging artists, both paintings and works on paper.
 
 *Wait, what?*
@@ -36,4 +39,4 @@ The first originals that hung on my walls at home were works of hers.
 
 Over time, I started buying works, mainly at openings that I attended with her.
 
-Today, I visit art galleries in Boston and Providence, and when I travel. I collect art and I hang it on my walls at home. An original work of art is alive, has a living presence in a room where it is hung. I don't live near the ocean, or on a mountain; when I look out the windows of my house today, I mainly see a huge construction site, and my neighbors' houses, which are as unremarkable on the outside as my own house, the house with the used Toyota in the driveway. But inside my house, I have many beautiful views, not into just one world but into many worlds. I used to think that abstract art was not 'about' anything; now I think of abstract artworks as landscape paintings -- they're just landscapes of inner worlds. Through art I can travel to many worlds even when I don't leave my living room. 
+Today, I visit art galleries in Boston and Providence, and when I travel. I collect art and I hang it on my walls at home. An original work of art is alive, has a living presence in a room where it is hung. I don't live near the ocean, or on a mountain; when I look out the windows of my house today, I mainly see a huge construction site, and my neighbors' houses, which are as unremarkable on the outside as my own house, the house with the used Toyota in the driveway. But inside my house, I have many beautiful views, not into just one world but into many worlds. I used to think that abstract art was not 'about' anything; now I think of abstract artworks as landscape paintings -- they're just landscapes of inner worlds. Through art I can travel to many worlds even when I don't leave my living room.
