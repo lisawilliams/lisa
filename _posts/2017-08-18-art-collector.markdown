@@ -2,7 +2,7 @@
 layout: post
 title:  "Becoming an Art Collector"
 date:   2017-08-18 21:06:39 -0400
-categories: jekyll update
+categories: art
 ---
 
 !['Four Corners of the World,' Heather Adels, 2013](https://u13050632.dl.dropboxusercontent.com/u/13050632/heather-painting%20copy.jpg)

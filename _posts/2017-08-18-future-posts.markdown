@@ -5,8 +5,10 @@ date:   2017-08-18 21:06:39 -0400
 categories: blogging old-skool
 ---
 
-A running list of post ideas. 
+A running list of post ideas.
+
 
 * How and Why To Become An Art Collector, Even If You Don't Have A Lot Of Money
 * How Do You Know When An Abstract Painting Is Good?
 * Gallery Visit Report
+* Art collection. A list of works I own, with photographs and details (Title, artist, surface, medium, year, where purchased, etc.)
