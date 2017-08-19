@@ -28,7 +28,9 @@ I sat with Franz Kleinsek's 'True to Self' for about a half an hour.
 ![True to Self, Franz Kleinsek](https://u13050632.dl.dropboxusercontent.com/u/13050632/truetoself-franz-kleinsek.jpg)
 
 The gold leaf at the top gives the impression of a disorderly Klimt. Things are painted over, scratched, rubbed out; in the lower left quadrant, he writes 'Be Real,' and then paints over it. Maps or circuit boards seem to peek out from a lower layer of the painting; in the upper left corner there is a tree with flat, pink circles for leaves. Eyes peer at us from the upper right. The entire work is bifurcated by a green line. Before and after? Mixed feelings? We live in a time where we're ambivalent about authenticity again. How much should we post on Facebook? Should we delete it? Can we delete it? Whether we do or not, there's golden skies and pink trees who don't have our human problems.
-<br>
+<br><br>
+
+
 **Gagosian, 'Carsten Höller:Reason'**
 
 Ah, Gagosian. Come for the frigid air conditioning, stay for the monumental whimsical sculpture/machine/mobile where colorful mushrooms as tall as an NBA player whirl through the air. Again, dots, this time on the caps of the mushrooms; Yayoi Kusama's influence seems to be everywhere. Leave the gallery and your glasses will fog over in the August fug; consider going back in, to appreciate the art further, and to appreciate the air conditioning even further than that.
