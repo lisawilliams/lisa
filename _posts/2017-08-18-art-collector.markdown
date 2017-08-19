@@ -7,21 +7,23 @@ categories: jekyll update
 
 !['Four Corners of the World,' Heather Adels, 2013](https://u13050632.dl.dropboxusercontent.com/u/13050632/heather-painting%20copy.jpg)
 
+*'Four Corners of the Earth', Heather Adels, acrylic, graphite, and ink on masonite, 2013*
+
 I collect contemporary abstract art, primarily from emerging artists, both paintings and works on paper.
 
 *Wait, what?*
 
-Let's back up a minute and unpack that sentence: 'Today I collect contemporary abstract art, primarily from emerging artists, both paintings and works on paper.'
+Let's back up a minute and unpack that sentence: 'I collect contemporary abstract art, primarily from emerging artists, both paintings and works on paper.'
 
 Okay, let's take it word by word. First, lets start with *'I collect.'* That means I am an art collector.
 
-But I also drive a used Toyota.
+But I also drive a used Toyota. More on that in a minute.
 
 Next up is *'abstract.'* That means 'not representational or figurative.' I don't own many pictures of things: I don't collect landscapes or still lifes or portraits (although I do own several portraits).
 
 That brings us to *'contemporary.'* Contemporary is works by artists who are alive today.
 
-Remember I told you I drive a used Toyota? Well, *'emerging'* means 'not yet established or well-known.' That means artists who may not yet be making a living being artists. Why do I collect contemporary works by emerging artists? Because that's what I can afford with my regular-person budget :)
+Remember I told you I drive a used Toyota? Well, *'emerging'* means 'not yet established or well-known.' That means artists who may not yet be making a living being artists. Why do I collect contemporary works by emerging artists? Because that's what I can afford with my "I drive a used Toyota" budget :)
 
 Now we're up to *'paintings.'* That seems pretty obvious, right? And it is. I happen to own a lot of paintings on things other than canvas; my partner Heather painted mainly on masonite; I have others that were painted on artboard or on wood panels. I'm not sure why that is, but I found I have seen a lot of works created that way that mean enough to me that I want to take them home.
 
@@ -31,7 +33,7 @@ How did I become an art collector, though?
 
 There was a time, not too many years ago, where I would have been intimidated to visit an art gallery. It's a lot like going into a shop where there are no prices on things: I assumed everything was really expensive, and I didn't want to ask. I also didn't really feel like I knew what I liked.
 
-All that changed when I started dating an artist. Suddenly I realized that I never looked anywhere except where I was going. I didn't look up, or around; I mainly used my eyes so I wouldn't crash into things as I hurtled through life at top speed. Heather was always looking, well, not straight ahead. And when I turned my head and looked at what she was looking at, I was looking at something interesting, mysterious, beautiful. Or litter. She really hated litter. She also believed that regular people should buy original works by artists. 'Don't buy prints!' she'd say. 'Buy originals!' Heather was normally pretty shy and retiring, but she had strong opinions about art.
+All that changed when I started dating an artist. Suddenly I realized that I never looked anywhere except where I was going. I didn't look up, or around; I mainly used my eyes so I wouldn't crash into things as I hurtled through life at top speed. [Heather](https://byrslf.co/i-want-to-tell-you-about-heather-732b303759d9) was always looking, well, not straight ahead. And when I turned my head and looked at what she was looking at, I was looking at something interesting, mysterious, beautiful. Or litter. She really hated litter. She also believed that regular people should buy original works by artists. 'Don't buy prints!' she'd say. 'Buy originals!' Heather was normally pretty shy and retiring, but she had strong opinions about art.
 
 I was also spending a lot of time in her studio, watching the creation of artworks, meeting other artists who were her friends, and going to art show openings at galleries with her. I'd wake up in the morning to a light scratch-scratch-scratch sound and find her in bed beside me, her knees drawn up and a pad propped up against them, moving a nib pen across a pad.
 
