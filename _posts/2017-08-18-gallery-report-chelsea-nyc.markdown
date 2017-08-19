@@ -47,7 +47,9 @@ Some galleries are simply not prepared for a collector like me. The gallery assi
 *Soñe que revelabas(Missouri), Juan Uslé*
 
 Cheim & Read bills the show as "a group exhibition exploring the poetics of the horizon in abstract art." All the paintings have a horizon in them somewhere; Uslé's painting gives us a few; crisp colored bars two thirds up; then a stripe of tape, not pulled away and swabbed with paint, as if the tape was intended to make a firm line, but was then forgotten. To me the most interesting part of this piece is the upper third. I love works that make me wonder how they are made. The art description lists 'dispersion' as one of the techniques, which makes me think the vertical bars at the top are actually a result of folding and soaking the canvas in dye or ink, a kind of tie-dye with a martial, standing-at-attention, all-alike feel with its deep green and black tones. This is a massive work, 108 by 80 inches; at nine feet tall, most of us don't have a wall in our home that we could even hang this work on.
-<br>
+
+
+
 **Debuck Gallery, 'Colored Light'**
 
 !['My India,' Martin Kline](https://u13050632.dl.dropboxusercontent.com/u/13050632/IMG_3920.JPG)
