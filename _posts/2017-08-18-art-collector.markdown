@@ -7,7 +7,7 @@ categories: art
 
 !['Four Corners of the World,' Heather Adels, 2013](https://u13050632.dl.dropboxusercontent.com/u/13050632/Four-Corners-Of-The-Earth.jpeg)
 
-*'Four Corners of the Earth', Heather Adels, acrylic, graphite, and ink on masonite, 2013*
+*'Four Corners of the Earth', Heather Adels, acrylic, graphite, and ink on masonite, 3ft x 3ft, 2013*
 
 I collect contemporary abstract art, primarily from emerging artists, both paintings and works on paper.
 
