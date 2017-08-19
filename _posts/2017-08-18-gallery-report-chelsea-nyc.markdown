@@ -21,13 +21,19 @@ categories: art
 ![Doppelganger, by Stickymonger](https://u13050632.dl.dropboxusercontent.com/u/13050632/Doppelganger_Stickymonger.jpeg)
 
 As you enter, a mural by Stickymonger (Joohee Park) dominates the first wall.
-It's vinyl; the medallion-like items are actually separate works. Polka dots.
+It's vinyl; the medallion-like items are actually separate works. Polka dots -- it's Yayoi Kusama's world this year; we're just eating hot dogs and taking walks in it.
 
 I sat with Franz Kleinsek's 'True to Self' for about a half an hour.
 
-![True to Self, Franz Kleinsek](https://u13050632.dl.dropboxusercontent.com/u/13050632/truetoself-franz-kleinsek.jpg)
+![True to Self, Franz Kleinsek](https://u13050632.dl.dropboxusercontent.com/u/13050632/Screen%20Shot%202017-08-19%20at%201.48.55%20AM.png)
 
-The gold leaf at the top gives the impression of a disorderly Klimt. Things are painted over, scratched, rubbed out; in the lower left quadrant, he writes 'Be Real,' and then paints over it. Maps or circuit boards seem to peek out from a lower layer of the painting; in the upper left corner there is a tree with flat, pink circles for leaves. Eyes peer at us from the upper right. The entire work is bifurcated by a green line. Before and after? Mixed feelings? We live in a time where we're ambivalent about authenticity again. How much should we post on Facebook? Should we delete it? Can we delete it? Whether we do or not, there's golden skies and pink trees who don't have our human problems.
+The gold leaf at the top gives the impression of a disorderly Klimt. Things are painted over, scratched, rubbed out; in the lower left quadrant, he writes 'Be Real,' and then paints over it. Maps or circuit boards seem to peek out from a lower layer of the painting; in the upper left corner there is a tree with flat, pink circles for leaves.
+
+!['True to Self,' Franz Kleinsek, detail](https://u13050632.dl.dropboxusercontent.com/u/13050632/Screen%20Shot%202017-08-19%20at%201.51.29%20AM.png)
+
+*'True to Self,' detail*
+
+Eyes peer at us from the upper right. The entire work is bifurcated by a green line. Before and after? Mixed feelings? We live in a time where we're ambivalent about authenticity again. How much should we post on Facebook? Should we delete it? Can we delete it? Whether we do or not, there's golden skies and pink trees who don't have our human problems.
 <br><br>
 
 
