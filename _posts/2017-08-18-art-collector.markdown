@@ -15,7 +15,7 @@ I collect contemporary abstract art, primarily from emerging artists, both paint
 
 Let's back up a minute and unpack that sentence: 'I collect contemporary abstract art, primarily from emerging artists, both paintings and works on paper.'
 
-Okay, let's take it word by word. First, lets start with *'I collect.'* That means I am an art collector.
+Okay, let's take it word by word. First, lets start with *'I collect.'* That means I am an art collector. Sounds kinda fancy, doesn't it? It is kinda fancy!
 
 But I also drive a used Toyota. More on that in a minute.
 
