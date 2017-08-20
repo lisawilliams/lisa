@@ -7,7 +7,7 @@ categories: art
 
 A catalog of the artworks in my current collection. For background on what I collect and why, see [How I Became An Art Collector](http://localhost:4000/lisa/art/2017/08/18/art-collector.html).
 
-I still have a lot of work to do here, adding images to items. I may choose to install a Jekyll gallery plugin at some point. But this exists to help me keep track of my growing art collection, in particular, when works were made and when I acquired them. 
+I still have a lot of work to do here, adding images to items. I may choose to install a Jekyll gallery plugin at some point. But this exists to help me keep track of my growing art collection, in particular, when works were made and when I acquired them.
 
 
 !['Four Corners of the World,' Heather Adels, 2013](https://u13050632.dl.dropboxusercontent.com/u/13050632/Four-Corners-Of-The-Earth.jpeg)<br>
@@ -100,8 +100,8 @@ Dimensions: 5in sphere<br>
 Added to collection: 2017<br>
 <br><br>
 
-Image:<br>
-Title: Hazel and Veronica Give Buster The Slip<br>
+![lola and judy give buster the slip, steve negron](https://u13050632.dl.dropboxusercontent.com/u/13050632/lola-and-judy-steve-negron.jpg)<br>
+Title: lola and judy give buster the slip<br>
 Artist: Steve Negron<br>
 Year Created: 2017<br>
 Artform: Painting<br>
