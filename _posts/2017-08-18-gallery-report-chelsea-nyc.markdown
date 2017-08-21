@@ -46,7 +46,7 @@ Ah, Gagosian. Come for the frigid air conditioning, stay for the monumental whim
 <br>
 **Cheim & Read, 'The Horizontal'**
 
-Some galleries are simply not prepared for a collector like me. The gallery assistants looked bewildered when I asked for a chair or a stool to sit with one of the works in this show for awhile. I was compelled enough by this painting, 'Soñe que revelabas (Missouri) that I sat on the concrete floor in front of it for a full thirty minutes, even though the air conditioning wasn't as good as Gagosian's.
+Some galleries are simply not prepared for a collector like me. The gallery assistants looked bewildered when I asked for a chair or a stool to sit with one of the works in this show for awhile. I was compelled enough by this painting, 'Soñe que revelabas (Missouri)' that I sat on the concrete floor in front of it for a full thirty minutes, even though the air conditioning wasn't as good as Gagosian's.
 
 ![Soñe que revelabas, Juan Uslé](https://u13050632.dl.dropboxusercontent.com/u/13050632/sone-que-revelabas.png)
 
