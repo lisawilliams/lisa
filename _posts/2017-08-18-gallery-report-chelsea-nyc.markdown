@@ -68,4 +68,6 @@ My favorite of all the shows I saw in New York. I was drawn there by a photo of 
 
 *'My India,' detail*
 
-It rewards a long look; you can keep looking at this painting for a long time (and I did, with a chair supplied by a helpful gallery assistant) and still be seeing something new every few minutes. Certainly not a restful painting; in fact, the eye almost refuses to settle and relax on a region of it; the combination of texture and vivid, ecstatic color keep moving your eye along, skipping, gliding.
+If you wonder how this was done, this painting uses a technique called encaustic. Encaustic mixes pigments with beeswax, and then heat is applied to create mixing and texture. So in the detail above, Kline is not specifically making the top of a ridge red, and another blue; he's starting a reaction of materials and heat and seeing what develops. (To see an encaustic artist at work and see how these are made, [see this short video](https://www.youtube.com/watch?v=kYOQTUW-jW0)).
+
+Like *Soñe que revelabas*, this is a large work, though not quite as large; it's about seven feet by four feet. It rewards a long look; you can keep looking at this painting for a long time (and I did, with a chair supplied by a helpful gallery assistant) and still be seeing something new every few minutes. Certainly not a restful painting; in fact, the eye almost refuses to settle and relax on a region of it; the combination of texture and vivid, ecstatic color keep moving your eye along, skipping, gliding.
