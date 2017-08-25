@@ -9,17 +9,17 @@ categories: art
 
 !['All the Flowers Are For Me, Sculpture, Anila Quayyum Agha'](https://dl.dropboxusercontent.com/u/13050632/blog/%22All%20the%20Flowers%20Are%20For%20Me%2C%22%20Anila%20Qayuum%20Agha%2C%20Peabody%20Essex%20Museum..jpg)
 
-<br><Br>
+<br>
 
-Title: 'All The Flowers Are For Me'
-Artist: [Anila Quayyum Agha](http://www.anilaagha.com/)<br>
-Year Created: 2016<br>
-Artform: Sculpture<br>
-Materials: Lacquered Steel, Halogen Bulb<br>
-Surface: Steel<br>
-Dimensions: 6ft square (I am estimating here)<br>
-Gallery/Museum: [Peabody Essex Museum](https://www.pem.org)<br>
-Viewed: August 23, 2017<br>
+*Title: 'All The Flowers Are For Me'*<br>
+*Artist: [Anila Quayyum Agha](http://www.anilaagha.com/)<br>*
+*Year Created: 2016<br>*
+*Artform: Sculpture<br>*
+*Materials: Lacquered Steel, Halogen Bulb<br>*
+*Surface: Steel<br>*
+*Dimensions: 6ft square (I am estimating here)<br>*
+*Gallery/Museum: [Peabody Essex Museum](https://www.pem.org)<br>*
+*Viewed: August 23, 2017<br>*
 
 When I sit with a work, I try to get beyond what I think about a work, and into how I feel about a work.
 
