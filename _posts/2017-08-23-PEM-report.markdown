@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Long Look, All The Flowers Are For Me"
+title:  "Long Look: All The Flowers Are For Me"
 date:   2017-08-23 16:51:39 -0400
 categories: art
 ---
@@ -29,7 +29,7 @@ My mind is immediately accessible to me; my feelings, not so much.
 
 I sat with this work for about thirty minutes, in the spot where I took this photo, on a gallery stool provided by the [Peabody Essex Museum](https://www.pem.org/), where this work hangs.
 
-The thoughts always come first. I wondered if the creamy yellow of the walls and ceiling was chosen by the artist, or if the room was always this color. I suspect the artist chose this color combination, and it reminded me of the 70's trend in the US to paint a house the same yellow, with chocolate brown trim and shutters. My own grandmother's house had this color scheme, adn the lacy foil reminds me of the many doilies that were placed on the arms and headrests of upholstered furniture.
+The thoughts always come first. I wondered if the creamy yellow of the walls and ceiling was chosen by the artist, or if the room was always this color. I suspect the artist chose this color combination, and it reminded me of the 70's trend in the US to paint a house the same yellow, with chocolate brown trim and shutters. My own grandmother's house had this color scheme, and the lacy foil reminds me of the many doilies that were placed on the arms and headrests of upholstered furniture.
 
 In fact, the entire work gave me an impression of femininity; it seems decorative, I think. But as soon as I think that, I sense the embedded misogyny of that comment -- "decorative" is almost a slur in the fine-art world, denoting something that doesn't have the ambition or scope of fine art.
 
