@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Long Look: 'All The Flowers Are For Me,' "
+title:  "Long Look: 'All The Flowers Are For Me,'"
 date:   2017-08-25 16:51:39 -0400
 categories: art
 ---
