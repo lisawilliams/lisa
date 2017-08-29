@@ -13,7 +13,7 @@ The [Hurricane Harvey Senior Homes Tracker](http://f.benlk.com/harvey-senior-hom
 
 **Can I contribute?**
 
-Yes, absolutely! You also don't have to be technical to contribute. Ben and I concentrated on getting the app and data up and running, but we need people who want to do the outbound calls to to confirm the statuses of the facilities. If you'd like to help, read about how to do it here.
+Yes, absolutely! You also don't have to be technical to contribute. Ben and I concentrated on getting the app and data up and running, but we need people who want to do the outbound calls to to confirm the statuses of the facilities. If you'd like to help, read about how to do it [here](https://github.com/benlk/harvey-senior-homes/blob/master/contributing.md).
 
 If you are a developer, we have a handy tab of issues that you can dig into right [here](https://github.com/benlk/harvey-senior-homes/issues).
 
