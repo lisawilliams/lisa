@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Long Look: All The Flowers Are For Me"
+title:  "Long Look -- All The Flowers Are For Me"
 date:   2017-08-23 16:51:39 -0400
 categories: art
 ---
@@ -31,7 +31,9 @@ I sat with this work for about thirty minutes, in the spot where I took this pho
 
 The thoughts always come first. I wondered if the creamy yellow of the walls and ceiling was chosen by the artist, or if the room was always this color. I suspect the artist chose this color combination, and it reminded me of the 70's trend in the US to paint a house the same yellow, with chocolate brown trim and shutters. My own grandmother's house had this color scheme, and the lacy foil reminds me of the many doilies that were placed on the arms and headrests of upholstered furniture.
 
-In fact, the entire work gave me an impression of femininity; it seems decorative, I think. But as soon as I think that, I sense the embedded misogyny of that comment. When a woman is "decorative," it is implied that she has no use besides looking good on some man's arm, that she has no "true purpose" (as defined by the little green army men who both run Forbes magazine and populate its pages) "Decorative" is almost a slur in the fine-art world, denoting something that doesn't have the ambition or scope of fine art. "Decorative" is what you buy at Ikea. "Decorative" is when you're the kind of person who chooses art based on whether it matches your couch.
+In fact, the entire work gave me an impression of femininity; it seems decorative, I think. But as soon as I think that, I sense the embedded misogyny of that comment. When a woman is "decorative," it is implied that she has no use besides looking good on some man's arm, that she has no "true purpose" (as defined by the little green army men who both run Forbes magazine and populate its pages).
+
+"Decorative" is almost a slur in the fine-art world, denoting something that doesn't have the ambition or scope of fine art. "Decorative" is what you buy at Ikea. "Decorative" is when you're the kind of person who chooses art based on whether it matches your couch.
 
 Certainly no one could fault the scope or ambition of Agha's work here; you might think "lampshade, ladies' boudoir" but what lady ever dared to take up this much space? What lady dares to be her true size and brightness when the outcome is universally this?
 
