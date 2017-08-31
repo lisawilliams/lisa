@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "About Heather"
+date:   2017-08-31 13:16:39 -0400
+categories: art
+---
+
+![Heather Adels, visual artist, standing in front of one of her paintings](https://dl.dropboxusercontent.com/u/13050632/blog/heather-and-her-painting.jpeg)
+
+My partner, Heather Adels, was a visual artist. She died on March 23, 2017, of a sudden cardiac arrest at the age of 41.
+
+All of my current interest in art is a gift from my relationship with her. Many of my projects as a technologist and someone working with journalists have been influenced by her, in ways that may not be obvious. I remain very interested in opportunities to use technology to give to others what she gave to me: the ability to connect with a work of art. Art has become a kind of spiritual food to me: when I have a bad day, I have the ability to sit with a work of art and come away with the feeling that my soul has been healed and refreshed by the experience.
+
+Unlike other art forms -- novels, plays, movies, songs -- visual arts, particularly abstract art, doesn't always give us ways to automatically connect with that inner spirit of the work. It's something we have to learn how to do, and it's also a lifelong practice. What if we could automate the process of learning to create that connection, and give that knowledge to anyone who wanted it for free?
+
+When my partner died, much of her work disappeared. It made me realize how many artists are completely unprepared for what might happen to their work if they die unexpectedly, the way my partner did. I am interested in finding ways for artists to express their wishes for how they want their art handled after their death, and provide easy ways to archive images of their work. Even if an artist isn't famous, if their work is serious and sincere, the loss of that work is a loss to all mankind, and in particular, a loss to all currently working artists and all the artists yet to come.
+
+Shortly after her death I wrote an essay about her life and work. If you would like to learn more about her you can read it [here](https://byrslf.co/i-want-to-tell-you-about-heather-732b303759d9).
