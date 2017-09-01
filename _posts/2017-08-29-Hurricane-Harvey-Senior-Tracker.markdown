@@ -9,11 +9,11 @@ categories: tech
 
 The [Hurricane Harvey Senior Homes Tracker](http://f.benlk.com/harvey-senior-homes/) is a sortable, embeddable list of nursing home facilities in areas under evacuation notice or affected by Hurricane Harvey. It can be embedded in any web page and is free to use.
 
-![Harvey Senior Home Tracker Screenshot](https://dl.dropboxusercontent.com/u/13050632/blog/harvey-senior-homes-tracker.png)
+![Harvey Senior Home Tracker Screenshot](https://farm5.staticflickr.com/4382/36131071154_1832661c27_z.jpg)
 
 **Can I contribute?**
 
-Yes, absolutely! You also don't have to be technical to contribute. Ben and I concentrated on getting the app and data up and running, but we need people who want to do the outbound calls to to confirm the statuses of the facilities. If you'd like to help, read about how to do it here.
+Yes, absolutely! You also don't have to be technical to contribute. Ben and I concentrated on getting the app and data up and running, but we need people who want to do the outbound calls to to confirm the statuses of the facilities. If you'd like to help, read about how to do it [here](https://github.com/benlk/harvey-senior-homes/blob/master/contributing.md).
 
 If you are a developer, we have a handy tab of issues that you can dig into right [here](https://github.com/benlk/harvey-senior-homes/issues).
 
