@@ -5,7 +5,7 @@ date:   2017-08-18 21:06:39 -0400
 categories: art
 ---
 
-!['Four Corners of the World,' Heather Adels, 2013](https://u13050632.dl.dropboxusercontent.com/u/13050632/Four-Corners-Of-The-Earth.jpeg)
+!['Four Corners of the World,' Heather Adels, 2013](https://farm5.staticflickr.com/4409/36131442674_7c1ff6d01f_z.jpg)
 
 *'Four Corners of the Earth', Heather Adels, acrylic, graphite, and ink on masonite, 3ft x 3ft, 2013*
 
