@@ -6,7 +6,7 @@ categories: art
 ---
 
 
-!['All the Flowers Are For Me, Sculpture, Anila Quayyum Agha'](https://dl.dropboxusercontent.com/u/13050632/blog/%22All%20the%20Flowers%20Are%20For%20Me%2C%22%20Anila%20Qayuum%20Agha%2C%20Peabody%20Essex%20Museum..jpg)
+!['All the Flowers Are For Me, Sculpture, Anila Quayyum Agha'](https://farm5.staticflickr.com/4419/36131071744_d4cc288e7c_z.jpg)
 
 <br>
 
