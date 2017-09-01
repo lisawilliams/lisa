@@ -17,7 +17,7 @@ categories: art
 *Gallery/Museum/Collection: [Davis Gallery](https://www.facebook.com/DavisArtGallery/?ref=br_rs); Collection: Estate of Heather Adels<br>*
 *Viewed: August 10, 2017<br>*
 
-I visited Davis Gallery yesterday to see Heather's show one last time before it closed. I went to the opening, of course, but in the crush of people I didn't feel I had time to really sit with the work. I miss talking about her work, and talking about art in general.
+I visited Davis Gallery yesterday to see [Heather's](https://lisawilliams.github.io/lisa/art/2017/08/31/heather.html) show one last time before it closed. I went to the opening, of course, but in the crush of people I didn't feel I had time to really sit with the work. I miss talking about her work, and talking about art in general.
 
 I spent the most time with this unfinished painting, "Alstroemeria," in part because it's her final painting, and in part because I may never see it again. The gallery had a few people passing through, but it was quiet enough that I could pull up a chair and sit with this painting, which I did for about forty minutes. The painting is 12 inches by 12 inches, acrylic on prepared masonite.
 
