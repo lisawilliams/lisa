@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Long Look -- All The Flowers Are For Me"
+title:  "Long Look: All The Flowers Are For Me"
 date:   2017-08-23 16:51:39 -0400
 categories: art
 ---
 
-<h3>All The Flowers Are For Me</h3>
 
 !['All the Flowers Are For Me, Sculpture, Anila Quayyum Agha'](https://dl.dropboxusercontent.com/u/13050632/blog/%22All%20the%20Flowers%20Are%20For%20Me%2C%22%20Anila%20Qayuum%20Agha%2C%20Peabody%20Essex%20Museum..jpg)
 
 <br>
 
-*Title: 'All The Flowers Are For Me'*<br>
+<h3>All The Flowers Are For Me</h3>
 *Artist: [Anila Quayyum Agha](http://www.anilaagha.com/)<br>*
 *Year Created: 2016<br>*
 *Artform: Sculpture<br>*
@@ -35,7 +34,7 @@ In fact, the entire work gave me an impression of femininity; it seems decorativ
 
 "Decorative" is almost a slur in the fine-art world, denoting something that doesn't have the ambition or scope of fine art. "Decorative" is what you buy at Ikea. "Decorative" is when you're the kind of person who chooses art based on whether it matches your couch.
 
-Certainly no one could fault the scope or ambition of Agha's work here; you might think "lampshade, ladies' boudoir" but what lady ever dared to take up this much space? What lady dares to be her true size and brightness when the outcome is universally this?
+Certainly no one could fault the scope or ambition of Agha's work here; you might think "lampshade, ladies' boudoir," but you'd be wrong. What lady ever dared to take up this much space? What lady dares to be her true size and brightness when the outcome is universally this?
 
 ![DT looming over HC, US presidential debates, 2016](http://assets.nydailynews.com/polopoly_fs/1.2830586.1476450249!/img/httpImage/image.jpg_gen/derivatives/article_750/613698468.jpg)
 
