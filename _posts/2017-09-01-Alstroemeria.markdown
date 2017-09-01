@@ -4,7 +4,7 @@ title:  "Long Look: Alstroemeria"
 date:   2017-08-31 13:16:39 -0400
 categories: art
 ---
-![Alstroemeria, painting, Heather Adels](https://dl.dropboxusercontent.com/u/13050632/blog/aloestromeria.JPG)
+![Alstroemeria, painting, Heather Adels](https://farm5.staticflickr.com/4357/36778705146_91190d481b_k.jpg)
 
 ## Alstroemeria
 
