@@ -10,7 +10,7 @@ I started blogging in 1999, well before the word 'blog' was commonly known. I re
 
 One of the things I learned from those early experiences was that writing a good blog came from reading widely. Inspired by [Dave Winer's River of News](http://scripting.com/river), I wanted to create my own river of sources, just like I used to have.
 
-I had hoped to make mine public, the way Dave does. I haven't quite got there yet. The app I'm using, TinyTinyRSS (ttrss) reminds me a lot of FeedDemon, my longtime favorite desktop RSS app -- it's just that it's hosted on the web. I have to log into it to see anything. The use case is one user reading the most recent updates from their favorite news sources privately. Still, I did manage to get a web-based RSS reader up and running by forking, cloning, and setting up the codebase myself, and I thought I'd document how I did it.
+I had hoped to make mine public, the way Dave does. I haven't quite got there yet. The codebase I'm using as a starting point, TinyTinyRSS (ttrss) reminds me a lot of FeedDemon, my longtime favorite desktop RSS app -- it's just that it's hosted on the web. I have to log into it to see anything. The use case is one user reading the most recent updates from their favorite news sources privately. Still, I did manage to get a web-based RSS reader up and running by forking, cloning, and setting up the codebase myself, and I thought I'd document how I did it.
 
  For those of you who have not heard of RSS, it is a file format that has a machine-readable version of a blog or other online news source's stories. The feed for this blog looks like this:
 
