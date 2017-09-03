@@ -25,3 +25,5 @@ After putting it on Heroku, it was, *ta-da!* [live on the web](https://my-fancy-
 Honestly, I find even that kind of satisfying. Both this blog and my ttrss setup are highly manual. If they were a vehicle, they'd be a dune buggy. I write my entries in a text editor, and commit and publish them from the command line. I enjoy it, and I think I'll enjoy going back to even more of my old-school ways of blogging and reading, just as I did so many years ago. It's good to escape from the massive platforms like Facebook and Twitter, and have a simple and independent existence, thinking and writing out here on the open web. I feel liberated by it. It all still works, and it's all still good.
 
 *Update: the scheduled update task I created on the Heroku server is updating my subscriptions. That's good too ;-)*
+
+*Update update: When I tried to reload my RSS reader, it hung at 'Loading, please wait' until I ran `heroku stop <dyno-name>` and then `heroku restart`. Fascinating.*
