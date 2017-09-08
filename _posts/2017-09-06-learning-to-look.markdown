@@ -6,6 +6,7 @@ categories: art
 ---
 
 ![Heather, Dupont Circle, December 2012](https://farm5.staticflickr.com/4340/36281842263_51f08fcdf2_b.jpg)
+*Heather, Dupont Circle, Washington DC, December 2012*
 
 I knew nothing worth knowing about art when I met her, nor was I particularly motivated to learn. Art museums bored me; when I went to one, I rarely remembered any individual work -- I remembered the visit. I'd been to Florence and passed on the opportunity to see the Uffizi because the process of getting tickets involved massing a counter (Italians never seemed to get in line for everything, an attitude I respected but didn't leave me with a desire to participate in the scrum if I didn't have to).
 
@@ -13,7 +14,11 @@ I wasn't interested in art. I was interested in her, with that glittering enthus
 
 So at first I wasn't looking at art. I was looking at her looking at art.
 
-I quickly realized that I'd been approaching museums like the worst kind of blockhead. Why had I never thought, "You know, taking the number of works in the museum and dividing by the number of minutes I'm going to be here is probably not the best way to experience this."  She rushed by many pieces, even giving some a dismissive hand gesture that seemed totally out of character. Now I was learning something: she would not give that hand gesture even to the most obnoxious bro on the bus for mansitting across three seats, texting obliviously, while an older man and a woman holding a baby looked on, but here, she would take up the sceptre and decide who got to stand in her presence and who wasn't worth her time.
+It wouldn't be the first time I'd picked up something worth knowing from someone I'd fallen for. I came to college with the palate of a preschooler; chicken nuggets and mac and cheese were visible slices on the pie chart of my nutritional intake. I only started eating more sophisticated food because all the people I went on dates with seemed to want to go to hole-in-the wall ethnic restaurants. A first date with a dashing do-gooder was a benefit dinner to (I kid you not) buy Thai women out of sex trafficking.
+
+I went down the line of steam tables thinking, "Don't know what that is, don't know what that is, POTATOES." I scooped the potatoes, in a fragrant yellow sauce, onto a heap of rice on my plate. Back at the table, I listened to my date talk about climate justice, and stuck a fork in one of the potatoes and put it in my mouth, only to find that when I bit down on it...my teeth bounced right off. I was eating my first sea scallop, but at the time, I thought, "I have no idea what is in my mouth but I like this guy and I don't want to spit it out in front of him." I ate it. We did not make it to a second date but I did develop a taste for Thai food. 
+
+Watching her, I quickly realized that I'd been approaching museums like the worst kind of blockhead. Why had I never thought, "You know, taking the number of works in the museum and dividing by the number of minutes I'm going to be here is probably not the best way to experience this."  She rushed by many pieces, even giving some a dismissive hand gesture that seemed totally out of character. Now I was learning something: she would not give that hand gesture even to the most obnoxious bro on the bus for mansitting across three seats, texting obliviously, while an older man and a woman holding a baby looked on, but here, she would take up the sceptre and decide who got to stand in her presence and who wasn't worth her time.
 
 It was a revelation, but still, one about her, not about art.
 
