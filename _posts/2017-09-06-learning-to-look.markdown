@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Learning to Look"
-date:   2017-09-06 21:06:39 -0400
+date:   2017-09-07 20:39:39 -0400
 categories: art
 ---
+
+![Heather, Dupont Circle, December 2012](https://farm5.staticflickr.com/4340/36281842263_51f08fcdf2_b.jpg)
 
 I knew nothing worth knowing about art when I met her, nor was I particularly motivated to learn. Art museums bored me; when I went to one, I rarely remembered any individual work -- I remembered the visit. I'd been to Florence and passed on the opportunity to see the Uffizi because the process of getting tickets involved massing a counter (Italians never seemed to get in line for everything, an attitude I respected but didn't leave me with a desire to participate in the scrum if I didn't have to).
 
@@ -27,4 +29,16 @@ I took off the wool tweed hat she'd given me as a gift, and pulled off my gloves
 
 I unbuttoned my coat and took it off awkwardly, favoring my left side. As I twisted to my right, something gold caught my eye. I extricated myself from my coat, my shirt still stuck to my back, and turned to face it.
 
-A huge piece, at least ten feet high, fourteen feet wide. Not a painting, but not a sculpture. A hanging? A weaving? But made of metal. 
+A huge piece, at least ten feet high, fourteen feet wide. Not a painting, but also not a sculpture. A hanging? A weaving? But made of metal.
+
+![Mans cloth II, El Anatsui](https://farm5.staticflickr.com/4437/36924432182_9792bc808a_b.jpg)
+
+*Man's cloth II, El Antasui, sculpture/weaving, aluminum and wire*
+
+I sat. It may have been the first time I'd ever spent more than ten minutes with an artwork. Something started to happen, first to me and then to the work. My physical discomfort started to disappear, and I had the eerie feeling that it wasn't just that I was sitting still. There was something salutary happening when I finally stopped and engaged with a work, something that gave me a feeling of well-being that was palpably physical.
+
+Then, something started to happen to the work. It was the first time I realized that works of art were like very slow movies; that if you were patient enough, they would change, move. The work had more than one thing to say to me; it was deeper than just the sound byte I'd previously given it time for. Time thinned out, disappeared, flowed out the door.
+
+I don't know how long it had been since she'd left the room where I sat on the bench. When she returned, she did not approach, but her facial expression was an inquiring one. I gestured at the work on the wall. She nodded. She understood.
+
+She took her place beside me on the bench, and together, we looked.
