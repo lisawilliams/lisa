@@ -21,7 +21,7 @@ categories: art
 
 Sometimes life deposits us in a dark thicket.
 
-This is my immediate response to Julie Mehretu's five-panel etching and mixed media work. When I take a long look at a work, when I sit with it for awhile, I am always trying to get beyond what I think about a work, and as swiftly as possible into what I feel about a work.
+This is my immediate response to Julie Mehretu's six-panel etching and mixed media work. When I take a long look at a work, when I sit with it for awhile, I am always trying to get beyond what I think about a work, and as swiftly as possible into what I feel about a work.
 
 It takes me much less time than usual with this work, because I immediately feel that I have passed through this neighborhood recently, this ruin, this trackless mess. Sometimes a work heals us with the light and beauty and coherence it radiates; other works of art heal us by speaking with rigor and precision about our lives -- especially when our lives are a ruin. Such a work says to us: this might be a mess but you are not alone in it.
 
