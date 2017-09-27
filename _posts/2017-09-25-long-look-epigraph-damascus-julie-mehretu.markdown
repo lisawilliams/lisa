@@ -42,7 +42,7 @@ Sometimes life deposits us in a dark thicket. The densest part always comes afte
 
 !["Epigraph: Damascus," Julie Mehretu](https://farm5.staticflickr.com/4378/36606315964_7cc3a89c37_b.jpg)
 
-*Epigraph: Damascus, Detail, Panel 3*
+*Epigraph: Damascus, Detail, Panel 4*
 
 There is no way.
 
@@ -54,6 +54,6 @@ This is a work that functions differently at different scales; get up close to i
 
 !["Epigraph: Damascus," Julie Mehretu](https://farm5.staticflickr.com/4473/36646180283_e30c91f278_b.jpg)
 
-*Epigraph: Damascus, Detail, Panel 5*
+*Epigraph: Damascus, Detail, Panel 6*
 
 This is a work that speaks to the conditions of our world today: so many human beings in our world are in a non-metaphorical situation of total destruction, "no stone left standing upon another," either from man-made or natural disasters (which we now know to be manmade after all). It is her "Guernica." We suffer, we don't know how to recover, recovery seems impossible or even pointless, where would we even begin? These disasters, both personal and universal, ask us the same question: if I'm not dead, now what do I do?
