@@ -87,6 +87,20 @@ Added to collection: 2013<br>
 Gallery: Foster Gallery, Worcester<br>
 <br><br>
 
+<h3>India I</h3>
+![India I, detail, Jeffrey Stevens, 2017](https://farm5.staticflickr.com/4483/37449597076_757b74e543_k.jpg)<br><br>
+Title: lola and judy give buster the slip<br>
+Artist: Jeffrey Stevens<br>
+Year Created: 2017<br>
+Artform: Hybrid Work<br>
+Materials: Watercolor, pigment<br>
+Surface: Aquaboard to paper<br>
+Dimensions: 18 X 26in <br>
+Added to collection: 2017<br>
+Gallery: From the artist at JP Open Studios, August 2017<br>
+<br><br>
+
+
 <h3>lola and judy give buster the slip</h3>
 ![lola and judy give buster the slip, steve negron](https://farm5.staticflickr.com/4346/36569636130_8e371088c4_z.jpg)<br><br>
 Title: lola and judy give buster the slip<br>
