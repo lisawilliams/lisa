@@ -17,7 +17,7 @@ categories: tech
 Both Michelle and I have personal experience with threats and intimidation for our writings. You can read more about what led Michelle to create Trollbusters in
 [this interview](https://www.dailydot.com/irl/troll-busters-online-harassment/).
 
-My partner Heather died in March of 2017 of a sudden cardiac arrest. She was an artist, and after I posted an essay about her life and work online, I recieved horrible threats and abuse. They included homophobic slurs, threats of violence, and conspiracy theories. 
+My partner Heather died in March of 2017 of a sudden cardiac arrest. She was an artist, and after I posted an essay about her life and work online, I recieved horrible threats and abuse. They included homophobic slurs, threats of violence, and conspiracy theories.
 
 After my partner died, I took the summer to recuperate and took a 12-week web development intensive offered by [General Assembly Boston](https://generalassemb.ly/). Since then I have created several things on my own or with others, including the [Hurricane Harvey Senior Homes Tracker](https://lisawilliams.github.io/lisa/tech/2017/08/28/Hurricane-Harvey-Senior-Tracker.html), and my latest project, the Trollbusters Bot. The Trollbusters Bot helps women experiencing online harassment find the resources Michelle has created at Trollbusters as quickly as possible.
 
@@ -36,7 +36,7 @@ As I do with most projects, I sat down and wrote a project plan to present to Mi
 
 ![Vendor choices chart for Trollbusters bot](https://farm5.staticflickr.com/4506/37453468066_fa832c4600_b.jpg)
 
-Initially, I'd hoped to use a solution that would provide us with an independent codebase; one that we could pass on to a team of developers should we decide to go further, and one that would provide both independent intellectual property for Trollbusters and insulate the organization from the risk of using a tool from a startup that may disappear. I was also interested in expanding my own skills.
+I'd hoped to use a solution that would provide us with an independent codebase; one that we could pass on to a team of developers should we decide to go further, and one that would provide both independent intellectual property for Trollbusters and insulate the organization from the risk of using a tool from a startup that may disappear. I was also interested in expanding my own skills.
 
 I was initially really enthusiastic about [Botpress](http://botpress.io), an open-source bot-building framework written in Node.js. While I hope to go back to Botpress, I wasn't able to achieve some of our basic version one features with the framework, and deployment was a bit rocky. I did get excellent help from Sylvain Perron, one of the founders of the project. You can see a number of fledgling bot project repos in [my public repositories](http://github.com/lisawilliams), if you'd like to browse some code.
 
