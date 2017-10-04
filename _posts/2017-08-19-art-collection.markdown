@@ -89,7 +89,7 @@ Gallery: Foster Gallery, Worcester<br>
 
 <h3>India I</h3>
 ![India I, detail, Jeffrey Stevens, 2017](https://farm5.staticflickr.com/4483/37449597076_757b74e543_k.jpg)<br><br>
-Title: lola and judy give buster the slip<br>
+Title: India I<br>
 Artist: Jeffrey Stevens<br>
 Year Created: 2017<br>
 Artform: Hybrid Work<br>
