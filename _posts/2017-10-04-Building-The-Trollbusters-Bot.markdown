@@ -19,7 +19,7 @@ Both Michelle and I have personal experience with threats and intimidation for o
 
 My partner Heather died in March of 2017 of a sudden cardiac arrest. She was an artist, and after I posted an essay about her life and work online, I recieved horrible threats and abuse. They included homophobic slurs, threats of violence, and conspiracy theories.
 
-After my partner died, I took the summer to recuperate and took a 12-week web development intensive offered by [General Assembly Boston](https://generalassemb.ly/). Since then I have created several things on my own or with others, including the [Hurricane Harvey Senior Homes Tracker](https://lisawilliams.github.io/lisa/tech/2017/08/28/Hurricane-Harvey-Senior-Tracker.html), and my latest project, the Trollbusters Bot. The Trollbusters Bot helps women experiencing online harassment find the resources Michelle has created at Trollbusters as quickly as possible.
+After my partner died, I took the summer to recuperate and took a 12-week web development intensive offered by [General Assembly Boston](https://generalassemb.ly/) to expand my skills and give me something to focus on that was mentally absorbing but not emotionally taxing. Since then I have created several things on my own or with others, including the [Hurricane Harvey Senior Homes Tracker](https://lisawilliams.github.io/lisa/tech/2017/08/28/Hurricane-Harvey-Senior-Tracker.html), and my latest project, the Trollbusters Bot. The Trollbusters Bot helps women experiencing online harassment find the resources Michelle has created at Trollbusters as quickly as possible.
 
 <h3>Planning the Project</h3>
 
