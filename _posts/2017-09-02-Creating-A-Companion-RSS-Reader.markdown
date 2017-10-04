@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating a companion RSS reader for my blog"
+title:  "Building a companion RSS reader for my blog"
 date:   2017-09-02 11:15:39 -0400
 categories: tech
 ---
