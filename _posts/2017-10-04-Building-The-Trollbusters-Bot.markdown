@@ -4,14 +4,18 @@ title:  "Building The Trollbusters Bot"
 date:   2017-10-04 11:15:39 -0400
 categories: tech
 ---
-![The Trollbusters Bot in Action](https://farm5.staticflickr.com/4503/23645931338_dd982df9fd_b.jpg)
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/lisawilliams/23645931338/in/dateposted-public/" title="Trollbusters-Bot"><img src="https://farm5.staticflickr.com/4503/23645931338_dd982df9fd_b.jpg" width="420" height="501" alt="Trollbusters-Bot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+*The Trollbusters bot in action*
+
 
 [Trollbusters](http://troll-busters.com) is the brainchild of Michelle Ferrier, a distinguished journalist and journalism professor. The service offers "just in time pest control for women writers."
 
 *"Almost two-thirds of women journalists polled have experienced intimidation, threats or abuse in relation to their work. More than 25 percent of “verbal, written and/or physical intimidation including threats to family or friends” took place online."*
 
 Both Michelle and I have personal experience with threats and intimidation for our writings. You can read more about what led Michelle to create Trollbusters in
-[this interview](https://www.dailydot.com/irl/troll-busters-online-harassment/)
+[this interview](https://www.dailydot.com/irl/troll-busters-online-harassment/).
 
 My partner Heather died in March of 2017 of a sudden cardiac arrest. She was an artist, and after I posted an essay about her life and work to honor her online, I recieved horrible threats and abuse.
 
@@ -27,6 +31,8 @@ As I do with most projects, I sat down and wrote a project plan to present to Mi
 * Wireframes (since this was going to be dictated by Facebook, these were quite minimal)
 * Feature list
 * Roadmap (what has to be in our "SLC" version, and what might be nice for future versions)
+
+<H3> Platform Choices</H3>
 
 ![Vendor choices chart for Trollbusters bot](https://farm5.staticflickr.com/4506/37453468066_fa832c4600_b.jpg)
 
