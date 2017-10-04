@@ -4,7 +4,7 @@ title:  "Building The Trollbusters Bot"
 date:   2017-10-04 11:15:39 -0400
 categories: tech
 ---
-![The Trollbusters Bot in Action](https://farm5.staticflickr.com/4361/36809067462_a9c334467f_b.jpg)
+![The Trollbusters Bot in Action](https://farm5.staticflickr.com/4503/23645931338_dd982df9fd_b.jpg)
 
 [Trollbusters](http://troll-busters.com) is the brainchild of Michelle Ferrier, a distinguished journalist and journalism professor. The service offers "just in time pest control for women writers."
 
@@ -28,7 +28,7 @@ As I do with most projects, I sat down and wrote a project plan to present to Mi
 * Feature list
 * Roadmap (what has to be in our "SLC" version, and what might be nice for future versions)
 
-[Vendor choices chart for Trollbusters bot](https://farm5.staticflickr.com/4506/37453468066_fa832c4600_b.jpg)
+![Vendor choices chart for Trollbusters bot](https://farm5.staticflickr.com/4506/37453468066_fa832c4600_b.jpg)
 
 Initially, I'd hoped to use a solution that would provide us with an independent codebase; one that we could pass on to a team of developers should we decide to go further, and one that would provide both independent intellectual property for Trollbusters and insulate the organization from the risk of using a tool from a startup that may disappear. I was also interested in expanding my own skills.
 
