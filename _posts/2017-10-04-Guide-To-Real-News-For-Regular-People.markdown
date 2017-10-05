@@ -11,7 +11,7 @@ These disasters are bad enough, but we now live in an age where both newsroom er
 
 This was my response to my friend:
 
-These are the sources *I* read and trust. For national and international news, [The Washington Post](http://washingtonpost.com), [NPR](http://npr.org), and the [BBC](http://bbc.co.uk). I know a lot of people will say that those are politically biased, but I have been some of these newsrooms and I can tell you that's not how they make decisions. There has been a focused campaign trying to get people to not trust the news media, which leads to exactly the situation you're in, Donna. Some people benefit from us being really confused about what's actually going on. I'm going to post a few more things underneath this that might be helpful.
+These are the sources *I* read and trust. For national and international news, [The Washington Post](http://washingtonpost.com), [NPR](http://npr.org), and the [BBC](http://bbc.co.uk). I know a lot of people will say that those are politically biased, but I have been some of these newsrooms and I can tell you that's not how they make decisions. There has been a focused campaign trying to get people to not trust the news media, which leads to exactly the situation we are in where we don't know who or what to trust. Some people benefit from us being really confused about what's actually going on. I'm going to post a few more things underneath this that might be helpful.
 
 Here's a chart looking at news sources in the US in terms of their political viewpoint. The labels are funny, but the analysis is serious.
 
