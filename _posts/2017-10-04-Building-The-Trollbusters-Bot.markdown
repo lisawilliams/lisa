@@ -48,7 +48,7 @@ Ultimately, I went to [TARS](http://hellotars.com), a bot designer tool that Mic
 
 <H3>The Bot Voice</H3>
 
-Many bots are scripted in such a way that they're, well, funny; their creators give the bots a self-deprecating sense of humor, perhaps to distinguish chatbots from the "press one for account information" phone systems that nobody seems to love. 
+Many bots are scripted in such a way that they're, well, funny; their creators give the bots a self-deprecating sense of humor, perhaps to distinguish chatbots from the "press one for account information" phone systems that nobody seems to love.
 
 However, Michelle and I both felt that the Trollbusters bot had to have a voice that was reserved, calm, professional in tone. I also made a deliberate choice to keep the bot's questions to users almost exclusively yes/no questions, and made lots of use of predefined buttons that users could click to respond, rather than expecting them to type. Online harassment is upsetting and can be very frightening; I didn't want a user to have to think of how to describe their experience or what to do next. I wanted to keep it as simple and clear as possible.
 
@@ -61,4 +61,4 @@ After tooling around three separate bot platforms for this project, here are a f
 
 <h3>Future Directions</h3>
 
-The bot is currently in review for approval at Facebook. Once it is deployed, it will be available to people who visit [Trollbusters' Facebook page](https://www.facebook.com/onlinetrollbusters/) by clicking the "Send Message" button. I also hope to deploy it on the web to Trollbusters' website. We would love to find ways for the bot to operate directly within Twitter, where a lot of the incidents Trollbusters responds to happen. We're also [keeping an issue queue](https://github.com/lisawilliams/TrollbustersBotQA/issues?utf8=%E2%9C%93&q=is%3Aissue%20) to track user feedback and have a place to hold on to ideas for potential enhancements for the bot.
+The bot is currently live and available at [Trollbusters' Facebook page](https://www.facebook.com/onlinetrollbusters/) by clicking the "Send Message" button. We also have the option to deploy it on the web to Trollbusters' website. We would love to find ways for the bot to operate directly within Twitter, where a lot of the incidents Trollbusters responds to happen. We're also [keeping an issue queue](https://github.com/lisawilliams/TrollbustersBotQA/issues?utf8=%E2%9C%93&q=is%3Aissue%20) to track user feedback and have a place to hold on to ideas for potential enhancements for the bot. If you've got ideas or suggestions, feel free to file an issue. 
