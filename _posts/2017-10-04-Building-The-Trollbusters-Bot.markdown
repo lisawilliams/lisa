@@ -12,6 +12,8 @@ categories: tech
 
 [Trollbusters](http://troll-busters.com) is the brainchild of Michelle Ferrier, a distinguished journalist and journalism professor. The service offers "just in time pest control for women writers."
 
+<h3>Why Trollbusters?</h3>
+
 *"Almost two-thirds of women journalists polled have experienced intimidation, threats or abuse in relation to their work. More than 25 percent of “verbal, written and/or physical intimidation including threats to family or friends” took place online."*
 
 Both Michelle and I have personal experience with threats and intimidation for our writings. You can read more about what led Michelle to create Trollbusters in
@@ -20,6 +22,10 @@ Both Michelle and I have personal experience with threats and intimidation for o
 My partner Heather died in March of 2017 of a sudden cardiac arrest. She was an artist, and after I posted an essay about her life and work online, I recieved horrible threats and abuse. They included homophobic slurs, threats of violence, and conspiracy theories.
 
 After my partner died, I took the summer to recuperate and took a 12-week web development intensive offered by [General Assembly Boston](https://generalassemb.ly/) to expand my skills and give me something to focus on that was mentally absorbing but not emotionally taxing. Since then I have created several things on my own or with others, including the [Hurricane Harvey Senior Homes Tracker](https://lisawilliams.github.io/lisa/tech/2017/08/28/Hurricane-Harvey-Senior-Tracker.html), and my latest project, the Trollbusters Bot. The Trollbusters Bot helps women experiencing online harassment find the resources Michelle has created at Trollbusters as quickly as possible.
+
+<h3>Why a bot?</h3>
+
+Well, because bots are fun! However, we also had a more serious reason to start experimenting with bots: they can provide faster triage and routing, getting people who are the targets of online harassment to relevant resources faster. In addition, a bot can be available 24 hours a day. Online harassment isn't a 9 to 5 business; many incidents happen late at night or in the early hours of the morning. Having a bot available to take users through a triage process to help them get to responses we know work 24 hours a day is something that's useful. 
 
 <h3>Planning the Project</h3>
 
@@ -46,7 +52,7 @@ Ultimately, I went to [TARS](http://hellotars.com), a bot designer tool that Mic
 
 After tooling around three separate bot platforms for this project, here are a few observations:
 
-* **Deployment and Facebook Integration Are The Hardest Parts of the Project** Regardless of what platform I chose, the hardest parts of the project had nothing to do with the actual core code that defined the interaction between a bot and a user: the hard part was deployment, particularly Facebook integration. Of course, the Facebook API is a moving target, which is challenging for bot platform developers. It reminds me of my experiences with data visualization and data journalism: I often spend more time on data cleanup and setting up an app environment than I actually do making the visualization itself. 
+* **Deployment and Facebook Integration Are The Hardest Parts of the Project** Regardless of what platform I chose, the hardest parts of the project had nothing to do with the actual core code that defined the interaction between a bot and a user: the hard part was deployment, particularly Facebook integration. Of course, the Facebook API is a moving target, which is challenging for bot platform developers. It reminds me of my experiences with data visualization and data journalism: I often spend more time on data cleanup and setting up an app environment than I actually do making the visualization itself.
 * **Heroku is really great, once you get the hang of it.** As part of experimenting with Botpress, I had to deploy a Node.js application to Heroku and hook a Postgres database to it. As I mentioned above, deployment can be the toughest part to master. One of the reasons for this is that often bot tools have features or plugins that don't work on every platform you'd want to deploy on. So when I installed Rivescript, a plugin that allows for faster scripting of bot interactions, I was disappointed to realize that the scripts I'd uploaded disappeared each time I ran `heroku restart` because Rivescript was looking for its own pSQL database, and there were no docs to try to figure out how to get the deployed application on Heroku to have two databases (also, a single app with two databases...for a simple app this just seemed like a bad idea). That said, the ability to quickly provision a new server and connect it directly to an existing code repository, and be able to push new changes to a deployed server with a few keystrokes is pretty amazing. It's also great to have a localhost server and a development server, so you're not pushing changes to the live version all the time; I could try out something locally and only push it when I was sure it was working.
 
 <h3>Future Directions</h3>
