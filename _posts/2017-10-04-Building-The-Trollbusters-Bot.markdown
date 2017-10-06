@@ -46,6 +46,12 @@ I was initially really enthusiastic about [Botpress](http://botpress.io), an ope
 
 Ultimately, I went to [TARS](http://hellotars.com), a bot designer tool that Michelle had suggested early on. Creating a branching structure of yes/no questions, which we needed to do for this project, was very easy to do with TARS. As with Botpress, I found that initial deployment and integration with Facebook was a little tricky. Members of the community, including TARS founder Ish Jindal, provided just-in-time help me get deployment details right.
 
+<H3>The Bot Voice</H3>
+
+Many bots are scripted in such a way that they're, well, funny; their creators give the bots a self-deprecating sense of humor, perhaps to distinguish chatbots from the "press one for account information" phone systems that nobody seems to love. 
+
+However, Michelle and I both felt that the Trollbusters bot had to have a voice that was reserved, calm, professional in tone. I also made a deliberate choice to keep the bot's questions to users almost exclusively yes/no questions, and made lots of use of predefined buttons that users could click to respond, rather than expecting them to type. Online harassment is upsetting and can be very frightening; I didn't want a user to have to think of how to describe their experience or what to do next. I wanted to keep it as simple and clear as possible.
+
 <H3>The Bot Building Experience</H3>
 
 After tooling around three separate bot platforms for this project, here are a few observations:
