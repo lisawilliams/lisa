@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Eulogy For A Fairy Princess
-date:   2017-10-10 15:37:00 -0400
+date:   2017-03-26 15:37:00 -0400
 categories: art
 ---
 
