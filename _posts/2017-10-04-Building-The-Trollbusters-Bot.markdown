@@ -19,7 +19,7 @@ categories: tech
 Both Michelle and I have personal experience with threats and intimidation for our writings. You can read more about what led Michelle to create Trollbusters in
 [this interview](https://www.dailydot.com/irl/troll-busters-online-harassment/).
 
-My partner Heather died in March of 2017 of a sudden cardiac arrest. She was an artist, and after I posted an essay about her life and work online, I recieved horrible threats and abuse. They included homophobic slurs, threats of violence, and conspiracy theories.
+My partner Heather died in March of 2017 of a sudden cardiac arrest. She was an artist, and after [I posted an essay about her life and work online](https://lisawilliams.github.io/lisa/art/2017/03/26/eulogy-for-a-fairy-princess-heather-adels.html), I recieved horrible threats and abuse. They included homophobic slurs, threats of violence, and conspiracy theories.
 
 <h3>Why a bot?</h3>
 
@@ -61,4 +61,4 @@ After tooling around three separate bot platforms for this project, here are a f
 
 <h3>Future Directions</h3>
 
-The bot is currently live and available at [Trollbusters' Facebook page](https://www.facebook.com/onlinetrollbusters/) by clicking the "Send Message" button. We also have the option to deploy it on the web to Trollbusters' website. We would love to find ways for the bot to operate directly within Twitter, where a lot of the incidents Trollbusters responds to happen. We're also [keeping an issue queue](https://github.com/lisawilliams/TrollbustersBotQA/issues?utf8=%E2%9C%93&q=is%3Aissue%20) to track user feedback and have a place to hold on to ideas for potential enhancements for the bot. If you've got ideas or suggestions, feel free to file an issue. 
+The bot is currently live and available at [Trollbusters' Facebook page](https://www.facebook.com/onlinetrollbusters/) by clicking the "Send Message" button. We also have the option to deploy it on the web to Trollbusters' website. We would love to find ways for the bot to operate directly within Twitter, where a lot of the incidents Trollbusters responds to happen. We're also [keeping an issue queue](https://github.com/lisawilliams/TrollbustersBotQA/issues?utf8=%E2%9C%93&q=is%3Aissue%20) to track user feedback and have a place to hold on to ideas for potential enhancements for the bot. If you've got ideas or suggestions, feel free to file an issue.
