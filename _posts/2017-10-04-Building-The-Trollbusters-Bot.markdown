@@ -23,7 +23,7 @@ My partner Heather died in March of 2017 of a sudden cardiac arrest. She was an 
 
 <h3>Why a bot?</h3>
 
-Well, because bots are fun! However, we also had a more serious reason to start experimenting with bots: they can provide faster triage and routing, getting people who are the targets of online harassment to relevant resources faster. In addition, a bot can be available 24 hours a day. Online harassment isn't a 9 to 5 business; many incidents happen late at night or in the early hours of the morning. Having a bot available to take users through a triage process to help them get to responses we know work 24 hours a day is something that's useful.
+Bots can provide faster triage and routing, getting people who are the targets of online harassment to relevant resources faster. In addition, a bot can be available 24 hours a day. Online harassment isn't a 9 to 5 business; many incidents happen late at night or in the early hours of the morning. Having a bot available to take users through a triage process to help them get to responses we know work 24 hours a day is something that's useful.
 
 <h3>Planning the Project</h3>
 
