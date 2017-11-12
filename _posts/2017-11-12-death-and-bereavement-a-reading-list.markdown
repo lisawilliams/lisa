@@ -16,7 +16,7 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 
 ## Books
 
-[Death, An Oral History](https://www.amazon.com/Death-Oral-History-Casey-Jarman/dp/1942186126) by Casey Jarman
+**[Death, An Oral History](https://www.amazon.com/Death-Oral-History-Casey-Jarman/dp/1942186126)** by Casey Jarman
 
 Jarman spent a year talking to everyone from bereavement counselors to artists about their experiences with death and bereavement:
 
@@ -26,13 +26,17 @@ Jarman spent a year talking to everyone from bereavement counselors to artists a
 
 Bless you, child. Note: you may breathe easy in the knowledge that this compilation of resources will not contain a single TED talk.
 
-[Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/Option-Adversity-Building-Resilience-Finding-ebook/dp/B01N8R5QD7/ref=sr_1_1?ie=UTF8&qid=1510511326&sr=8-1&keywords=option+b), Sheryl Sandberg
+**[Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/Option-Adversity-Building-Resilience-Finding-ebook/dp/B01N8R5QD7/ref=sr_1_1?ie=UTF8&qid=1510511326&sr=8-1&keywords=option+b)**, Sheryl Sandberg
 
 Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, Lean In. Many people criticized Lean In for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. For those of us in LGBT partnerships, we cannot always expect that family or others will respond helpfully, and many of us face attacks or disenfranchisement in our grief.  However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
 
 ## Articles
 
 [The Space Between Mourning and Grief](https://www.theatlantic.com/entertainment/archive/2016/06/internet-grief/485864/), Claire Wilmot, The Atlantic Monthly, June 8, 2016. "Social media has made it easy to share condolences after a death—but it hasn’t led to an online culture that’s more sensitive about loss."
+
+[The Secret Life of Grief](https://www.theatlantic.com/health/archive/2013/12/the-secret-life-of-grief/281992/), Derek Thompson, The Atlantic Monthly, December 3, 2013. "My mom’s cancer and the science of resilience."
+
+[Understanding How Grief Weakens the Body](https://www.theatlantic.com/health/archive/2014/09/understanding-how-grief-weakens-the-body/380006/), Cari Romm, September 11, 2014
 
 
 
