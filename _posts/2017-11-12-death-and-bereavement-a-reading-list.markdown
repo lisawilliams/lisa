@@ -30,6 +30,12 @@ Bless you, child. Note: you may breathe easy in the knowledge that this compilat
 
 Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, Lean In. Many people criticized Lean In for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. For those of us in LGBT partnerships, we cannot always expect that family or others will respond helpfully, and many of us face attacks or disenfranchisement in our grief.  However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
 
+## Articles
+
+[The Space Between Mourning and Grief](https://www.theatlantic.com/entertainment/archive/2016/06/internet-grief/485864/), Claire Wilmot, The Atlantic Monthly, June 8, 2016. "Social media has made it easy to share condolences after a death—but it hasn’t led to an online culture that’s more sensitive about loss."
+
+
+
 ## Podcasts
 
 [What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.
