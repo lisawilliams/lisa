@@ -2,7 +2,7 @@
 layout: post
 title:  "Death and Bereavement: A Curated Reading List"
 date:   2017-11-12 01:15:39 -0400
-categories: Death
+categories: other
 ---
 
 
@@ -28,7 +28,7 @@ Bless you, child. Note: you may breathe easy in the knowledge that this compilat
 
 ## Podcasts
 
-What's Your Grief
+[What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.
 
 ## Research
 
@@ -65,5 +65,5 @@ The Grief Therapy Method involves a process of walking through a review of a rel
 
 ### Citations:
 
-Jarman, M. C., & Weeber, B. (2016). Death: an oral history. San Francisco, CA: Pulp.
+Jarman, M. C., & Weeber, B. (2016). Death: an oral history. San Francisco, CA: Pulp.<br>
 James, J. W. (2009). The Grief Recovery Handbook: 20th Anniversary Edition. Harpercollins.
