@@ -20,9 +20,9 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 
 Jarman spent a year talking to everyone from bereavement counselors to artists about their experiences with death and bereavement:
 
-*Even after finishing this project, I haven't "gotten over" death. I'm pretty sure there's no getting over it. But in talking to people who have found ways trhough, under, and around it, I'm measurably less terrified than I used to be.*
+*Even after finishing this project, I haven't "gotten over" death. I'm pretty sure there's no getting over it. But in talking to people who have found ways through, under, and around it, I'm measurably less terrified than I used to be.*
 
-*While I edited interviews for length and clirity, it was important to me to let these conversations roam free. My goal is not to indulge in a cheeky metaphor about the complexity of death itself -- which truly will not be compartmentalized -- but to subvert the now-ubiquitous TED Talk paradigm of tidy stories fit for on-the-go consumption.*
+*While I edited interviews for length and clarity, it was important to me to let these conversations roam free. My goal is not to indulge in a cheeky metaphor about the complexity of death itself -- which truly will not be compartmentalized -- but to subvert the now-ubiquitous TED Talk paradigm of tidy stories fit for on-the-go consumption.*
 
 Bless you, child. Note: you may breathe easy in the knowledge that this compilation of resources will not contain a single TED talk.
 
@@ -30,17 +30,26 @@ Bless you, child. Note: you may breathe easy in the knowledge that this compilat
 
 Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, Lean In. Many people criticized Lean In for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. For those of us in LGBT partnerships, we cannot always expect that family or others will respond helpfully, and many of us face attacks or disenfranchisement in our grief.  However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
 
+*Many more to add here.*
+
+## Podcasts
+
+[What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.
+
+## Blogs
+
+[Refuge in Grief](http://www.refugeingrief.com/), Megan Devine
+[What's Your Grief](https://whatsyourgrief.com/), Litsa Williams and Eleanor Haley
+[Grief Healing Blog](https://www.griefhealingblog.com/)
+[Modern Loss](http://modernloss.com/)
+
 ## Articles
 
 [The Space Between Mourning and Grief](https://www.theatlantic.com/entertainment/archive/2016/06/internet-grief/485864/), Claire Wilmot, The Atlantic Monthly, June 8, 2016. "Social media has made it easy to share condolences after a death—but it hasn’t led to an online culture that’s more sensitive about loss."
 
 [The Secret Life of Grief](https://www.theatlantic.com/health/archive/2013/12/the-secret-life-of-grief/281992/), Derek Thompson, The Atlantic Monthly, December 3, 2013. "My mom’s cancer and the science of resilience."
 
-[Understanding How Grief Weakens the Body](https://www.theatlantic.com/health/archive/2014/09/understanding-how-grief-weakens-the-body/380006/), Cari Romm, September 11, 2014
-
-## Podcasts
-
-[What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.
+[Understanding How Grief Weakens the Body](https://www.theatlantic.com/health/archive/2014/09/understanding-how-grief-weakens-the-body/380006/), Cari Romm, The Atlantic Monthly, September 11, 2014
 
 ## Research
 
