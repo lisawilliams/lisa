@@ -38,10 +38,10 @@ Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. 
 
 ## Blogs
 
-[Refuge in Grief](http://www.refugeingrief.com/), Megan Devine
-[What's Your Grief](https://whatsyourgrief.com/), Litsa Williams and Eleanor Haley
-[Grief Healing Blog](https://www.griefhealingblog.com/)
-[Modern Loss](http://modernloss.com/)
+[Refuge in Grief](http://www.refugeingrief.com/), Megan Devine<br>
+[What's Your Grief](https://whatsyourgrief.com/), Litsa Williams and Eleanor Haley<br>
+[Grief Healing Blog](https://www.griefhealingblog.com/)<br>
+[Modern Loss](http://modernloss.com/)<br>
 
 ## Articles
 
