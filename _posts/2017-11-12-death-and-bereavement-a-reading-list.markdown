@@ -38,8 +38,6 @@ Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. 
 
 [Understanding How Grief Weakens the Body](https://www.theatlantic.com/health/archive/2014/09/understanding-how-grief-weakens-the-body/380006/), Cari Romm, September 11, 2014
 
-
-
 ## Podcasts
 
 [What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.
@@ -66,6 +64,17 @@ Can't stop thinking about your loss? Can't stop thinking that there will be more
 
 Eisma, M. C., Schut, H. A. W., Stroebe, M. S., van den Bout, J., Stroebe, W., & Boelen, P. A. (2014). Is Rumination after Bereavement Linked with Loss Avoidance? Evidence from Eye-Tracking. PLoS ONE, 9(8), e104980. http://doi.org/10.1371/journal.pone.0104980
 
+## Disenfranchised Grief
+
+Disenfranchised grief happens when a person dies and that person's family or community may not recognize or approve of your relationship with that person. It's common among LGBT people. It can include being left out of the obituary, excluded from planning or participating fully in funeral rituals, and being excluded in planning for a person's legacy. LGBT people may also face homophobic attacks when they talk about the death of a loved one.
+
+[Disenfranchised Grief after the loss of a partner](https://www.grieflink.com/disenfranchised-loss-after-death-partner-lgbt-community)
+
+## Grief and Bereavement Among LGBT People
+
+[How Death and Dying Changed My Perspective on LGBT Rights](https://www.calebwilde.com/2015/06/how-death-and-dying-changed-my-perspective-on-lgbt-rights/), Caleb Wilde, a funeral director.
+
+[Grief and Mourning: Lesbian Widow Finds No Support in Group](https://www.griefhealingblog.com/2016/01/in-grief-lesbian-widow-finds-no-support.html) Grief Healing Blog.
 
 ## Grief recovery methods & grief therapy modalities
 
