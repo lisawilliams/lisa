@@ -16,6 +16,20 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 
 ## Books
 
+*Currently on my to-read stack*
+
+**[From Here To Eternity](https://www.amazon.com/Here-Eternity-Traveling-World-Death/dp/0393249891/ref=sr_1_1?s=books&ie=UTF8&qid=1510682286&sr=1-1)** by Caitlin Doughty. <br>
+**[Confessions of a Funeral Director](https://www.amazon.com/Confessions-Funeral-Director-Business-Death-ebook/dp/B01N7SRKB4/ref=sr_1_1?s=books&ie=UTF8&qid=1510682315&sr=1-1)** by Caleb Wilde. <br>
+
+*Want to read*
+
+**[Smoke Gets In Your Eyes and Other Lessons from the Crematory](https://www.amazon.com/dp/0393351904/_encoding=UTF8?coliid=I1IYXU6HN873HX&colid=37B4KNLI7MRU3)** by Caitlin Doughty.<br>
+**[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/dp/0393334872/_encoding=UTF8?coliid=I3JUYMXB58TENS&colid=37B4KNLI7MRU3)**, by Thomas Lynch. <BR>
+**[Good Mourning](https://www.amazon.com/dp/1476783640/_encoding=UTF8?coliid=IPZ813THDMDDG&colid=37B4KNLI7MRU3)** by Elizabeth Meyer.<BR>
+
+
+*Reading*
+
 **[Death, An Oral History](https://www.amazon.com/Death-Oral-History-Casey-Jarman/dp/1942186126)** by Casey Jarman
 
 Jarman spent a year talking to everyone from bereavement counselors to artists about their experiences with death and bereavement:
@@ -26,11 +40,13 @@ Jarman spent a year talking to everyone from bereavement counselors to artists a
 
 Bless you, child. Note: you may breathe easy in the knowledge that this compilation of resources will not contain a single TED talk.
 
+*Read*
+
 **[Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/Option-Adversity-Building-Resilience-Finding-ebook/dp/B01N8R5QD7/ref=sr_1_1?ie=UTF8&qid=1510511326&sr=8-1&keywords=option+b)**, Sheryl Sandberg
 
 Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, Lean In. Many people criticized Lean In for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. For those of us in LGBT partnerships, we cannot always expect that family or others will respond helpfully, and many of us face attacks or disenfranchisement in our grief.  However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
 
-*Many more to add here.*
+**[The Grief Recovery Handbook]()** by John James and Russell Friedman. A very step-by step, action-oriented approach to grief with writing exercises.
 
 ## Podcasts
 
