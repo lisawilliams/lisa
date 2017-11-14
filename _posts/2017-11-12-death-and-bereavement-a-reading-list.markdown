@@ -113,9 +113,3 @@ The Grief Therapy Method involves a process of walking through a review of a rel
 [The Center for Complicated Grief](https://complicatedgrief.columbia.edu/) produces a handbook for therapists who are treating patients with complicated grief. The method involves retelling the story of the death out loud, recording it, and relistening to it between sessions with a therapist, among other things.
 
 *There are many other grief recovery modalities, of course. Personal note: I did not use either of these modalities. I objected to the insistence in Grief Recovery Method that all letters to the person you've lost end with 'Goodbye.' I actually don't want to say goodbye. Complicated Grief Therapy, with its repeated retellings and relistenings, is not something that I personally would engage in.*
-
-### Citations:
-
-Jarman, M. C., & Weeber, B. (2016). Death: an oral history. San Francisco, CA: Pulp.<br>
-James, J. W. (2009). The Grief Recovery Handbook: 20th Anniversary Edition. Harpercollins.<br>
-Sandberg, S., & Grant, A. M. (2017). Option B: facing adversity, building resilience, and finding joy. London: WH Allen.<br>
