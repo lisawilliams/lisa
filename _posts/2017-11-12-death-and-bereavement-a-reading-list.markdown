@@ -27,7 +27,9 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 **[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/dp/0393334872/_encoding=UTF8?coliid=I3JUYMXB58TENS&colid=37B4KNLI7MRU3)**, by Thomas Lynch. <BR>
 **[Good Mourning](https://www.amazon.com/dp/1476783640/_encoding=UTF8?coliid=IPZ813THDMDDG&colid=37B4KNLI7MRU3)** by Elizabeth Meyer.<BR>
 **[It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.com/Its-That-Youre-Not-Understand/dp/1622039076/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&dpID=41YU8Xa4pzL&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=detail)**, by Megan Devine<br>
-
+**[Pardon My Hearse](https://www.amazon.com/Pardon-Hearse-Entertainment-Industries-Hollywood/dp/1610352483/ref=pd_sim_14_10?_encoding=UTF8&psc=1&refRID=4RVYW0PMBVZQ3ZSMNDZM)**, by Allan and Greg Abbott. <BR>
+**[Nine Years Under: Coming of Age in an Inner City Funeral Home](https://www.amazon.com/Nine-Years-Under-Inner-City-Funeral/dp/1592407625/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=W78WGBAF756YWZ1HMKB6)**, by Sheri Booker<br>
+**[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/Second-Firsts-Live-Laugh-Again/dp/1401940838/ref=sr_1_1_twi_pap_2?s=books&ie=UTF8&qid=1510686025&sr=1-1&keywords=second+firsts)**, by Christina Rasmussen<BR>
 
 *Reading*
 
