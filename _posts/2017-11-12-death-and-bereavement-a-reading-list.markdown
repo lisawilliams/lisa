@@ -26,6 +26,7 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 **[Smoke Gets In Your Eyes and Other Lessons from the Crematory](https://www.amazon.com/dp/0393351904/_encoding=UTF8?coliid=I1IYXU6HN873HX&colid=37B4KNLI7MRU3)** by Caitlin Doughty.<br>
 **[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/dp/0393334872/_encoding=UTF8?coliid=I3JUYMXB58TENS&colid=37B4KNLI7MRU3)**, by Thomas Lynch. <BR>
 **[Good Mourning](https://www.amazon.com/dp/1476783640/_encoding=UTF8?coliid=IPZ813THDMDDG&colid=37B4KNLI7MRU3)** by Elizabeth Meyer.<BR>
+**[It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.com/Its-That-Youre-Not-Understand/dp/1622039076/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&dpID=41YU8Xa4pzL&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=detail)**, by Megan Devine<br>
 
 
 *Reading*
