@@ -47,7 +47,9 @@ Bless you, friend. Note: you may breathe easy in the knowledge that this compila
 
 Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, Lean In. Many people criticized Lean In for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
 
-**[The Grief Recovery Handbook](https://www.amazon.com/gp/product/0061686077/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061686077&linkId=1b477f89d37f6004470c98bcdffd08e3)** by John James and Russell Friedman. A very step-by step, action-oriented approach to grief with writing exercises. I enjoyed the straightforward, active approach, but ultimately I opted not to follow through with the exercises, which I felt focused on closure over continuing bonds. YMMV.
+**[The Grief Recovery Handbook](https://www.amazon.com/gp/product/0061686077/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061686077&linkId=1b477f89d37f6004470c98bcdffd08e3)** by John James and Russell Friedman.
+
+A very step-by step, action-oriented approach to grief with writing exercises. I enjoyed the straightforward, active approach, but ultimately I opted not to follow through with the exercises, which I felt focused on closure over continuing bonds. YMMV.
 
 ## Podcasts
 
@@ -83,7 +85,7 @@ M. Katherine Shear, M.D., Ellen Frank, Ph.D., Edna Foa, Ph.D., Christine Cherry,
 
 _[Grief and Bereavement: What Psychiatrists Need To Know](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2691160/)_
 
-A good overview of how professionals currently think about grief and bereavement, including the difference between "normal" and "complicated" grief. Note: professionals' ideas about nearly every aspect of psychiatry has changed radically over the last 100 years. Nothing is the last word, and your lived experience is more important than anyone's theory.
+A good overview of how professionals contemporary attitudes toward grief and bereavement, including the difference between "normal" and "complicated" grief. Note: professionals' ideas about nearly every aspect of psychiatry has changed radically over the last 100 years. Nothing is the last word, and your lived experience is more important than anyone's theory.
 
 ZISOOK, S., & SHEAR, K. (2009). Grief and bereavement: what psychiatrists need to know. World Psychiatry, 8(2), 67–74.
 
