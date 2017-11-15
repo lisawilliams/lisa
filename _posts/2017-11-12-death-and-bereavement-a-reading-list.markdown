@@ -8,7 +8,7 @@ categories: other
 
 ![Figure of the reaper with motto This Too Shall Pass](https://farm5.staticflickr.com/4581/38364280031_27d1ccf543.jpg)
 
-As I passed into the region of grief and bereavement after my partner died, I was disappointed at the poor quality of the Google-able resources on the topic of grief and bereavement. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
+As I passed into the region of grief and bereavement after [my partner died](byrslf.co/i-want-to-tell-you-about-heather-732b303759d9), I was disappointed at the poor quality of the Google-able resources on the topic of grief and bereavement. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
 
 Below are the books, articles, and scholarly papers which I found useful and which informed my own approach to grief recovery.
 
@@ -39,7 +39,7 @@ Jarman spent a year talking to everyone from bereavement counselors to artists a
 
 *Even after finishing this project, I haven't "gotten over" death. I'm pretty sure there's no getting over it. But in talking to people who have found ways through, under, and around it, I'm measurably less terrified than I used to be. While I edited interviews for length and clarity, it was important to me to let these conversations roam free. My goal is not to indulge in a cheeky metaphor about the complexity of death itself -- which truly will not be compartmentalized -- but to subvert the now-ubiquitous TED Talk paradigm of tidy stories fit for on-the-go consumption.*
 
-Bless you, child. Note: you may breathe easy in the knowledge that this compilation of resources will not contain a single TED talk.
+Bless you, friend. Note: you may breathe easy in the knowledge that this compilation of resources will not contain a single TED talk.
 
 *Read*
 
