@@ -35,10 +35,10 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 
 These books were suggested by friends & community members in response to this list:<BR>
 
-[The Five Invitations](https://www.amazon.com/gp/product/1250074657/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250074657&linkId=2b3c7785db587a5ca89632582f92c381) by Frank Ostaseski.<BR>
-[The Year of Magical Thinking](https://www.amazon.com/gp/product/1400078431/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1400078431&linkId=99e93e078da61c4a09bd4d82e7ed9953) by Joan Didion.<BR>
-[Blue Nights](https://www.amazon.com/gp/product/0307387380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307387380&linkId=d80c3c5332047fe0c9a5de37dac6a116), by Joan Didion.<BR>
-[A Widow's Story](https://www.amazon.com/gp/product/0062020501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062020501&linkId=b6244a08e15ff43b6883d57093d73f5f), by Joyce Carol Oates.<BR>
+**[The Five Invitations](https://www.amazon.com/gp/product/1250074657/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250074657&linkId=2b3c7785db587a5ca89632582f92c381)**, by Frank Ostaseski.<BR>
+**[The Year of Magical Thinking](https://www.amazon.com/gp/product/1400078431/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1400078431&linkId=99e93e078da61c4a09bd4d82e7ed9953)**, by Joan Didion.<BR>
+**[Blue Nights](https://www.amazon.com/gp/product/0307387380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307387380&linkId=d80c3c5332047fe0c9a5de37dac6a116)**, by Joan Didion.<BR>
+**[A Widow's Story](https://www.amazon.com/gp/product/0062020501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062020501&linkId=b6244a08e15ff43b6883d57093d73f5f)**, by Joyce Carol Oates.<BR>
 
 
 *Reading*
@@ -86,7 +86,7 @@ A very step-by step, action-oriented approach to grief with writing exercises. I
 
 [Why Grief Is A Series of Expansions And Contractions](https://tricycle.org/trikedaily/grief-series-contractions-expansions/), Joanne Cacciatore, June 29, 2017. A Buddhist perspective from Tricycle magazine.
 
-[Henrietta](https://damnjoan.com/henrietta)
+[Henrietta](https://damnjoan.com/henrietta), the tale of a radical funeral director who smuggled slaves to freedom in funeral processions, by Kaitlyn Greenidge in Damn Joan, 2017.
 
 ## Research
 
