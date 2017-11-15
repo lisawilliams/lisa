@@ -18,22 +18,22 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 
 *Currently on my to-read stack*
 
-**[From Here To Eternity](https://www.amazon.com/Here-Eternity-Traveling-World-Death/dp/0393249891/ref=sr_1_1?s=books&ie=UTF8&qid=1510682286&sr=1-1)** by Caitlin Doughty. <br>
-**[Confessions of a Funeral Director](https://www.amazon.com/Confessions-Funeral-Director-Business-Death-ebook/dp/B01N7SRKB4/ref=sr_1_1?s=books&ie=UTF8&qid=1510682315&sr=1-1)** by Caleb Wilde. <br>
+**[From Here To Eternity](https://www.amazon.com/gp/product/0393249891/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393249891&linkId=6670ed2d2418bb8a50646a9d71cdf090)** by Caitlin Doughty. <br>
+**[Confessions of a Funeral Director](https://www.amazon.com/gp/product/0062465244/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062465244&linkId=937dd64ad618dd606e26e983a173b192)** by Caleb Wilde. <br>
 
 *Want to read*
 
-**[Smoke Gets In Your Eyes and Other Lessons from the Crematory](https://www.amazon.com/dp/0393351904/_encoding=UTF8?coliid=I1IYXU6HN873HX&colid=37B4KNLI7MRU3)** by Caitlin Doughty.<br>
-**[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/dp/0393334872/_encoding=UTF8?coliid=I3JUYMXB58TENS&colid=37B4KNLI7MRU3)**, by Thomas Lynch. <BR>
-**[Good Mourning](https://www.amazon.com/dp/1476783640/_encoding=UTF8?coliid=IPZ813THDMDDG&colid=37B4KNLI7MRU3)** by Elizabeth Meyer.<BR>
-**[It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.com/Its-That-Youre-Not-Understand/dp/1622039076/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&dpID=41YU8Xa4pzL&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=detail)**, by Megan Devine<br>
-**[Pardon My Hearse](https://www.amazon.com/Pardon-Hearse-Entertainment-Industries-Hollywood/dp/1610352483/ref=pd_sim_14_10?_encoding=UTF8&psc=1&refRID=4RVYW0PMBVZQ3ZSMNDZM)**, by Allan and Greg Abbott. <BR>
-**[Nine Years Under: Coming of Age in an Inner City Funeral Home](https://www.amazon.com/Nine-Years-Under-Inner-City-Funeral/dp/1592407625/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=W78WGBAF756YWZ1HMKB6)**, by Sheri Booker<br>
-**[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/Second-Firsts-Live-Laugh-Again/dp/1401940838/ref=sr_1_1_twi_pap_2?s=books&ie=UTF8&qid=1510686025&sr=1-1&keywords=second+firsts)**, by Christina Rasmussen<BR>
+**[Smoke Gets In Your Eyes and Other Lessons from the Crematory](https://www.amazon.com/gp/product/0393351904/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393351904&linkCode=as2&tag=lisawilliam0a-20&linkId=a981b5cd298a10bdfe018a894f9b8f41)** by Caitlin Doughty.<br>
+**[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/gp/product/0393334872/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393334872&linkId=a36379409258ce0e2d232db76268f05b)**, by Thomas Lynch. <BR>
+**[Good Mourning](https://www.amazon.com/gp/product/1476783616/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476783616&linkId=5396c6d61f74fddd1eabd4cededc8fb5)** by Elizabeth Meyer.<BR>
+**[It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.com/gp/product/1622039076/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1622039076&linkId=00923bebf1cba9870d93a44016b72644)**, by Megan Devine<br>
+**[Pardon My Hearse](https://www.amazon.com/gp/product/1610352483/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1610352483&linkId=8535ccdbc5f58445cf6150d474c1fca5)**, by Allan and Greg Abbott. <BR>
+**[Nine Years Under: Coming of Age in an Inner City Funeral Home](https://www.amazon.com/gp/product/1592407625/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1592407625&linkId=3b64fd54bfeda612007220ad99a7224d)**, by Sheri Booker<br>
+**[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/gp/product/1401940838/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401940838&linkId=0fe34616c2234c5dcccc81200074dbfd)**, by Christina Rasmussen<BR>
 
 *Reading*
 
-**[Death, An Oral History](https://www.amazon.com/Death-Oral-History-Casey-Jarman/dp/1942186126)** by Casey Jarman
+**[Death, An Oral History](https://www.amazon.com/gp/product/1942186126/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942186126&linkCode=as2&tag=lisawilliam0a-20&linkId=5e2b6c9aa37c266522c3d9ff955223fc)** by Casey Jarman
 
 Jarman spent a year talking to everyone from bereavement counselors to artists about their experiences with death and bereavement:
 
@@ -45,7 +45,7 @@ Bless you, child. Note: you may breathe easy in the knowledge that this compilat
 
 *Read*
 
-**[Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/Option-Adversity-Building-Resilience-Finding-ebook/dp/B01N8R5QD7/ref=sr_1_1?ie=UTF8&qid=1510511326&sr=8-1&keywords=option+b)**, Sheryl Sandberg
+**[Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/gp/product/1524732680/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1524732680&linkId=53dc24752adb3c6bbe9d7d8b472066b3)**, Sheryl Sandberg
 
 Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, Lean In. Many people criticized Lean In for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
 
