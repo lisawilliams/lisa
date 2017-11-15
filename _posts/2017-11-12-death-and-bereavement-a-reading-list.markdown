@@ -8,7 +8,7 @@ categories: other
 
 ![Figure of the reaper with motto This Too Shall Pass](https://farm5.staticflickr.com/4581/38364280031_27d1ccf543.jpg)
 
-As I passed into the region of grief and bereavement after my partner died, I was disappointed at the poor quality of the Google-able resources on the topic of grief and bereavement. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief -- which A) were intended for people who were dying, not the bereaved people they left behind and B) which Kubler-Ross herself repudiated before she died.
+As I passed into the region of grief and bereavement after my partner died, I was disappointed at the poor quality of the Google-able resources on the topic of grief and bereavement. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
 
 Below are the books, articles, and scholarly papers which I found useful and which informed my own approach to grief recovery.
 
@@ -37,9 +37,7 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 
 Jarman spent a year talking to everyone from bereavement counselors to artists about their experiences with death and bereavement:
 
-*Even after finishing this project, I haven't "gotten over" death. I'm pretty sure there's no getting over it. But in talking to people who have found ways through, under, and around it, I'm measurably less terrified than I used to be.*
-
-*While I edited interviews for length and clarity, it was important to me to let these conversations roam free. My goal is not to indulge in a cheeky metaphor about the complexity of death itself -- which truly will not be compartmentalized -- but to subvert the now-ubiquitous TED Talk paradigm of tidy stories fit for on-the-go consumption.*
+*Even after finishing this project, I haven't "gotten over" death. I'm pretty sure there's no getting over it. But in talking to people who have found ways through, under, and around it, I'm measurably less terrified than I used to be. While I edited interviews for length and clarity, it was important to me to let these conversations roam free. My goal is not to indulge in a cheeky metaphor about the complexity of death itself -- which truly will not be compartmentalized -- but to subvert the now-ubiquitous TED Talk paradigm of tidy stories fit for on-the-go consumption.*
 
 Bless you, child. Note: you may breathe easy in the knowledge that this compilation of resources will not contain a single TED talk.
 
@@ -49,7 +47,7 @@ Bless you, child. Note: you may breathe easy in the knowledge that this compilat
 
 Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, Lean In. Many people criticized Lean In for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
 
-**[The Grief Recovery Handbook]()** by John James and Russell Friedman. A very step-by step, action-oriented approach to grief with writing exercises. I enjoyed the straightforward, active approach, but ultimately I opted not to follow through with the exercises, which I felt focused on closure over continuing bonds. YMMV.
+**[The Grief Recovery Handbook](https://www.amazon.com/gp/product/0061686077/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061686077&linkId=1b477f89d37f6004470c98bcdffd08e3)** by John James and Russell Friedman. A very step-by step, action-oriented approach to grief with writing exercises. I enjoyed the straightforward, active approach, but ultimately I opted not to follow through with the exercises, which I felt focused on closure over continuing bonds. YMMV.
 
 ## Podcasts
 
@@ -70,6 +68,10 @@ Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. 
 
 [Understanding How Grief Weakens the Body](https://www.theatlantic.com/health/archive/2014/09/understanding-how-grief-weakens-the-body/380006/), Cari Romm, The Atlantic Monthly, September 11, 2014
 
+[Our Strange, Unsettled History of Mourning](https://www.newyorker.com/books/page-turner/our-strange-unsettled-history-of-mourning), By Andrea DenHoed, The New Yorker, February 3, 2016
+
+[The Rise of the Artisanal Funeral](http://www.newyorker.com/magazine/2015/11/30/our-bodies-ourselves), Rebecca Mead, The New Yorker, November 23, 2015
+
 ## Research
 
 _[Traumatic Grief Treatment: A Pilot Study](https://doi.org/10.1176/appi.ajp.158.9.1506)_
@@ -79,14 +81,14 @@ A paper on preliminary results from patients being treated with the Complicated 
 M. Katherine Shear, M.D., Ellen Frank, Ph.D., Edna Foa, Ph.D., Christine Cherry, M.S., Charles F. Reynolds, III, M.D., Joni Vander Bilt, M.P.H., and Sophia Masters, B.S. Published online: September 01, 2001  Link: https://doi.org/10.1176/appi.ajp.158.9.1506
 
 
-[Grief and Bereavement: What Psychiatrists Need To Know](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2691160/)
+_[Grief and Bereavement: What Psychiatrists Need To Know](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2691160/)_
 
 A good overview of how professionals currently think about grief and bereavement, including the difference between "normal" and "complicated" grief. Note: professionals' ideas about nearly every aspect of psychiatry has changed radically over the last 100 years. Nothing is the last word, and your lived experience is more important than anyone's theory.
 
 ZISOOK, S., & SHEAR, K. (2009). Grief and bereavement: what psychiatrists need to know. World Psychiatry, 8(2), 67–74.
 
 
-[Is Rumination after Bereavement Linked with Loss Avoidance? Evidence from Eye-Tracking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139328/)
+_[Is Rumination after Bereavement Linked with Loss Avoidance? Evidence from Eye-Tracking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139328/)_
 
 Can't stop thinking about your loss? Can't stop thinking that there will be more losses now? Researchers wanted to know if this common bereavement phenomenon was linked to avoidance of other reminders of the loss, like pictures of the person who died. Why are they interested in that? It turns out that avoiding pictures, places you've been together, or other reminders, are correlated with worse moods, depression, etc. What they found was that the constant thinking + the avoidance did go together.
 
