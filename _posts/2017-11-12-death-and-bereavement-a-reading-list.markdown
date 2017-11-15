@@ -31,6 +31,16 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 **[Nine Years Under: Coming of Age in an Inner City Funeral Home](https://www.amazon.com/gp/product/1592407625/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1592407625&linkId=3b64fd54bfeda612007220ad99a7224d)**, by Sheri Booker.<br>
 **[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/gp/product/1401940838/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401940838&linkId=0fe34616c2234c5dcccc81200074dbfd)**, by Christina Rasmussen.<BR>
 
+*Suggested Readings*
+
+These books were suggested by friends & community members in response to this list:<BR>
+
+[The Five Invitations](https://www.amazon.com/gp/product/1250074657/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250074657&linkId=2b3c7785db587a5ca89632582f92c381) by Frank Ostaseski.<BR>
+[The Year of Magical Thinking](https://www.amazon.com/gp/product/1400078431/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1400078431&linkId=99e93e078da61c4a09bd4d82e7ed9953) by Joan Didion.<BR>
+[Blue Nights](https://www.amazon.com/gp/product/0307387380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307387380&linkId=d80c3c5332047fe0c9a5de37dac6a116), by Joan Didion.<BR>
+[A Widow's Story](https://www.amazon.com/gp/product/0062020501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062020501&linkId=b6244a08e15ff43b6883d57093d73f5f), by Joyce Carol Oates.<BR>
+
+
 *Reading*
 
 **[Death, An Oral History](https://www.amazon.com/gp/product/1942186126/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942186126&linkCode=as2&tag=lisawilliam0a-20&linkId=5e2b6c9aa37c266522c3d9ff955223fc)** by Casey Jarman.
@@ -73,6 +83,10 @@ A very step-by step, action-oriented approach to grief with writing exercises. I
 [Our Strange, Unsettled History of Mourning](https://www.newyorker.com/books/page-turner/our-strange-unsettled-history-of-mourning), By Andrea DenHoed, The New Yorker, February 3, 2016
 
 [The Rise of the Artisanal Funeral](http://www.newyorker.com/magazine/2015/11/30/our-bodies-ourselves), Rebecca Mead, The New Yorker, November 23, 2015
+
+[Why Grief Is A Series of Expansions And Contractions](https://tricycle.org/trikedaily/grief-series-contractions-expansions/), Joanne Cacciatore, June 29, 2017. A Buddhist perspective from Tricycle magazine.
+
+[Henrietta](https://damnjoan.com/henrietta)
 
 ## Research
 
