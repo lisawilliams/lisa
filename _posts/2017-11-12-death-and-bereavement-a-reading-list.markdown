@@ -88,6 +88,12 @@ A very step-by step, action-oriented approach to grief with writing exercises. I
 
 [Henrietta](https://damnjoan.com/henrietta), the tale of a radical funeral director who smuggled slaves to freedom in funeral processions, by Kaitlyn Greenidge in Damn Joan, 2017.
 
+[Quest for Solace](http://www.espn.com/espn/feature/story/_/page/espnw-keith170302/iditarod-competitor-loses-everything-finds-solace-alaska-wilderness), by Matt Crossman in ESPN-W.
+
+[All The Things That Remind Me Of Her](https://www.salon.com/2010/11/25/jennifers_40_birthday_seitz_essay/?src=longreads), by Matt Zoller-Seitz, Slate.
+
+
+
 ## Research
 
 _[Traumatic Grief Treatment: A Pilot Study](https://doi.org/10.1176/appi.ajp.158.9.1506)_
@@ -122,7 +128,7 @@ Disenfranchised grief happens when a person dies and that person's family or com
 
 [Grief and Mourning: Lesbian Widow Finds No Support in Group](https://www.griefhealingblog.com/2016/01/in-grief-lesbian-widow-finds-no-support.html) Grief Healing Blog.
 
-## Grief recovery methods & grief therapy modalities
+## Grief Recovery Methods & Grief Therapy Modalities
 
 In my reading I came across several grief therapy modalities that are well-established enough that professionals can seek certifications in that particular grief therapy method. Among them are The Grief Recovery Method and Complicated Grief Treatment.
 
