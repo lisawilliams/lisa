@@ -48,7 +48,7 @@ Martin's work is about the centrality of choice. Her paintings define themselves
 
 ### Rigor
 
-Do you think it was easy to make this painting? Look at the detail view above. This is oil paint on raw linen. There is no eraser. There is no way to go back. There is no gesso-ing over to begin again. What happens when a big blob gets dropped in the middle?
+Modern art is often criticized by those not inclined to like it as "just paint thrown at the canvas," or even more sarcastically, "My kid could do that." But look at this painting. Do you think it was easy to make this painting? Look at the detail view above. This is oil paint on raw linen. There is no eraser. There is no way to go back. There is no gesso-ing over to begin again. What happens when a big blob gets dropped in the middle? Your kid could not do this painting. Neither could my kid -- neither could I, for that matter. 
 
 ### Effort
 
