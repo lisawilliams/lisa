@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Long Look: Falling Blue"
+title:  "How do you know if a work of abstract art is any good?"
 date:   2017-12-08 01:15:39 -0400
 categories: art
 ---
@@ -9,7 +9,7 @@ categories: art
 !['Falling Blue,' Agnes Martin ](https://farm5.staticflickr.com/4639/38977124031_f1b649e427_k.jpg)
 
 *Title: Falling Blue (detail)*<br>
-*Artist: [Agnes Martin](http://www.anilaagha.com/)<br>*
+*Artist: [Agnes Martin](https://www.guggenheim.org/exhibition/agnes-martin)<br>*
 *Year Created: 1963<br>*
 *Artform: Painting<br>*
 *Materials: Oil<br>*
@@ -36,7 +36,7 @@ But what about a work like this?
 
 ![Agnes Martin, "Falling Blue"](https://viewfromaburrow.files.wordpress.com/2016/03/51385_zoom_2016-01-28t0044-1000x1000_q85.jpg)
 
-Sitting in the chapel-like enclosure in SFMoMA, I immediately felt that this was a great work. It had the things I am looking for in a work of abstract art: effort, choices, rigor, and risk.
+Sitting in the chapel-like enclosure in SFMoMA, I immediately felt that this was a great work. It had the things I am looking for in a work of abstract art: effort, choices, rigor, risk, and endurance.
 
 ### Risk
 
@@ -48,10 +48,15 @@ Martin's work is about the centrality of choice. Her paintings define themselves
 
 ### Rigor
 
-Modern art is often criticized by those not inclined to like it as "just paint thrown at the canvas," or even more sarcastically, "My kid could do that." But look at this painting. Do you think it was easy to make this painting? Look at the detail view above. This is oil paint on raw linen. There is no eraser. There is no way to go back. There is no gesso-ing over to begin again. What happens when a big blob gets dropped in the middle? Your kid could not do this painting. Neither could my kid -- neither could I, for that matter. 
+Modern art is often criticized by those not inclined to like it as "just paint thrown at the canvas," or even more sarcastically, "My kid could do that." But look at this painting. Do you think it was easy to make this painting? Look at the detail view above. This is oil paint on raw linen. There is no eraser. There is no way to go back. There is no gesso-ing over to begin again. What happens when a big blob gets dropped in the middle? Your kid could not do this painting. Neither could my kid -- neither could I, for that matter.
 
 ### Effort
 
 These paintings are huge and entail painstaking effort and commitment. They are not the work of a hobbyist nor could they be quickly knocked out with Photoshop. Unlike many of today's art megastars, Martin did her own work -- she didn't have an army of apprentices or a factory pressing out CAD files. We see here the work of the artist's hand, her message to us.
 
-When these factors arrive together, something mysterious happens within me as a viewer. I stayed with this painting for at least half an hour. Great paintings are like very, very slow movies: if we give them enough time, they change; they move. Great paintings have more to say to us than the sound bite we give them time for. With this painting, the meditative mood that Martin is attempting to inspire in the viewer is a strong one. About twenty minutes in, I stood up and got very close to the painting. Did I see a letter emerging from the stripes? Was it intentional, or an illusion formed by the close groupings of lines? Staring further, I began to see flowers blooming -- again, my mind interacting with the work, creating patterns from a meditative surface. For me, works that contain these elements -- but don't tell me, as a viewer, what they are about, what to feel or think -- have a spiritual dimension that I have come to depend on. Sitting with them, allowing them to unfold -- something mysterious happens within me.
+### Endurance
+
+Great paintings have more to say to us than the sound bite we often give them time for. A 'long look' at a painting -- which for me means sitting with a single work for at least half an hour -- is a bit like a first date. Was the experience rewarding? Would you want a second date with this painting? Great works are like great loves: our relationship with them can endure a lifetime. Could you imagine seeing this work every day in your living space? As I write this I do wish I could go back to the chapel and sit, all over again. I feel a strange affection for this work that is, most certainly, Not Trying To Be Your Friend.
+
+
+When these factors arrive together, something mysterious happens within me as a viewer. I stayed with this painting for at least half an hour. Great paintings are like very, very slow movies: if we give them enough time, they change; they move.  With this painting, the meditative mood that Martin is attempting to inspire in the viewer is a strong one. About twenty minutes in, I stood up and got very close to the painting. Did I see a letter emerging from the stripes? Was it intentional, or an illusion formed by the close groupings of lines? Staring further, I began to see flowers blooming -- again, my mind interacting with the work, creating patterns from a meditative surface. For me, works that contain these elements -- but don't tell me, as a viewer, what they are about, what to feel or think -- have a spiritual dimension that I have come to depend on. Sitting with them, allowing them to unfold -- something mysterious happens within me.
