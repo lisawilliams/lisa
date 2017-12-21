@@ -48,4 +48,4 @@ I don't know how long it had been since she'd left the room where I sat on the b
 
 She took her place beside me on the bench, and together, we looked.
 
-*My partner, Rhode Island artist Heather Adels, died in March 2017 of a sudden cardiac arrest at the age of 41. More about her life and work [here](byrslf.co/i-want-to-tell-you-about-heather-732b303759d9).*
+*My partner, Rhode Island artist Heather Adels, died in March 2017 of a sudden cardiac arrest at the age of 41. More about her life and work [here](https://lisawilliams.github.io/lisa/art/2017/03/26/eulogy-for-a-fairy-princess-heather-adels.html).*
