@@ -130,7 +130,7 @@ In 2016 she started doing what she called “infinity drawings” — drawin
 
 She had recently gotten gallery representation, a major step forward for her career, which she was thrilled about.
 
-*Eulogy for a fairy princess:*
+### Eulogy for a fairy princess:
 
 Once upon a time…
 
