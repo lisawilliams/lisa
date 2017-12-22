@@ -8,7 +8,7 @@ categories: other
 
 ![Figure of the reaper with motto This Too Shall Pass](https://farm5.staticflickr.com/4581/38364280031_27d1ccf543.jpg)
 
-As I passed into the region of grief and bereavement after [my partner died](byrslf.co/i-want-to-tell-you-about-heather-732b303759d9), I was disappointed at the poor quality of the Google-able resources on the topic of grief and bereavement. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
+As I passed into the region of grief and bereavement after [my partner died](https://lisawilliams.github.io/lisa/art/2017/03/26/eulogy-for-a-fairy-princess-heather-adels.html), I was disappointed at the poor quality of the Google-able resources on the topic of grief and bereavement. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
 
 Below are the books, articles, and scholarly papers which I found useful and which informed my own approach to grief recovery.
 
