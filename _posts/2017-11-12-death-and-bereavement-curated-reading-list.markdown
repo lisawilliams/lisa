@@ -18,15 +18,12 @@ Below are the books, articles, and scholarly papers which I found useful and whi
 
 *Currently on my to-read stack*
 
-**[From Here To Eternity](https://www.amazon.com/gp/product/0393249891/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393249891&linkId=6670ed2d2418bb8a50646a9d71cdf090)** by Caitlin Doughty. <br>
 **[Confessions of a Funeral Director](https://www.amazon.com/gp/product/0062465244/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062465244&linkId=937dd64ad618dd606e26e983a173b192)** by Caleb Wilde. <br>
 
 *Want to read*
 
-**[Smoke Gets In Your Eyes and Other Lessons from the Crematory](https://www.amazon.com/gp/product/0393351904/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393351904&linkCode=as2&tag=lisawilliam0a-20&linkId=a981b5cd298a10bdfe018a894f9b8f41)** by Caitlin Doughty.<br>
 **[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/gp/product/0393334872/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393334872&linkId=a36379409258ce0e2d232db76268f05b)**, by Thomas Lynch. <BR>
 **[Good Mourning](https://www.amazon.com/gp/product/1476783616/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476783616&linkId=5396c6d61f74fddd1eabd4cededc8fb5)** by Elizabeth Meyer.<BR>
-**[It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.com/gp/product/1622039076/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1622039076&linkId=00923bebf1cba9870d93a44016b72644)**, by Megan Devine.<br>
 **[Pardon My Hearse](https://www.amazon.com/gp/product/1610352483/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1610352483&linkId=8535ccdbc5f58445cf6150d474c1fca5)**, by Allan and Greg Abbott. <BR>
 **[Nine Years Under: Coming of Age in an Inner City Funeral Home](https://www.amazon.com/gp/product/1592407625/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1592407625&linkId=3b64fd54bfeda612007220ad99a7224d)**, by Sheri Booker.<br>
 **[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/gp/product/1401940838/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401940838&linkId=0fe34616c2234c5dcccc81200074dbfd)**, by Christina Rasmussen.<BR>
@@ -43,15 +40,25 @@ These books were suggested by friends & community members in response to this li
 
 *Reading*
 
+**[It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.com/gp/product/1622039076/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1622039076&linkId=00923bebf1cba9870d93a44016b72644)**, by Megan Devine.<br>
+
+*Read*
+
+**[From Here To Eternity](https://www.amazon.com/gp/product/0393249891/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393249891&linkId=6670ed2d2418bb8a50646a9d71cdf090)** by Caitlin Doughty. <br>
+
+This bracing little volume takes you, the reader, on a world tour in search of 'the good death.' Or really, the good grief -- Doughty focuses on the funerary and mourning customs of many different cultures. I'm not sure exactly why, but I have found books on death and funerary customs more helpful to me in my bereavement than books on grief. This book is also beautifully illustrated with evocative line drawings, which is a plus.
+
+**[Smoke Gets In Your Eyes and Other Lessons from the Crematory](https://www.amazon.com/gp/product/0393351904/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393351904&linkCode=as2&tag=lisawilliam0a-20&linkId=a981b5cd298a10bdfe018a894f9b8f41)** by Caitlin Doughty.<br>
+
+Another by Doughty, this time a coming-of-age memoir. Doughty grows up in Hawaii, where she is terrified after witnessing a gruesome accidental death. She can't stop thinking about it, so she decides to make a career of it, starting at Westwind Crematorium, and ultimately moving on to mortuary school.
+
 **[Death, An Oral History](https://www.amazon.com/gp/product/1942186126/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942186126&linkCode=as2&tag=lisawilliam0a-20&linkId=5e2b6c9aa37c266522c3d9ff955223fc)** by Casey Jarman.
 
 Jarman spent a year talking to everyone from bereavement counselors to artists about their experiences with death and bereavement:
 
 *Even after finishing this project, I haven't "gotten over" death. I'm pretty sure there's no getting over it. But in talking to people who have found ways through, under, and around it, I'm measurably less terrified than I used to be. While I edited interviews for length and clarity, it was important to me to let these conversations roam free. My goal is not to indulge in a cheeky metaphor about the complexity of death itself -- which truly will not be compartmentalized -- but to subvert the now-ubiquitous TED Talk paradigm of tidy stories fit for on-the-go consumption.*
 
-Bless you, friend. Note: you may breathe easy in the knowledge that this compilation of resources will not contain a single TED talk.
-
-*Read*
+I enjoyed this book, and its varied perspectives. Recommended.
 
 **[Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/gp/product/1524732680/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1524732680&linkId=53dc24752adb3c6bbe9d7d8b472066b3)**, by Sheryl Sandberg.
 
