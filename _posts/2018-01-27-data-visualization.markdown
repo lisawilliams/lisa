@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Visualization Crash Course"
 date:   2018-01-27 01:15:39 -0400
-categories: data
+categories: tech
 ---
 
 [Data Visualization Crash Course](https://farm5.staticflickr.com/4627/39033728615_6a8e23a4fb_h.jpg)
