@@ -5,6 +5,8 @@ date:   2018-02-15 13:35:39 -0500
 categories: tech
 ---
 
+![code](https://farm3.staticflickr.com/2888/13334080323_69edde7c71_h.jpg)
+
 I'm pleased to announce the creation of an informal working group on newsroom
 technology for students in the journalism program at Boston University.
 This semester we will cover data journalism, immersive features built
