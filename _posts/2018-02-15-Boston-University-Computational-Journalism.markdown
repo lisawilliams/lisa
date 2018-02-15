@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  "Newsroom Coding Interest Group at Boston University"
-date:   2018-02-14 13:35:39 -0500
+date:   2018-02-15 13:35:39 -0500
 categories: tech
 ---
 
-I'm pleased to announce I will be leading an informal working group on newsroom
+I'm pleased to announce the creation of an informal working group on newsroom
 technology for students in the journalism program at Boston University.
 This semester we will cover data journalism, immersive features built
 with modern web frameworks, and newsbots.
 
+**Organizers:** Lisa Williams and Samata Joshi
+
 We're keeping the group small and participation is limited; if you want
-to participate, let me know by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfhC6QR9eTbg1G0t2K-DJDVaB5XS2i4PAMpmhyzcZWhq-QbYA/viewform?usp=sf_link).
+to participate, let us know by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfhC6QR9eTbg1G0t2K-DJDVaB5XS2i4PAMpmhyzcZWhq-QbYA/viewform?usp=sf_link).
 
 # February 20: Coding Tools & Data Journalism
 
@@ -26,7 +28,7 @@ issue.
 # March 19: Immersives
 
 We will use Bootstrap and Javascript to build an immersive feature package.
-We might get into using app templates from NPR or NYT!
+We might get into using NPR or NYT app templates.
 
 # April 21: Bots For News
 
@@ -39,5 +41,6 @@ Optional: Join our 48in48 team and use your skills to build a website from scrat
 
 ### Tech Requirements
 
-You will need your own laptop. You can bring a Windows laptop but I may not be
-able to support you. Best choice: Mac laptop with OSX 10.8 or higher.  
+You will need your own laptop. You can bring a Windows laptop but we may not be
+able to support you in installing and configuring tools.
+Best choice: Mac laptop with OSX 10.8 or higher.
