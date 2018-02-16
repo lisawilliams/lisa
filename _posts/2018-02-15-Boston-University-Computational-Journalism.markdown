@@ -17,6 +17,10 @@ with modern web frameworks, and newsbots.
 We're keeping the group small and participation is limited; if you want
 to participate, let us know by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfhC6QR9eTbg1G0t2K-DJDVaB5XS2i4PAMpmhyzcZWhq-QbYA/viewform?usp=sf_link).
 
+**When & Where?** Groups will happen from 6-8PM on the dates below at COM.
+Register with the form above. Participants will receive an address and room
+number as well as other details before the meeting. 
+
 # February 20: Coding Tools & Data Journalism
 
 We'll install and begin to use foundational coding tools -- a version control
