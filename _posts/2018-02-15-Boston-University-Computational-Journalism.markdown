@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Newsroom Coding Interest Group at Boston University"
+title:  "Newsroom Coders @ Boston University"
 date:   2018-02-15 13:35:39 -0500
 categories: tech
 ---
@@ -19,7 +19,7 @@ to participate, let us know by filling out [this form](https://docs.google.com/f
 
 **When & Where?** Groups will happen from 6-8PM on the dates below at COM.
 Register with the form above. Participants will receive an address and room
-number as well as other details before the meeting. 
+number as well as other details before the meeting.
 
 # February 20: Coding Tools & Data Journalism
 
