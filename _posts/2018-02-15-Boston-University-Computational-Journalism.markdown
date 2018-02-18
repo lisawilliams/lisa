@@ -11,14 +11,14 @@ I'm pleased to announce the creation of an informal working group on newsroom
 technology for students in the journalism program at Boston University.
 This semester we will cover data journalism, immersive features built
 with modern web frameworks, and newsbots. Our goal will be to work together on projects,
-with the goal of creating projects interesting and useful enough to share. 
+with the goal of creating projects interesting and useful enough to share.
 
 **Organizers:** Lisa Williams and Samata Joshi
 
 We're keeping the group small and participation is limited; if you want
 to participate, let us know by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfhC6QR9eTbg1G0t2K-DJDVaB5XS2i4PAMpmhyzcZWhq-QbYA/viewform?usp=sf_link).
 
-**When & Where?** Groups will happen from 6-8PM on the dates below at COM.
+**When & Where?** Groups will happen at 5:30 on the dates below at COM.
 Register with the form above. Participants will receive an address and room
 number as well as other details before the meeting.
 
