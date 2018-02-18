@@ -10,7 +10,8 @@ categories: tech
 I'm pleased to announce the creation of an informal working group on newsroom
 technology for students in the journalism program at Boston University.
 This semester we will cover data journalism, immersive features built
-with modern web frameworks, and newsbots.
+with modern web frameworks, and newsbots. Our goal will be to work together on projects,
+with the goal of creating projects interesting and useful enough to share. 
 
 **Organizers:** Lisa Williams and Samata Joshi
 
