@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Newsroom Coders @ Boston University"
+title:  "Full Stack Journalists At Boston University"
 date:   2018-02-15 13:35:39 -0500
 categories: tech
 ---
