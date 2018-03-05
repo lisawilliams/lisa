@@ -1,11 +1,21 @@
 ---
 layout: post
 title:  "Full Stack Journalists"
-date:   2018-02-15 13:35:39 -0500
+date:   2018-02-21 13:35:39 -0500
 categories: tech
 ---
 
 ![code](https://farm3.staticflickr.com/2888/13334080323_69edde7c71_h.jpg)
+
+## What is Full Stack Journalists?
+
+Full Stack Journalists is a group of students and professionals devoted to developing our skills and building news apps together. We want to use our group to build reusable curriculum 'building blocks' to build news bots, news apps, and full‑stack web apps. We work directly with newsrooms on projects, and we want to hold a virtual bootcamp for students and educators who want to learn skills and start their own FSJ chapter.
+
+## Why Full Stack Journalists?
+
+Many newsrooms don't have access to the skills to quickly develop a mobile app, a news chatbot, or other things that will help their organization thrive in their community and hold the powerful to account. Even more than the skills, most newsrooms lack basic project management practices needed to do digital projects -- things like Agile, project boards, and version control.
+
+Many journalism students are not getting access to the skills they need to distinguish themselves in the job market and get a shot at being a working journalist. Tweeting and spinning up a Wordpress site isn't enough anymore.  
 
 ## Three Hours, 12 Students, 15 Websites
 
@@ -43,4 +53,4 @@ For our first meeting, we had three objectives:
 
 ## Do Real Work
 
-Initially, I thought our meetings would be a bit more like demo sessions where we showed how to do things like set up a simple Rails application, or use a framework like Reveal.js to do cool responsive slideshows. But we were quickly approached by newsrooms and teams who wanted our participation in data journalism and digital projects. In discussing it, one of the students said, "If we have the chance to do real work, we should do real work."  This quickly became our motto: Do Real Work. 
+Initially, I thought our meetings would be a bit more like demo sessions where we showed how to do things like set up a simple Rails application, or use a framework like Reveal.js to do cool responsive slideshows. But we were quickly approached by newsrooms and teams who wanted our participation in data journalism and digital projects. In discussing it, one of the students said, "If we have the chance to do real work, we should do real work."  This quickly became our motto: Do Real Work.
