@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Full Stack Journalists"
-date:   2018-02-21 13:35:39 -0500
+date:   2018-03-04 13:35:39 -0500
 categories: tech
 ---
 
@@ -15,7 +15,7 @@ Full Stack Journalists is a group of students and professionals devoted to devel
 
 Many newsrooms don't have access to the skills to quickly develop a mobile app, a news chatbot, or other things that will help their organization thrive in their community and hold the powerful to account. Even more than the skills, most newsrooms lack basic project management practices needed to do digital projects -- things like Agile, project boards, and version control.
 
-Many journalism students are not getting access to the skills they need to distinguish themselves in the job market and get a shot at being a working journalist. Tweeting and spinning up a Wordpress site isn't enough anymore.  
+Many journalism students are not getting access to the skills they need to distinguish themselves in the job market and get a shot at being a working journalist. Tweeting and spinning up a Wordpress site isn't enough anymore.
 
 ## Three Hours, 12 Students, 15 Websites
 
