@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Full Stack Journalists"
-date:   2018-03-04 13:35:39 -0500
+date:   2018-02-15 13:35:39 -0500
 categories: tech
 ---
 
