@@ -63,7 +63,7 @@ Once you arrive there, you will see another button that reads 'Clone or download
 
 #### Unzip the Sample Data File
 
-At the command line, type `ls`. You should now see a folder titled `email-data-science-tutorial`. To change into that directory, type `cd email-data-science-tutorial` at the command line and hit return.  Once you are in the folder, type ls again. You will see the notebook files and the sample data files. One of the sample data files is quite large, and you will need to unzip it before continuing. The file is called nb2_anon.pkl.zip.  If it works, you will get a response like this:
+At the command line, type `ls`. You should now see a folder titled `email-data-science-tutorial`. To change into that directory, type `cd email-data-science-tutorial` at the command line and hit return.  Once you are in the folder, type ls again. You will see the notebook files and the sample data files. One of the sample data files is quite large, and you will need to unzip it before continuing. The file is called nb2_anon.pkl.zip.  At the command line, type `unzip nb2_anon.pkl.zip` and hit return. If it works, you will get a response like this:
 
 ```
 Archive:  nb2_anon.pkl.zip
@@ -96,7 +96,7 @@ Then, visit the command line and shut down the Jupyter Notebook application by t
 
 #### Special Thanks
 
-Special thanks to Jacque Boltik of the Shorenstein Center, who provided invaluable help in creating sample data files and hooking them up to the notebooks for this tutorial. Special thanks are also due to Sarah Darby, Anika Anand, and Michelle Baruchman for making the email data science workshop in Seattle happen.  
+Special thanks to Jacque Boltik of the Shorenstein Center, who provided invaluable help in creating sample data files and hooking them up to the notebooks for this tutorial. Special thanks are also due to Sarah Darby, Anika Anand, and Michelle Baruchman for making the email data science workshop in Seattle happen.
 
 #### Additional Resources
 
