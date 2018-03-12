@@ -96,7 +96,7 @@ Then, visit the command line and shut down the Jupyter Notebook application by t
 
 #### Special Thanks
 
-Special thanks to Jacque Boltik of the Shorenstein Center, who provided invaluable help in creating sample data files and hooking them up to the notebooks for this tutorial. Special thanks are also due to Sarah Darby, Anika Anand, and Michelle Baruchman for making the email data science workshop in Seattle happen.
+Special thanks to Jacque Boltik of the Shorenstein Center, who provided invaluable help in creating sample data files and hooking them up to the notebooks for this tutorial. Special thanks are also due to Sarah Darby, Anika Anand, and Michelle Baruchman for making the email data science workshop in Seattle happen, as well as Meghan Murphy of ONA and the [ONA Speakers' Bureau](https://journalists.org/group/speakers-bureau/).
 
 #### Additional Resources
 
