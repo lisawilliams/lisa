@@ -15,7 +15,7 @@ In 2017, along with a team at WBUR, I launched [The Magic Pill](http://www.wbur.
 
 That's why I was excited to read The Shorenstein Center's paper [Using Data Science Tools for Email Audience Analysis: A Research Guide](https://shorensteincenter.org/wp-content/uploads/2017/10/Data-Science-Tools-for-Email-Analysis-Research-Guide.pdf?x78124), by Jacque Boltik and Nicco Mele. I was even more excited to see that they had provided a set of tools so that we could do the analysis they talked about in their paper with our own data.
 
-On Thursday, March 8, I gave a presentation to Seattle's ONA Local chapter on applying data science tools to build better email products. We didn't have the time to do a hands-on runthrough of this particular tool, so this tutorial is both for attendees of that event who want to go further, and for those unable to attend but are interested in the intersection of data science and email. My full presentation, and linked resources, can be found here: [Lisa Williams: Data Science & Email](http://lisawilliams.github.io/email/).
+On Thursday, March 8, I gave a presentation to [Seattle's ONA Local chapter](https://journalists.org/local/seattle/) on applying data science tools to build better email products. We didn't have the time to do a hands-on runthrough of this particular tool, so this tutorial is both for attendees of that event who want to go further, and for those unable to attend but are interested in the intersection of data science and email. My full presentation, and linked resources, can be found here: [Lisa Williams: Data Science & Email](http://lisawilliams.github.io/email/).
 
 This post is intended to be a guide to setting up and using those tools. It is especially aimed at the technologically curious person who works on an email product, but has little experience with data science tools or coding. Beginners welcome here!
 
@@ -96,7 +96,7 @@ Then, visit the command line and shut down the Jupyter Notebook application by t
 
 #### Special Thanks
 
-Special thanks to Jacque Boltik of the Shorenstein Center, who provided invaluable help in creating sample data files and hooking them up to the notebooks for this tutorial.
+Special thanks to Jacque Boltik of the Shorenstein Center, who provided invaluable help in creating sample data files and hooking them up to the notebooks for this tutorial. Special thanks are also due to Sarah Darby, Anika Anand, and Michelle Baruchman for making the email data science workshop in Seattle happen.  
 
 #### Additional Resources
 
