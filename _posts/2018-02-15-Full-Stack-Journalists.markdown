@@ -49,7 +49,7 @@ For our first meeting, we had three objectives:
 
 1. **Agree that we would research a code of conduct specific to our group**, one that reflected our core values of openess, egalitarianism, and support for those at every level of technical skill, but especially for absolute beginners. Many of us had been watching the #metoo movement with both interest and hope, and we agreed that we wanted to start our own organization out at the highest levels of integrity, and ideally create a culture we could be proud to pass on to future members or even chapters.
 2. **Every participant would leave their first meeting with a basic working set of developers' tools on their own machine** -- in this case, they'd have the version control system Git installed and working on their machine and a text editor of their choice, along with a free Github account.
-3. **Members'join' by making a pull request.** Now that particpants had a working set of tools, they could 'clone' our group's repository, add their name to a text file listing our members, and 'join' by issuing a pull request, which was then merged into the group's repository -- a neat way to make it official that also showed that all their tools were working successfully.
+3. **Members'join' by making a pull request.** Now that particpants had a working set of tools, they could 'clone' our group's repository, add their name to a text file listing our members, and 'join' by issuing a pull request, which was then merged into the group's repository -- a neat way to make it official that also showed that all their tools were working successfully..
 
 ## Do Real Work
 
