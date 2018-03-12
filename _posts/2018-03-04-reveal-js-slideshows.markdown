@@ -34,3 +34,5 @@ Slideshows in fullscreen look exactly like a Powerpoint or Keynote deck, without
 I publish and maintain my slides by writing HTML in my favorite text editor (Atom) and pushing them live using git/Github.  That means there's automatically two copies -- one locally and one as a repository associated with my Github account. Not only that, I can use the local webserver utility `grunt` to preview slides locally before pushing them live.
 
 If you'd like to get started using Reveal.js to build your own slideshows, I highly recommend Chen Hui Jing's [excellent tutorial on doing slide decks in Reveal.js](https://www.chenhuijing.com/blog/revealjs-and-github-pages/#%F0%9F%91%9F) to get started.
+
+[Here's the presentation I ended up creating with Reveal.js](http://github.io/lisawilliams/email). It's about creating great email newsletters with user research and data science. 
