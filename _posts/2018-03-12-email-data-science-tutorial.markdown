@@ -41,9 +41,11 @@ If you don't know if you have Anaconda installed, open up Terminal. You will fin
 
 #### Get a free Github account
 
-If you do not have one already, you will need a free [Github.com](https://www.github.com) account.
+If you do not have one already, you will need a free [Github.com](https://www.github.com) account.  Github is an online code-storage and collaboration service.
 
 #### Download and install Git
+
+Git is a 'version control system.' Often, when I am coding, I try something, and I break things. Having a version control system means I can 'roll back' my code to a previous state...one where it was working.  Git and Github work together. Git is the part that resides locally on your laptop; Github is the online service where you store an extra copy of your code or collaborate on code with others.
 
 First, check to see if you already have Git installed. Back in Terminal, at the command line, type `git --version`. If it is installed, you'll get a response like this: `git version 2.11.0 (Apple Git-81)`. If you don't have it, it will prompt you to install it.
 
