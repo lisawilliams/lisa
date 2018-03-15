@@ -9,7 +9,7 @@ The following is a tutorial that will walk you through the steps from scraping a
 
 ### Tools We Will Use
 
-Google Sheets
+Google Sheets<br>
 Tableau ([download](https://www.tableau.com/trial/download-tableau?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=tableau%20download&adgroup=CTX-Brand-Download-E&adused=216190377076&matchtype=e&placement=&gclid=EAIaIQobChMI8uOavtjt2QIVHZ7ACh3qBwoYEAAYASAAEgIUc_D_BwE&gclsrc=aw.ds&dclid=CObMub_Y7dkCFcZCDAod3XwOjA))
 
 ### Step One: Scrape
@@ -24,11 +24,13 @@ Put your cursor in Cell A1 and then copy and paste the following into the formul
 
 `=IMPORTHTML("https://en.wikipedia.org/wiki/List_of_NPR_stations", "table", 2)`
 
-![Google IMPORTHTML function](https://farm1.staticflickr.com/794/26949055268_05d253c86f_b.jpg)
+![Google IMPORTHTML function](https://farm1.staticflickr.com/794/26949055268_05d253c86f_b.jpg)<br>
 
-Hit `Return` and you should see something like this:
+Hit `Return` and you should see something like this:<br>
 
-![Scraped Wikipedia data](https://farm1.staticflickr.com/783/40777051602_313c7f3b1c_b.jpg)
+![Scraped Wikipedia data](https://farm1.staticflickr.com/783/40777051602_313c7f3b1c_b.jpg)<br>
+
+That high, whistling sound you hear is countless hours of your life being given back to you.
 
 ### Step Two: Creating A Sheet We Can Clean Up
 
@@ -103,7 +105,7 @@ When we show both AM and FM stations, our map doesn't tell the viewer much excep
 Drag the Band Measure onto Color in the Marks box.  You'll notice that the dots change color based on AM and FM.  Click on the Color box and then click 'Edit Color.' Make FM blue and AM yellow by clicking first the name of the dimension (AM or FM) and then the color.
 
 <br>
-[Tableau Map With Color](https://farm1.staticflickr.com/820/40110378824_f3b728c33d_b.jpg)
+![Tableau Map With Color](https://farm1.staticflickr.com/820/40110378824_f3b728c33d_b.jpg)
 <br>
 
 Enjoy your map!
