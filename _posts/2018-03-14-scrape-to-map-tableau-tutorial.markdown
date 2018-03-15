@@ -103,7 +103,7 @@ When we show both AM and FM stations, our map doesn't tell the viewer much excep
 Drag the Band Measure onto Color in the Marks box.  You'll notice that the dots change color based on AM and FM.  Click on the Color box and then click 'Edit Color.' Make FM blue and AM yellow by clicking first the name of the dimension (AM or FM) and then the color.
 
 <br>
-[Tableau Map With Color]
+[Tableau Map With Color](https://farm1.staticflickr.com/820/40110378824_f3b728c33d_b.jpg)
 <br>
 
 Enjoy your map!
