@@ -112,6 +112,10 @@ Drag the Band Measure onto Color in the Marks box.  You'll notice that the dots 
 
 Enjoy your map!
 
+### More: Making a Cloropleth Map
+
+**Dataset:** [Maternal Mortality Statistics, World Health Organization]()
+
 ### Additional resources
 
 [Tableau Your Data](https://www.amazon.com/gp/product/1119001196/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1119001196&linkCode=as2&tag=lisawilliam0a-20&linkId=bb0a42f78af85e3ebebedb74c27e8226) is not cheap, but it's the best book by far that I have read on the subject. I refer to it frequently. I recommend getting the paperback over the electronic version.
