@@ -54,6 +54,8 @@ Give each of your columns a useful heading. I used City, Call Sign, Frequency, a
 
 ### Connecting Your Data to Tableau
 
+**Cleaned Data** [NPR Stations](https://docs.google.com/spreadsheets/d/1DTNzRyNzsJGOh6TVugO3E00YmMKhZsSHWeNc9ahubvE/edit?usp=sharing)
+
 You may have noticed by now that your sheet does not actually contain ALL of the NPR stations. In fact, the data is contained in a number of different `<table>` elements in the original Wikipedia page. So in order to import the entire list, you would need to run the `IMPORTHTML` function several times and stitch the data together. I can tell you're a busy person, so I've done this for you.  Visit this Google sheet [NPR Stations](https://docs.google.com/spreadsheets/d/1DTNzRyNzsJGOh6TVugO3E00YmMKhZsSHWeNc9ahubvE/edit?usp=sharing) and click File > Download As > Microsoft Excel. It doesn't matter for the purposes of this tutorial whether or not you have Excel on your machine, since we're going to be using Tableau next.
 
 Next, open Tableau.  You will see a screen like this:
