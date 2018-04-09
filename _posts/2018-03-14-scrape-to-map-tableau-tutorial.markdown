@@ -112,9 +112,19 @@ Drag the Band Measure onto Color in the Marks box.  You'll notice that the dots 
 
 Enjoy your map!
 
+### Getting Your Map on the Web
+
+Choose Server > Tableau Public > Save to Tableau Public.
+
+You will need a Tableau Public account (it's free).
+
+If you get an error message saying that you need a data extract, switch to the Data Pane. Look in the upper right corner and you will see two radio buttons -- one that says Live, and another that says Extract. Click the Extract button and try again.
+
+Tableau Public will open in a browser. Edit any information you want to go with your visualization and hit Save. Then, in the lower left of the visualization, you will see an icon that looks like a sideways letter "V." This is the Share icon. Using that you will be able to get an embed code to embed your visualization in a webpage. 
+
 ### More: Making a Cloropleth Map
 
-**Dataset:** [Maternal Mortality Statistics, World Health Organization]()
+**Dataset:** [Maternal Mortality Statistics, World Health Organization](https://github.com/lisawilliams/d3-exercises/blob/master/cloropleth-map-data.xls)
 
 ### Additional resources
 
