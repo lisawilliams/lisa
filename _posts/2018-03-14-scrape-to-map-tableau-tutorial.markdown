@@ -128,7 +128,11 @@ Tableau Public will open in a browser. Edit any information you want to go with 
 
 ### Even More: Animating A Map
 
-The dataset above has maternal mortality statistics over a number of years. What if you could animate the map, to show the changes over time? Good news...you can!  [Check out this video](https://www.youtube.com/watch?v=iLkSvKqbp1c). 
+The dataset above has maternal mortality statistics over a number of years. What if you could animate the map, to show the changes over time? Good news...you can!  [Check out this video](https://www.youtube.com/watch?v=iLkSvKqbp1c).
+
+### Cleaning Up Columns
+
+Want to make a table of stations, but get an annoying column of "ABC" values? [Here's how to fix that](http://tableauworkaround.blogspot.com/2016/05/removing-abc-placeholder-text.html)
 
 ### Additional resources
 
