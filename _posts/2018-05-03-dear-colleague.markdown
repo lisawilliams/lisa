@@ -15,7 +15,7 @@ Syllabus: [Intro to Coding for Journalists](https://github.com/fullstackjournali
 
 #### About our group
 
-Full Stack Journalists is an informal club, open to both BU students and professionals in the field. Founded by adjunct professor Lisa Williams and BU journalism graduate student Samata Joshi, the group meets each Friday to learn skills by building and testing class materials, sample code, and exercises that we hope will be used when the course is taught 'live.'
+[Full Stack Journalists](https://lisawilliams.github.io/lisa/tech/2018/02/15/Full-Stack-Journalists.html) is an informal club, open to both BU students and professionals in the field. Founded by adjunct professor Lisa Williams and BU journalism graduate student Samata Joshi, the group meets each Friday at the BUild Lab to learn skills by building and testing class materials, sample code, and exercises that we hope will be used when the course is taught 'live.'
 
 ### Collaborative approach
 
