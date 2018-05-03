@@ -35,6 +35,10 @@ This gap, of course, will narrow. We believe by adding this now, we can join the
 
 Our group was lucky enough to win a fellowship from the Online News Association, which will provide us with connections to instructors and students at other institutions who will help us sharpen our lessons and broaden our focus. We have been invited to present our work at ONA's annual conference in September. Our group will continue to meet over the summer to build out individual class modules which we will present at the conference for feedback.
 
+### Collaborating with you
+
+We are eager to hear from you with ideas about how we might create the best fit between current course offerings and our project, and any other way in which we can be helpful to you and collaborate in our shared project of creating the best possible experience for BU's journalism students. 
+
 With great regard,
 
 Lisa Williams, instructor and cofounder<br>
