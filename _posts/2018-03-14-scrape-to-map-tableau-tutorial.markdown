@@ -80,7 +80,8 @@ To begin, click and drag the City measure onto the Detail box under Marks.
 
 WHOA!
 
-Suddenly you'll have something that looks like this:<br>
+Suddenly you'll have something that looks like this:
+;<br>
 
 ![Tableau map](https://farm5.staticflickr.com/4771/39009172240_c457252692_b.jpg)<br>
 
@@ -139,3 +140,7 @@ Want to make a table of stations, but get an annoying column of "ABC" values? [H
 [Tableau Your Data](https://www.amazon.com/gp/product/1119001196/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1119001196&linkCode=as2&tag=lisawilliam0a-20&linkId=bb0a42f78af85e3ebebedb74c27e8226) is not cheap, but it's the best book by far that I have read on the subject. I refer to it frequently. I recommend getting the paperback over the electronic version.
 
 [Tableau training videos](https://www.tableau.com/learn/training) Tableau itself is a great learning resource and maintains a huge library of videos and tips. Highly recommended.
+
+### Did you encounter problems with this tutorial, or have questions?
+
+Please [file an issue](https://github.com/lisawilliams/lisa/issues) on this repository!
