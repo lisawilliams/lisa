@@ -38,11 +38,15 @@ These books were suggested by friends & community members in response to this li
 **[A Widow's Story](https://www.amazon.com/gp/product/0062020501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062020501&linkId=b6244a08e15ff43b6883d57093d73f5f)**, by Joyce Carol Oates.<BR>
 
 
-*Reading*
+*Reading*<Br>
+
+
+
+*Read*<br>
 
 **[It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.com/gp/product/1622039076/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1622039076&linkId=00923bebf1cba9870d93a44016b72644)**, by Megan Devine.<br>
 
-*Read*
+This book, and the website of the author, Megan Devine, is my number one recommendation for those looking for a book on grief. Devine is particularly good on sudden or "out-of-order" deaths, explaining what you can expect without trying to impose a broader narrative or stages on the process.
 
 **[From Here To Eternity](https://www.amazon.com/gp/product/0393249891/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393249891&linkId=6670ed2d2418bb8a50646a9d71cdf090)** by Caitlin Doughty. <br>
 
