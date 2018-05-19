@@ -34,9 +34,7 @@ In fact, the entire work gave me an impression of femininity; it seems decorativ
 
 "Decorative" is almost a slur in the fine-art world, denoting something that doesn't have the ambition or scope of fine art. "Decorative" is what you buy at Ikea. "Decorative" is when you're the kind of person who chooses art based on whether it matches your couch.
 
-Certainly no one could fault the scope or ambition of Agha's work here; you might think "lampshade, ladies' boudoir," but you'd be wrong. What lady ever dared to take up this much space? What lady dares to be her true size and brightness when the outcome is universally this?
-
-![DT looming over HC, US presidential debates, 2016](http://assets.nydailynews.com/polopoly_fs/1.2830586.1476450249!/img/httpImage/image.jpg_gen/derivatives/article_750/613698468.jpg)
+Certainly no one could fault the scope or ambition of Agha's work here; you might think "lampshade, ladies' boudoir," but you'd be wrong. What lady ever dared to take up this much space? What lady dares to be her true size and brightness?
 
 Do not dare to take up space, to project your light, this world says to women.
 
