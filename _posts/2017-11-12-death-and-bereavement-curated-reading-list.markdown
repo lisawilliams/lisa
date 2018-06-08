@@ -74,7 +74,8 @@ A very step-by step, action-oriented approach to grief with writing exercises. I
 
 ## Podcasts
 
-[What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.
+[What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.<br>
+[Grief Out Loud](https://www.dougy.org/grief-resources/podcasts/dear-dougy-podcast/1621/) This podcast comes from The Dougy Center, one of the best centers serving bereaved children and adults in the US. It is excellent. I highly recommend it. 
 
 ## Blogs
 
