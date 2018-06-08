@@ -8,7 +8,7 @@ categories: other
 
 ![Figure of the reaper with motto This Too Shall Pass](https://farm5.staticflickr.com/4581/38364280031_27d1ccf543.jpg)
 
-As I passed into the region of grief and bereavement after [my partner died](https://lisawilliams.github.io/lisa/art/2017/03/26/eulogy-for-a-fairy-princess-heather-adels.html), I was disappointed at the poor quality of the Google-able resources on the topic of grief and bereavement. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
+As I passed into the region of grief and bereavement after [my partner died](https://lisawilliams.github.io/lisa/art/2017/03/26/eulogy-for-a-fairy-princess-heather-adels.html), I was disappointed at the poor quality of the Google-able resources on the topic. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
 
 Below are the books, articles, and scholarly papers which I found useful and which informed my own approach to grief recovery.
 
@@ -75,7 +75,7 @@ A very step-by step, action-oriented approach to grief with writing exercises. I
 ## Podcasts
 
 [What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.<br>
-[Grief Out Loud](https://www.dougy.org/grief-resources/podcasts/dear-dougy-podcast/1621/) This podcast comes from The Dougy Center, one of the best centers serving bereaved children and adults in the US. It is excellent. I highly recommend it. 
+[Grief Out Loud](https://www.dougy.org/grief-resources/podcasts/dear-dougy-podcast/1621/) This podcast comes from The Dougy Center, one of the best centers serving bereaved children and adults in the US. It is excellent. I highly recommend it.
 
 ## Blogs
 
@@ -83,6 +83,7 @@ A very step-by step, action-oriented approach to grief with writing exercises. I
 [What's Your Grief](https://whatsyourgrief.com/), Litsa Williams and Eleanor Haley<br>
 [Grief Healing Blog](https://www.griefhealingblog.com/)<br>
 [Modern Loss](http://modernloss.com/)<br>
+[Grief Beyond Belief](http://griefbeyondbelief.org/) - A site with grief resources for atheists and agnostics.
 
 ## Articles
 
