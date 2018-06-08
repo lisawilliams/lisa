@@ -12,35 +12,7 @@ As I passed into the region of grief and bereavement after [my partner died](htt
 
 Below are the books, articles, and scholarly papers which I found useful and which informed my own approach to grief recovery.
 
-11/12/17: I have much more work to do on this list, and many more resources to add. This document represents a 'pause point' in my work in creating it.
-
 ## Books
-
-*Currently on my to-read stack*
-
-**[Confessions of a Funeral Director](https://www.amazon.com/gp/product/0062465244/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062465244&linkId=937dd64ad618dd606e26e983a173b192)** by Caleb Wilde. <br>
-
-*Want to read*
-
-**[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/gp/product/0393334872/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393334872&linkId=a36379409258ce0e2d232db76268f05b)**, by Thomas Lynch. <BR>
-**[Good Mourning](https://www.amazon.com/gp/product/1476783616/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476783616&linkId=5396c6d61f74fddd1eabd4cededc8fb5)** by Elizabeth Meyer.<BR>
-**[Pardon My Hearse](https://www.amazon.com/gp/product/1610352483/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1610352483&linkId=8535ccdbc5f58445cf6150d474c1fca5)**, by Allan and Greg Abbott. <BR>
-**[Nine Years Under: Coming of Age in an Inner City Funeral Home](https://www.amazon.com/gp/product/1592407625/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1592407625&linkId=3b64fd54bfeda612007220ad99a7224d)**, by Sheri Booker.<br>
-**[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/gp/product/1401940838/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401940838&linkId=0fe34616c2234c5dcccc81200074dbfd)**, by Christina Rasmussen.<BR>
-
-*Suggested Readings*
-
-These books were suggested by friends & community members in response to this list:<BR>
-
-**[The Five Invitations](https://www.amazon.com/gp/product/1250074657/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250074657&linkId=2b3c7785db587a5ca89632582f92c381)**, by Frank Ostaseski.<BR>
-**[The Year of Magical Thinking](https://www.amazon.com/gp/product/1400078431/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1400078431&linkId=99e93e078da61c4a09bd4d82e7ed9953)**, by Joan Didion.<BR>
-**[Blue Nights](https://www.amazon.com/gp/product/0307387380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307387380&linkId=d80c3c5332047fe0c9a5de37dac6a116)**, by Joan Didion.<BR>
-**[A Widow's Story](https://www.amazon.com/gp/product/0062020501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062020501&linkId=b6244a08e15ff43b6883d57093d73f5f)**, by Joyce Carol Oates.<BR>
-
-
-*Reading*<Br>
-
-
 
 *Read*<br>
 
@@ -70,7 +42,30 @@ Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. 
 
 **[The Grief Recovery Handbook](https://www.amazon.com/gp/product/0061686077/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061686077&linkId=1b477f89d37f6004470c98bcdffd08e3)** by John James and Russell Friedman.
 
-A very step-by step, action-oriented approach to grief with writing exercises. I enjoyed the straightforward, active approach, but ultimately I opted not to follow through with the exercises, which I felt focused on closure over continuing bonds. YMMV.
+A very step-by step, action-oriented approach to grief with writing exercises. I enjoyed the straightforward, active approach, but ultimately I opted not to follow through with the exercises, which I felt focused on closure over continuing bonds. YMMV.<Br><BR>
+
+*Suggested Readings*
+
+These books were suggested by friends & community members in response to this list:<BR>
+
+**[The Five Invitations](https://www.amazon.com/gp/product/1250074657/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250074657&linkId=2b3c7785db587a5ca89632582f92c381)**, by Frank Ostaseski.<BR>
+**[The Year of Magical Thinking](https://www.amazon.com/gp/product/1400078431/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1400078431&linkId=99e93e078da61c4a09bd4d82e7ed9953)**, by Joan Didion.<BR>
+**[Blue Nights](https://www.amazon.com/gp/product/0307387380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307387380&linkId=d80c3c5332047fe0c9a5de37dac6a116)**, by Joan Didion.<BR>
+**[A Widow's Story](https://www.amazon.com/gp/product/0062020501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062020501&linkId=b6244a08e15ff43b6883d57093d73f5f)**, by Joyce Carol Oates.<BR>
+
+*Currently on my to-read stack*
+
+**[Confessions of a Funeral Director](https://www.amazon.com/gp/product/0062465244/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062465244&linkId=937dd64ad618dd606e26e983a173b192)** by Caleb Wilde. <br>
+
+*Want to read*
+
+**[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/gp/product/0393334872/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393334872&linkId=a36379409258ce0e2d232db76268f05b)**, by Thomas Lynch. <BR>
+**[Good Mourning](https://www.amazon.com/gp/product/1476783616/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476783616&linkId=5396c6d61f74fddd1eabd4cededc8fb5)** by Elizabeth Meyer.<BR>
+**[Pardon My Hearse](https://www.amazon.com/gp/product/1610352483/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1610352483&linkId=8535ccdbc5f58445cf6150d474c1fca5)**, by Allan and Greg Abbott. <BR>
+**[Nine Years Under: Coming of Age in an Inner City Funeral Home](https://www.amazon.com/gp/product/1592407625/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1592407625&linkId=3b64fd54bfeda612007220ad99a7224d)**, by Sheri Booker.<br>
+**[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/gp/product/1401940838/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401940838&linkId=0fe34616c2234c5dcccc81200074dbfd)**, by Christina Rasmussen.<BR>
+
+*Reading*<Br>
 
 ## Podcasts
 
