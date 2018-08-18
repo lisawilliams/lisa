@@ -87,6 +87,18 @@ Added to collection: 2013<br>
 Gallery: Foster Gallery, Worcester<br>
 <br><br>
 
+<h3>Cool Band</h3>
+![Cool Band, a painting by Rose Olson](https://farm2.staticflickr.com/1832/30251963308_bba54d3282_b.jpg)<br><br>
+Title: Cool Band
+Artist: Rose Olson<br>
+Year Created: 2016<br>
+Artform: Painting<br>
+Materials: Acrylic<br>
+Surface: Wood panel<br>
+Dimensions: 10in x 10in x 2in<br>
+Added to collection: 2018<br>
+<br><br>
+
 <h3>India I</h3>
 ![India I, detail, Jeffrey Stevens, 2017](https://farm5.staticflickr.com/4483/37449597076_757b74e543_k.jpg)<br><br>
 Title: India I<br>
