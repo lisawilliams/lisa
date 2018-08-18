@@ -97,6 +97,7 @@ Materials: Acrylic<br>
 Surface: Wood panel<br>
 Dimensions: 10in x 10in x 2in<br>
 Added to collection: 2018<br>
+Gallery: Hutson Gallery<br>
 <br><br>
 
 <h3>India I</h3>
