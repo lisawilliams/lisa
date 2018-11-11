@@ -11,7 +11,7 @@ This is a story about the influence artists have on each other.
 
 'Cool Band', by Rose Olson, is not a large painting. It is a ten inch square. "Very hard to photograph," the gallery owner said to me.
 
-That's because this is a painting that looks dramatically different in different light and even if you are standing in a different place. Here it is on my living room wall:
+That's because this is a painting that looks dramatically different in different light and even if you are standing in a different place. Here it is on my living room wall. Use the slider to see the difference:
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
