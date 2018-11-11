@@ -7,7 +7,7 @@ categories: art
 ![Cool Band, a painting by Rose Olson](https://farm2.staticflickr.com/1832/30251963308_bba54d3282_b.jpg)
 
 
-This is a story about the influence artists have on each other.
+This is a story about the influence artists have on each other. The influence we all have on each other, really.
 
 'Cool Band', by Rose Olson, is not a large painting. It is a ten inch square. "Very hard to photograph," the gallery owner said to me.
 
@@ -39,7 +39,7 @@ They also remind me of how we all, but perhaps women in particular, make use of 
 
 How often do we size up people with such snap judgments, not only missing deeper levels, but believing they don't exist? Even with people we know well, few of us tell everybody everything; some levels of knowledge are a privilege, granted only to a chosen few who have earned it with the willingness to be patient, the willingness to not understand things so quickly, the willingness to accept what is revealed.
 
-If this "Cool Band" was a person, we could imagine it giving a whispered aside to a friend, one who is allowed to see the vivid flash of iridescent purple, one the straight viewer, the passerby, never sees.
+If this "Cool Band" was a person, we could imagine it giving a whispered aside to a friend, one who is allowed to see the vivid flash of iridescent purple, one the straight viewer, the passerby, never sees. And it is by offering those private insights that we change each other, our work, and our world. 
 
 <sub>*Photo credits:*
 *'Cool Band,' by Rose Olson. Acrylic on wood panel; photo courtesy of the Hutson Gallery.*<br>
