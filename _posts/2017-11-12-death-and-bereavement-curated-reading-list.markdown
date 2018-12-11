@@ -10,7 +10,7 @@ categories: other
 
 As I passed into the region of grief and bereavement after [my partner died](https://lisawilliams.github.io/lisa/art/2017/03/26/eulogy-for-a-fairy-princess-heather-adels.html), I was disappointed at the poor quality of the Google-able resources on the topic. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
 
-Below are the books, articles, and scholarly papers which I found useful and which informed my own approach to grief recovery.
+Below are the books, articles, scholarly papers and ideas which I found useful and which informed my own approach to grief recovery.
 
 ## The Most Important Thing I Learned About Grief
 
@@ -32,7 +32,7 @@ I now believe the job of people around grieving people is to do whatever they ca
 
 ## The Third Most Important Thing I Learned About Grief
 
-There is no right or wrong way to grieve. People may try to 'police' your grieving, maybe judging you for not being sad enough, or telling you you should be over it by X time, or trying to enforce a narrative "they're in a better place/they're not suffering." These people aren't trying to harm you, but they may be really uncomfortable with the feelings around death themselves. They're also deeply embedded in a cultural narrative we have in the US around death. The fact that we do bereavement different ways in different countries is proof that there's more than one way to do it. After my father died, I watched every Dirty Harry film in a back room while I wrapped presents. After my partner died, instead of ignoring the holiday, my family changed it, using blue lights on our Christmas tree and [changing our Christmas playlists](https://open.spotify.com/user/udiscover/playlist/5lTy3w4iZbOAdJPWV7fEN5?si=RrgoLX85QX2uRZt31OhbhA). 
+There is no right or wrong way to grieve. People may try to 'police' your grieving, maybe judging you for not being sad enough, or telling you you should be over it by X time, or trying to enforce a narrative "they're in a better place/they're not suffering." These people aren't trying to harm you, but they may be really uncomfortable with the feelings around death themselves. They're also deeply embedded in a cultural narrative we have in the US around death. The fact that we do bereavement different ways in different countries is proof that there's more than one way to do it. After my father died, I watched every Dirty Harry film in a back room while I wrapped presents. After my partner died, instead of ignoring the holiday, my family changed it, using blue lights on our Christmas tree and [changing our Christmas playlists](https://open.spotify.com/user/udiscover/playlist/5lTy3w4iZbOAdJPWV7fEN5?si=RrgoLX85QX2uRZt31OhbhA).
 
 
 
