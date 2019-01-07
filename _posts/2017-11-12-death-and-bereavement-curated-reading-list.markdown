@@ -34,8 +34,6 @@ I now believe the job of people around grieving people is to do whatever they ca
 
 There is no right or wrong way to grieve. People may try to 'police' your grieving, maybe judging you for not being sad enough, or telling you you should be over it by X time, or trying to enforce a narrative "they're in a better place/they're not suffering." These people aren't trying to harm you, but they may be really uncomfortable with the feelings around death themselves. They're also deeply embedded in a cultural narrative we have in the US around death. The fact that we do bereavement different ways in different countries is proof that there's more than one way to do it. After my father died, I watched every Dirty Harry film in a back room while I wrapped presents. After my partner died, instead of ignoring the holiday, my family changed it, using blue lights on our Christmas tree and [changing our Christmas playlists](https://open.spotify.com/user/udiscover/playlist/5lTy3w4iZbOAdJPWV7fEN5?si=RrgoLX85QX2uRZt31OhbhA).
 
-
-
 ## Books
 
 *Read*<br>
