@@ -12,28 +12,6 @@ As I passed into the region of grief and bereavement after [my partner died](htt
 
 Below are the books, articles, scholarly papers and ideas which I found useful and which informed my own approach to grief recovery.
 
-## The Most Important Thing I Learned About Grief
-
-If I had only one thing to pass on to people who have recently lost someone, it would be this: Grief is not "just feelings."
-
-Grief is emotional, but it's also cognitive and physical.
-
-Feelings that don't seem 'normal' -- feelings other than sadness -- are actually very common. It's common to feel like other bad things might happen, or a complete lack of fear because 'the worst has already happened.' Some people feel relief. If you suddenly feel really bad about yourself, there's a word for that: it's survivor's guilt, and it's also really common.
-
-But grief also has cognitive and physical components. Like many other people, I had difficulty focusing and concentrating. After running through a red light, I took a couple of weeks off driving because I realized my lack of focus made me more accident-prone. Tasks that may seem normal or even automatic may be difficult. It's okay to let other people do them or not do them yourself if you think you might need a break from them.
-
-Many people also experience physical symptoms after the death of someone close to them. For older adults or people with medical conditions that make their health more fragile, it may be a good idea to visit a doctor. These symptoms are common enough that they too have a name: "heartbreak syndrome." People report heart palpitations, headaches, difficulty sleeping, and upset stomach. Plenty of rest, very gentle exercise if possible, simple foods, and limiting caffeine and alcohol are all good ideas.
-
-## The Second Most Important Thing I Learned About Grief
-
-Because I was dissatisfied with a lot of the writing I encountered on grief, I actually read a lot of academic literature and studies on the subject. One thing that really stuck with me: how well a person is doing five years after a major loss has almost nothing to do with the scale of the primary loss (who died and how close that person or people were). How well they are doing five years later has much more to do with secondary losses. An example of a secondary loss: a woman's husband dies (primary loss) and, unable to make the mortgage payments, she loses the house they lived in (secondary loss).
-
-I now believe the job of people around grieving people is to do whatever they can to prevent secondary losses -- from accidents and illnesses that may be more likely due to the stress of a loss, to financial losses that happen because a person has a hard time keeping up with bills or organizing taxes.
-
-## The Third Most Important Thing I Learned About Grief
-
-There is no right or wrong way to grieve. People may try to 'police' your grieving, maybe judging you for not being sad enough, or telling you you should be over it by X time, or trying to enforce a narrative "they're in a better place/they're not suffering." These people aren't trying to harm you, but they may be really uncomfortable with the feelings around death themselves. They're also deeply embedded in a cultural narrative we have in the US around death. The fact that we do bereavement different ways in different countries is proof that there's more than one way to do it. After my father died, I watched every Dirty Harry film in a back room while I wrapped presents. After my partner died, instead of ignoring the holiday, my family changed it, using blue lights on our Christmas tree and [changing our Christmas playlists](https://open.spotify.com/user/udiscover/playlist/5lTy3w4iZbOAdJPWV7fEN5?si=RrgoLX85QX2uRZt31OhbhA).
-
 ## Books
 
 *Read*<br>
