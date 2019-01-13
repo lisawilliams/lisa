@@ -5,6 +5,8 @@ date:   2019-01-12 13:35:39 -0500
 categories: death
 ---
 
+![Grave tympanum, Plymouth Colony, 1600s](https://farm5.staticflickr.com/4918/45996579994_f6060ddaa8_o.jpg)
+
 ## The Most Important Thing I Learned About Grief
 
 If I had only one thing to pass on to people who have recently lost someone, it would be this: Grief is not "just feelings."
@@ -39,4 +41,4 @@ Much bereavement advice is aimed at "normal" people and "normal" deaths. By that
 
 That advice will tell you to "reach out," to talk to other people about your experience.
 
-Consider carefully whether it is safe for you to do so first. If the person close to you died suddenly, unexpectedly; if they died as a result of violence or suicide; if you were in a relationship with them but you weren't married; if you're gay, if you're trans...the responses you get from other people might be kind and loving. They might also be degrading, hostile, dehumanizing or even violent. Take care of yourself first. 
+Consider carefully whether it is safe for you to do so first. If the person close to you died suddenly, unexpectedly; if they died as a result of violence or suicide; if you were in a relationship with them but you weren't married; if you're gay, if you're trans...the responses you get from other people might be kind and loving. They might also be degrading, hostile, dehumanizing or even violent. Take care of yourself first.
