@@ -17,3 +17,5 @@ Audiograms contain a minimum of two elements -- a visual, which we call a "card,
 
 Card:<a href ="https://drive.google.com/file/d/181E_XON7UB7wE7A5yAO5aWoL8X19kHxC/view?usp=sharing">Audiogram card</A><br>
 Audio: <a href ="https://drive.google.com/open?id=17iUHX1ggjUt1hmp1doZcUfJkORqj1aYb">warren.cut.mp3</A><br>
+
+Sorry -- this isn't a full tutorial; just a page that was handy for an in-person training. 

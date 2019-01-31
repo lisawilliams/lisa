@@ -17,8 +17,6 @@ Let's back up a minute and unpack that sentence: 'I collect contemporary abstrac
 
 Okay, let's take it word by word. First, lets start with *'I collect.'* That means I am an art collector.
 
-But I also drive a used Toyota. More on that in a minute.
-
 Next up is *'abstract.'* That means 'not representational or figurative.' I don't own many pictures of things: I don't collect landscapes or still lifes or portraits (although I do own several portraits).
 
 That brings us to *'contemporary.'* Contemporary is works by artists who are alive today.
