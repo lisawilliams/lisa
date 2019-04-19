@@ -42,3 +42,7 @@ Much bereavement advice is aimed at "normal" people and "normal" deaths. By that
 That advice will tell you to "reach out," to talk to other people about your experience.
 
 Consider carefully whether it is safe for you to do so first. If the person close to you died suddenly, unexpectedly; if they died as a result of violence or suicide; if you were in a relationship with them but you weren't married; if you're gay, if you're trans...the responses you get from other people might be kind and loving. They might also be degrading, hostile, dehumanizing or even violent. Take care of yourself first.
+
+## A Curated Reading List on Death, Grief And Bereavement
+
+I've put together a [curated reading list](https://lisawilliams.github.io/lisa/other/2017/11/12/death-and-bereavement-curated-reading-list.html) of books, websites, and other resources on this topic. 
