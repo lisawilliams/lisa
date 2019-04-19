@@ -72,13 +72,15 @@ These books were suggested by friends & community members in response to this li
 [What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.<br>
 [Grief Out Loud](https://www.dougy.org/grief-resources/podcasts/dear-dougy-podcast/1621/) This podcast comes from The Dougy Center, one of the best centers serving bereaved children and adults in the US. It is excellent. I highly recommend it.
 
-## Blogs
+## Blogs, Websites, And Other Resources
 
 [Refuge in Grief](http://www.refugeingrief.com/), Megan Devine<br>
 [What's Your Grief](https://whatsyourgrief.com/), Litsa Williams and Eleanor Haley<br>
 [Grief Healing Blog](https://www.griefhealingblog.com/)<br>
 [Modern Loss](http://modernloss.com/)<br>
 [Grief Beyond Belief](http://griefbeyondbelief.org/) - A site with grief resources for atheists and agnostics.
+[Sudden.org](http://www.suddendeath.org/) Sudden and 'out-of-order' deaths are devastating, and different from the kinds of expected losses when a person dies after a normal lifespan. This site is about the specific experience of sudden bereavement.
+[GRASP](http://grasphelp.org/) Grief Recovery After a Substance Passing is an organization that helps people who have lost someone due to substance abuse.
 
 ## Articles
 
