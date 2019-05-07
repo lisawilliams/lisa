@@ -12,7 +12,7 @@ As I passed into the region of grief and bereavement after [my partner died](htt
 
 Below are the books, articles, scholarly papers and ideas which I found useful and which informed my own approach to grief recovery.
 
-I also wrote [The Three Most Important Things I Learned About Grief](https://lisawilliams.github.io/lisa/other/2017/11/12/death-and-bereavement-curated-reading-list.html). In it, I summarize the three things I wish I knew when my partner died suddenly. 
+I also wrote [The Three Most Important Things I Learned About Grief](https://lisawilliams.github.io/lisa/other/2017/11/12/death-and-bereavement-curated-reading-list.html). In it, I summarize the three things I wish I knew when my partner died suddenly.
 
 ## Books
 
@@ -76,12 +76,13 @@ These books were suggested by friends & community members in response to this li
 
 ## Blogs, Websites, And Other Resources
 
-[Refuge in Grief](http://www.refugeingrief.com/), Megan Devine<br>
+[Refuge in Grief](http://www.refugeingrief.com/), Megan Devine. Her "[Rules at Impact](https://www.refugeingrief.com/wp-content/uploads/2017/11/EarlyGrief-WebReady.png)" for surviving early grief are excellent.
 [What's Your Grief](https://whatsyourgrief.com/), Litsa Williams and Eleanor Haley<br>
 [Grief Healing Blog](https://www.griefhealingblog.com/)<br>
 [Modern Loss](http://modernloss.com/)<br>
 [Grief Beyond Belief](http://griefbeyondbelief.org/) - A site with grief resources for atheists and agnostics.<br>
 [Sudden.org](http://www.suddendeath.org/) Sudden and 'out-of-order' deaths are devastating, and different from the kinds of expected losses when a person dies after a normal lifespan. This site is about the specific experience of sudden bereavement.<br>
+[Alliance of Hope](https://allianceofhope.org/) is an organization that helps people bereaved by suicide. <br>
 [GRASP](http://grasphelp.org/) Grief Recovery After a Substance Passing is an organization that helps people who have lost someone due to substance abuse.<br>
 
 ## Articles
@@ -103,6 +104,10 @@ These books were suggested by friends & community members in response to this li
 [Quest for Solace](http://www.espn.com/espn/feature/story/_/page/espnw-keith170302/iditarod-competitor-loses-everything-finds-solace-alaska-wilderness), by Matt Crossman in ESPN-W.
 
 [All The Things That Remind Me Of Her](https://www.salon.com/2010/11/25/jennifers_40_birthday_seitz_essay/?src=longreads), by Matt Zoller-Seitz, Slate.
+
+[What A Year Of Grief Taught Me About Monuments And Memorials](https://hyperallergic.com/420488/what-a-year-of-grief-taught-me-about-monuments-and-memorials/), Ric Kasini Kadour, Hyperallergic.
+
+[There Are No Five Stages Of Grief](https://www.nytimes.com/2019/02/28/style/self-care/there-are-no-five-stages-of-grief.html), Andy Kopsa, New York Times. 
 
 
 
