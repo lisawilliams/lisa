@@ -35,7 +35,7 @@ But it was from Olson that Heather took the idea of using very thin, translucent
 
 These are works that remind us of the inescapable phenomenon of perspective: things are going to look different depending on where we're standing. Your perspective is not going to be my perspective. We may never arrive at a shared idea of the truth; we may never know a person the way another person knows them. Time passes. Our mood shifts. Our mind changes. With those changes, how we see people, places, and events also changes.
 
-They also remind me of how we all, but perhaps women in particular, make use of privacy: one of our primary freedoms is to pick and choose how well other people know us. Someone looking straight on at 'Cool Band' only sees the flat band of color, thinks it's an orange painting, and in a second may believe they understand everything there is to understand.
+They also remind me of how we all, but perhaps queer women in particular, make use of privacy: one of our primary freedoms is to pick and choose how well other people know us. Someone looking straight on at 'Cool Band' only sees the flat band of color, thinks it's an orange painting, and in a second may believe they understand everything there is to understand.
 
 How often do we size up people with such snap judgments, not only missing deeper levels, but believing they don't exist? Even with people we know well, few of us tell everybody everything; some levels of knowledge are a privilege, granted only to a chosen few who have earned it with the willingness to be patient, the willingness to not understand things so quickly, the willingness to accept what is revealed.
 
