@@ -12,7 +12,7 @@ As I passed into the region of grief and bereavement after [my partner died](htt
 
 Below are the books, articles, scholarly papers and ideas which I found useful and which informed my own approach to grief recovery.
 
-I also wrote [The Three Most Important Things I Learned About Grief](https://lisawilliams.github.io/lisa/other/2017/11/12/death-and-bereavement-curated-reading-list.html). In it, I summarize the three things I wish I knew when my partner died suddenly.
+I also wrote [The Three Most Important Things I Learned About Grief](https://lisawilliams.github.io/lisa/death/2019/01/12/the-most-important-things-i-learned-about-grief.html). In it, I summarize the three things I wish I knew when my partner died suddenly.
 
 ## Books
 
