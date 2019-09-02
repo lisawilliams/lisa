@@ -33,7 +33,7 @@ Oil on masonite<br>*
 
 This painting could little be more different than "American." How thoroughly thought out, well executed, and *finished* it is. Like Sheeler's painting, though, it is also forward-looking, almost digital in effect, though Trumbull Mason's work was well before the adaptation of computers to use in art in the way we think of such crossovers today.
 
-As I give a painting a long look, I try to get past what I *think* about a feeling and as quickly as possible into what I feel about it. It's rarely a quick process, which is why I always ask for the small folding portable stools many museums offer. I want to minimize distractions and fidgeting.
+As I give a painting a long look, I try to get past what I *think* about a feeling and as quickly as possible into what I feel about it. It's rarely a quick process, which is why I always ask for the small folding portable stools many museums offer. [It's a long trip](https://lisawilliams.github.io/lisa/art/2017/08/23/PEM-report.html) from the head to the heart.
 
 *It's going to be all right,* this painting murmurs. But why?
 
