@@ -42,3 +42,9 @@ Abstract works demand more of us than any "picture of a thing," whether that thi
 There are so many interconnections in this painting; it makes me imagine the overlap of individuals, families, and institutions from the humble coffee shop to the big civic institutions that outlive all of us. And down the center of the painting is the river of burnt umber, the only color that touches more than one edge of the canvas, the great stream of a community.
 
 When looking at an artwork, I always love best the works that I believe would reward repeated viewings, and this is clearly one of those, both for its dense, rich color, and its precise, technical execution.
+
+**Old Friends**
+
+I saw two works from artists I'm familiar with. This detail, from a painting called *Magic Lantern,* is from an artist virtually everyone is familiar with: it's one of Jackson Pollock's earliest "poured paintings." Yes, that's a carpet tack in the middle. I couldn't stop looking for one once I saw it listed in the gallery tag as one of the materials used in this painting.
+
+Unlike his later poured paintings, this one is quite small; perhaps four feet by two feet, taller than it is wide. It's also not exactly placed in a position of honor, despite being a gift from famed collector Peggy Guggenheim. It's interesting to watch people watching a Pollock. One laughed. Another wondered why such a work would be in a museum. He's famous, but also a bit of a punchline. 
