@@ -49,9 +49,9 @@ I saw two works from artists I'm familiar with. This detail, from a painting cal
 
 ![Magic Lantern, detail with carpet tack, Jackson Pollock](https://live.staticflickr.com/65535/48655608367_0d9bced574_k.jpg)<br>
 
-Unlike his later poured paintings, this one is quite small; perhaps four feet by two feet, taller than it is wide. It's also not exactly placed in a position of honor, despite being a gift from famed collector Peggy Guggenheim. It's interesting to watch people watching a Pollock. One laughed. Another wondered why such a work would be in a museum. He's famous, but also a bit of a punchline.
+Unlike his later poured paintings, this one is quite small; perhaps four feet by two feet, taller than it is wide. It's also not exactly placed in a position of honor, despite being a work from a groundbreaking painter and a gift from famed collector Peggy Guggenheim. It's interesting to watch people watching a Pollock. One laughed. Another wondered why such a work would be in a museum. He's famous, but also a bit of a punchline.
 
-Lastly, my dear Agnes Martin was there, with a painting bringing me full circle from Sheeler's "American" with a painting called "America." Painted in 1958 and 1959, this is very different from the monumental works of Martin's that I write about [here](https://lisawilliams.github.io/lisa/art/2017/12/08/falling-blue.html) Perhaps 2X3, two modest rectangles in different shades of olive and tan sit side by side.
+Lastly, my dear Agnes Martin was there, with a painting bringing me full circle from Sheeler's "American" with a painting called "America." Painted in 1958 and 1959, this is very different from the monumental works of Martin's that I write about [here](https://lisawilliams.github.io/lisa/art/2017/12/08/falling-blue.html). Perhaps 2X3, two modest rectangles in different shades of olive and tan sit side by side.
 
 !["America," Agnes Martin](https://live.staticflickr.com/65535/48655607987_ded31f82b5_k.jpg)<Br>
 
