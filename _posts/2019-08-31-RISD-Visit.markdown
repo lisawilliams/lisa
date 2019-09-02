@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "RISD Visit Report, August 31, 2019"
+title:  "An Afternoon With My Flat Friends"
 date:   2019-08-31 17:23:39 -0400
 categories: art
 ---
 
-I visited the RISD Museum in Providence, RI, today, to spend some time taking my customary [Long Look](https://lisawilliams.github.io/lisa/art/2017/09/08/learning-to-look.html) at a number of works.
+I visited the RISD Museum in Providence, RI, today, to spend some time taking my customary [Long Look](https://lisawilliams.github.io/lisa/art/2017/09/08/learning-to-look.html) at a number of works. I had a delightful afternoon with my "flat friends," new and old.
 
 ![American, Charles Sheeler, Painting, 1916](https://live.staticflickr.com/65535/48655460526_92bddc098b_k.jpg)
 <br>
@@ -45,6 +45,20 @@ When looking at an artwork, I always love best the works that I believe would re
 
 **Old Friends**
 
-I saw two works from artists I'm familiar with. This detail, from a painting called *Magic Lantern,* is from an artist virtually everyone is familiar with: it's one of Jackson Pollock's earliest "poured paintings." Yes, that's a carpet tack in the middle. I couldn't stop looking for one once I saw it listed in the gallery tag as one of the materials used in this painting.
+I saw two works from artists I'm familiar with. This detail, from a painting called *Magic Lantern,* is from an artist virtually everyone is familiar with: it's one of Jackson Pollock's earliest "poured paintings." Yes, that's a carpet tack in the middle. I couldn't stop looking for one once I saw it listed in the gallery tag as one of the materials used in this work.
 
-Unlike his later poured paintings, this one is quite small; perhaps four feet by two feet, taller than it is wide. It's also not exactly placed in a position of honor, despite being a gift from famed collector Peggy Guggenheim. It's interesting to watch people watching a Pollock. One laughed. Another wondered why such a work would be in a museum. He's famous, but also a bit of a punchline. 
+![Magic Lantern, detail with carpet tack, Jackson Pollock](https://live.staticflickr.com/65535/48655608367_0d9bced574_k.jpg)<br>
+
+Unlike his later poured paintings, this one is quite small; perhaps four feet by two feet, taller than it is wide. It's also not exactly placed in a position of honor, despite being a gift from famed collector Peggy Guggenheim. It's interesting to watch people watching a Pollock. One laughed. Another wondered why such a work would be in a museum. He's famous, but also a bit of a punchline.
+
+Lastly, my dear Agnes Martin was there, with a painting bringing me full circle from Sheeler's "American" with a painting called "America." Painted in 1958 and 1959, this is very different from the monumental works of Martin's that I write about [here](https://lisawilliams.github.io/lisa/art/2017/12/08/falling-blue.html) Perhaps 2X3, two modest rectangles in different shades of olive and tan sit side by side.
+
+!["America," Agnes Martin](https://live.staticflickr.com/65535/48655607987_ded31f82b5_k.jpg)<Br>
+
+Were these meant to represent the two different years (1958 and 59?) Do the dimensions of the painting -- not square -- indicate that this work predates Martin's incorporation of massive grids into her work?
+
+When I look at Martin's work, I often think of Heather's work -- a close look always makes me think, "[Her hand touched every millimeter of this surface.](https://lisawilliams.github.io/lisa/art/2017/08/31/Alstroemeria.html)" Two rectangles -- they could be the product of Photoshop, or an industrial process. But they are, upon closer inspection, incontrovertibly the product of an artist's hand.
+
+!["America," detail with brush lines](https://live.staticflickr.com/65535/48655608242_3a9c279745_k.jpg)
+
+I had a delightful afternoon with my flat friends.
