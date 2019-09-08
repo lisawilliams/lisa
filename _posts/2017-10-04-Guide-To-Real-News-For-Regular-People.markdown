@@ -15,7 +15,7 @@ These are the sources *I* read and trust. For national and international news, [
 
 Here's a chart looking at news sources in the US in terms of their political viewpoint. The labels are funny, but the analysis is serious.
 
-![News sources in the US](https://www.copyediting.com/wp8730/wp-content/uploads/2017/03/News-Sources-by-Vanessa-Otera.jpg)
+![News sources in the US](https://www.adfontesmedia.com/wp-content/uploads/2017/08/Second-Edition-News-Chart.V2.jpg)
 
 Now for a few tips:
 
