@@ -10,7 +10,7 @@ McArthur Binion<br>
 Oil stick, ink, and paper on board<br>
 2017<br></i><br>
 
-I adore obsessives. There is something about a person who has an obsession, about their devotion to collecting vinyl 45s, or making chocolates with flowers the size of a pencil point repeated across its surface, or motorcycles with chrome whose polish requires a kind of monastic sensibility.
+I adore obsessives. There is something about a person who has an obsession, about their devotion to collecting vinyl 45s, or making chocolates with flowers the size of a pencil point repeated across its surface, or motorcycles with chrome whose polish requires a kind of monastic sensibility, that has always attracted me. 
 
 McArthur Binion's painting, <i>Route One, Box Two V</i> is (by my estimation) six feet high by six feet wide. It is composed of 8X8 "bricks," each of which is about a quarter of an inch wide.
 
