@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is Lisa Williams. I'm a technologist, creator, and entrepreneur. I've worked with NPR affilates, The Boston Globe, the MIT Media Lab and more.
+My name is Lisa Williams.
 
-Professionally, my areas of interest include web development and and data visualization, particularly around individual and social transformation. 
+Professionally, my areas of interest include web development and and data visualization, particularly around individual and social transformation.
 
 Personally, my interests include contemporary art and vintage motorcycles.
 
