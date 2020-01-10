@@ -10,17 +10,17 @@ McArthur Binion<br>
 Oil stick, ink, and paper on board<br>
 2017<br></i><br>
 
-I adore obsessives. There is something about a person who has an obsession, about their devotion to collecting vinyl 45s, or making chocolates with flowers the size of a pencil point repeated across its surface, or motorcycles with chrome whose polish requires a kind of monastic sensibility, that has always attracted me. 
+I adore obsessives. There is something about a person who has an obsession, about their devotion to collecting vinyl 45s, or making chocolates with flowers the size of a pencil point repeated across its surface, or motorcycles with chrome whose polish requires a kind of monastic sensibility, that has always enchanted me.
 
-McArthur Binion's painting, <i>Route One, Box Two V</i> is (by my estimation) six feet high by six feet wide. It is composed of 8X8 "bricks," each of which is about a quarter of an inch wide.
+McArthur Binion's painting, <i>Route One, Box Two V</i> is (by my estimation) six feet high by six feet wide. The surface is divided into squares, 20 across, and 20 high. Each of these squares is composed of an eight by eight grid, where each of the 64 smaller squares is about a quarter of an inch across.
 
 ![Route One, Box Two V,' McArthur Binion,detail ](https://live.staticflickr.com/65535/49039170822_f65a1dd100_z.jpg)
 
-I did the math for you. McArthur Binion individually created 7,680 individual squares - think of them as individual, tiny paintings -- to make this work.
+I did the math for you. McArthur Binion individually created 28,160 individual squares - think of them as individual, tiny paintings -- to make this work.
 
-Perhaps obsession is the wrong word. Devotion, perhaps, is a better word. Devotion is a close neighbor to love, to the kind of love that causes us to lose sight of the goal. After all, who wants it to end? The glory is in the repetition; we cannot say "I love you," too much, or hear it too much. Outsiders watching us might roll their eyes, see us as a cliche -- and we might be a cliche, just as it's easy to imagine this painting being cribbed by some enterprising Swedish designer as the inspiration for an IKEA duvet set. The fact that it may seem simple and repetitive makes it no less powerful for the ones who are inside the experience.
+Perhaps obsession is the wrong word. Devotion, perhaps, is a better word. Devotion is a close neighbor to love, to the kind of love that causes us to lose sight of the goal. After all, who wants it to end? The glory is in the repetition; we cannot say "I love you," too much, or hear it too much, when we are in love. Outsiders watching us might roll their eyes, see us as a cliche -- and we might be a cliche, just as it's easy to imagine this painting being cribbed by some enterprising Swedish designer as the inspiration for an IKEA duvet set. The fact that it may seem simple and repetitive makes it no less powerful for the ones who are inside the experience.
 
-As a side note, this work is in an anteroom alongside one of the [ICA's](http://icaboston.org) highest profile new acquisition: 'Love is Calling,' by the Japanese artist Yayoi Kusama. Repetition, even what some might call obsessiveness, is central to Kusama's work. 'Love is Calling' is one of Kusama's 'infinity room' works -- they are installed inside a room of mirrors and appear to go on infinitely. Like love, they are bigger on the inside than the outside.
+As a side note, at this writing, this work is in an anteroom alongside one of the [ICA's](http://icaboston.org) highest profile new acquisition: 'Love is Calling,' by the Japanese artist Yayoi Kusama. Repetition, even what some might call obsessiveness, is central to Kusama's work. 'Love is Calling' is one of Kusama's 'infinity room' works -- they are installed inside a room of mirrors and appear to go on infinitely. Like love, they are bigger on the inside than the outside.
 
 !['Love is Calling,' Yayoi Kusama](https://live.staticflickr.com/5529/9358572587_2628c957c0_z.jpg)<br><br>
 <i>'Love is Calling,' Yayoi Kusama. Photo courtesy of [Alcyone](https://www.flickr.com/photos/alcyoneathcx/9358572587/in/photolist-ffZ8zM-ffZ7Sa-Jz6gAh-eMNf9d/).</i><br><br>
