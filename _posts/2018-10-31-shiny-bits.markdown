@@ -5,7 +5,7 @@ date:   2017-10-31  09:31:39 -0500
 categories: work
 ---
 
-![https://live.staticflickr.com/65535/40300050893_1eedda48ab_z.jpg]
+![Shiny stuff!](https://live.staticflickr.com/65535/40300050893_1eedda48ab_z.jpg)
 
 I am currently working at <a href ="http://www.wgbh.org/news">WGBH News</a>, where I am Audience Engagement Editor. It's my job to drive audience growth and loyalty. During my time there, I was able to increase the News division's digital audience sixfold.
 
