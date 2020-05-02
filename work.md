@@ -25,7 +25,7 @@ This fellowship supports educators who want to make changes that have a positive
 **The Trollbusters Bot**
 *October, 2017*
 
-I worked with Trollbusters founder Michelle Ferrier to create a chatbot for the organization, which helps women writers who are the targets of online harassment and abuse. For a writeup of the why and how of this project, see Building the Trollbusters Bot.
+I worked with Trollbusters founder Michelle Ferrier to create a chatbot for the organization, which helps women writers who are the targets of online harassment and abuse.
 
 **Winner, Edward R. Murrow Award for Excellence in Innovation for the podcast Magic Pill**
 *September, 2017*
@@ -40,7 +40,7 @@ I served as chair of the board for an innovative educational technology nonprofi
 **Winner, Curious Codefest Education Hackathon**
 *June 2015*
 
-I pitched a project and organized a team to create CanRead, an app that makes ebooks more accessible to students with language-based learning difficulties such as dyslexia. See canread.github.io for more information. This project won the hackathon, which was hosted by educational publishing company Houghton Mifflin Harcourt.
+I pitched a project and organized a team to create CanRead, an app that makes ebooks more accessible to students with language-based learning difficulties such as dyslexia. This project won the hackathon, which was hosted by educational publishing company Houghton Mifflin Harcourt.
 
 **50 Female Innovators In Digital Journalism & Tech**
 *Journalism.co.uk, 2013*
