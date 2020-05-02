@@ -1,14 +1,7 @@
 ---
 layout: page
-title: Shiny Bits
+title: Work
 permalink: /work/
----
-
----
-layout: post
-title:  "Shiny Bits"
-date:   2017-10-31  09:31:39 -0500
-categories: work
 ---
 
 ![Shiny stuff!](https://live.staticflickr.com/65535/40300050893_1eedda48ab_z.jpg)
