@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Lisa Williams.
 
-Professionally, I currently work in a newsroom using technology to help people be informed and engaged citizens. The best way to get a chronological sense of my career is my <a href ="https://www.linkedin.com/in/lisawilliams/">LinkedIn profile</a>. Awards, projects, and honors I am proud of can be found <a href ="https://lisawilliams.github.io/lisa/work/2017/10/31/shiny-bits.html">here</a>.
+Professionally, I currently work in a newsroom using technology to help people be informed and engaged citizens. The best way to get a chronological sense of my career is my <a href ="https://www.linkedin.com/in/lisawilliams/">LinkedIn profile</a>. Awards, projects, and honors I am proud of can be found <a href ="https://lisawilliams.github.io/lisa/work/">here</a>.
 
 Here's my <a href ="https://github.com/lisawilliams/">GitHub</a>.
 
