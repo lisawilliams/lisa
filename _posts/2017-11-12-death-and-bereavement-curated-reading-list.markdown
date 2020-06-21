@@ -90,9 +90,15 @@ These books were suggested by friends & community members in response to this li
 
 ## Articles
 
-[The Space Between Mourning and Grief](https://www.theatlantic.com/entertainment/archive/2016/06/internet-grief/485864/), Claire Wilmot, The Atlantic Monthly, June 8, 2016. "Social media has made it easy to share condolences after a death—but it hasn’t led to an online culture that’s more sensitive about loss."
+[We're Not Ready For This Kind Of Grief](https://www.theatlantic.com/ideas/archive/2020/04/were-not-ready-for-this-kind-of-grief/609856/), Amitha Kalaichandran, The Atlantic, April 13, 2020. About the unique features of grief from the coronavirus pandemic.
+
+[How Coronavirus Has Transformed The Grieving Process](https://theconversation.com/how-coronavirus-has-transformed-the-grieving-process-136368), Lucy Selman, The Conversation, May 2020. 
+
+[The Space Between Mourning and Grief](https://www.theatlantic.com/entertainment/archive/2016/06/internet-grief/485864/), Claire Wilmot, The Atlantic, June 8, 2016. "Social media has made it easy to share condolences after a death—but it hasn’t led to an online culture that’s more sensitive about loss."
 
 [The Secret Life of Grief](https://www.theatlantic.com/health/archive/2013/12/the-secret-life-of-grief/281992/), Derek Thompson, The Atlantic Monthly, December 3, 2013. "My mom’s cancer and the science of resilience."
+
+[What Ancient Cultures Teach Us About Grief, Mourning And Continuity Of Life](https://theconversation.com/what-ancient-cultures-teach-us-about-grief-mourning-and-continuity-of-life-86199), Daniel Wojcik and Robert Dobler, The Conversation, November 1, 2017. One of my favorite topics: grief in America is harsh and the bereaved are expected to be "done" with it and back to work almost instantly. That's not how it's worked throughout history, nor is it how it works throughout the world. It's also just...not how it works.
 
 [Understanding How Grief Weakens the Body](https://www.theatlantic.com/health/archive/2014/09/understanding-how-grief-weakens-the-body/380006/), Cari Romm, The Atlantic Monthly, September 11, 2014
 
