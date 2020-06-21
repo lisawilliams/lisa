@@ -92,7 +92,7 @@ These books were suggested by friends & community members in response to this li
 
 [We're Not Ready For This Kind Of Grief](https://www.theatlantic.com/ideas/archive/2020/04/were-not-ready-for-this-kind-of-grief/609856/), Amitha Kalaichandran, The Atlantic, April 13, 2020. About the unique features of grief from the coronavirus pandemic.
 
-[How Coronavirus Has Transformed The Grieving Process](https://theconversation.com/how-coronavirus-has-transformed-the-grieving-process-136368), Lucy Selman, The Conversation, May 2020. 
+[How Coronavirus Has Transformed The Grieving Process](https://theconversation.com/how-coronavirus-has-transformed-the-grieving-process-136368), Lucy Selman, The Conversation, May 2020.
 
 [The Space Between Mourning and Grief](https://www.theatlantic.com/entertainment/archive/2016/06/internet-grief/485864/), Claire Wilmot, The Atlantic, June 8, 2016. "Social media has made it easy to share condolences after a death—but it hasn’t led to an online culture that’s more sensitive about loss."
 
@@ -109,6 +109,8 @@ These books were suggested by friends & community members in response to this li
 [Why Grief Is A Series of Expansions And Contractions](https://tricycle.org/trikedaily/grief-series-contractions-expansions/), Joanne Cacciatore, June 29, 2017. A Buddhist perspective from Tricycle magazine.
 
 [Henrietta](https://damnjoan.com/henrietta), the tale of a radical funeral director who smuggled slaves to freedom in funeral processions, by Kaitlyn Greenidge in Damn Joan, 2017.
+
+[Why Sensing The Dead Is Perfectly Normal, And Even Helpful](https://theconversation.com/sensing-the-dead-is-perfectly-normal-and-often-helpful-81048), Simon McCarthy-Jones, The Connection. On how loved ones live on in our minds, and the value of continuing bonds with those who have died.
 
 [Quest for Solace](http://www.espn.com/espn/feature/story/_/page/espnw-keith170302/iditarod-competitor-loses-everything-finds-solace-alaska-wilderness), by Matt Crossman in ESPN-W.
 
