@@ -33,6 +33,6 @@ It is in this sense that I search for patterns in abstract works, and find meani
 
 ![Route One, Box Two V,' McArthur Binion,full canvas](https://live.staticflickr.com/65535/49038477913_dcddfe35e6_z.jpg)<br><br>
 
-If we think of the two halves as people, we have light and dark: opposites attract. The eye is naturally drawn to the central dividing line, a visual reminder that no matter how close we get to someone, that dividing line will always be there. Notice, too, the border; the light one is surrounding the dark one with its light; the darker one is enveloping the lighter one in its mystery and quiet. Looking at the well defined edge of the painting reminds us to ask: what's the difference between two people and a couple? What's the difference between a "situationship" and a relationship?
+If we think of the two halves as people, we have light and dark: opposites attract. The eye is naturally drawn to the central dividing line, a visual reminder that no matter how close we get to someone, that dividing line will always be there. Yet here, in the halo of the gallery lights, they are an eternal couple; neither death nor squabbles will ever part them. Notice, too, the border; the light one is surrounding the dark one with its light; the darker one is enveloping the lighter one in its mystery and quiet. Looking at the well defined edge of the painting reminds us to ask: what's the difference between two people and a couple? What's the difference between a "situationship" and a relationship?
 
 Maybe it's love.
