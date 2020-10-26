@@ -87,8 +87,11 @@ These books were suggested by friends & community members in response to this li
 [Sudden.org](http://www.suddendeath.org/) Sudden and 'out-of-order' deaths are devastating, and different from the kinds of expected losses when a person dies after a normal lifespan. This site is about the specific experience of sudden bereavement.<br>
 [Alliance of Hope](https://allianceofhope.org/) is an organization that helps people bereaved by suicide. <br>
 [GRASP](http://grasphelp.org/) Grief Recovery After a Substance Passing is an organization that helps people who have lost someone due to substance abuse.<br>
+[SAVE](https://save.org/what-we-do/grief-support/) Bereavement support for those who experience the loss of a loved one to suicide.<br>
 
 ## Articles
+
+[How The Coronavirus Has Changed The Process of Grieving](https://theconversation.com/how-coronavirus-has-transformed-the-grieving-process-136368), Lucy Selman, The Conversation, April 2020. Suggestions for bereaved people who can't have funerals or gather with friends and family. 
 
 [We're Not Ready For This Kind Of Grief](https://www.theatlantic.com/ideas/archive/2020/04/were-not-ready-for-this-kind-of-grief/609856/), Amitha Kalaichandran, The Atlantic, April 13, 2020. About the unique features of grief from the coronavirus pandemic.
 
