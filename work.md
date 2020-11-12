@@ -15,7 +15,7 @@ The best way to see a chronological view of my career is to look at my <a href =
 **Selected project, VidSpark**
 *January 2020*
 
-This program from Google and Poynter helps newsrooms develop innovative social video that grows youth audiences. The project I pitched (which will be launched in 2020) was selected as one of 3 winning projects.
+This program from Google and Poynter helps newsrooms develop innovative social video that grows youth audiences. The project I pitched, <a href="https://www.youtube.com/c/internetexpertwgbh/">Internet Expert: A Game Show About Democracy</a>, was selected as one of 3 winning projects.
 
 **Disruptive Journalism Educator Fellow, Tow-Knight Center, CUNY.**
 *April 2018*
