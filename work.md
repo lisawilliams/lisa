@@ -6,7 +6,7 @@ permalink: /work/
 
 ![Shiny stuff!](https://live.staticflickr.com/65535/40300050893_1eedda48ab_z.jpg)
 
-I am currently working at <a href ="http://www.wgbh.org/news">WGBH News</a>, where I am Audience Engagement Editor. It's my job to drive audience growth and loyalty. During my time there, I was able to increase the News division's digital audience sixfold.
+I am currently working at <a href ="http://www.wgbh.org/news">GBH News</a>, where I am Audience Engagement Editor. It's my job to drive audience growth and loyalty. During my time there, I was able to increase the News division's digital audience sixfold.
 
 I have run startups, been an MIT Media Lab fellow, worked at NPR affiliates, The Boston Globe/Boston.com, helped out with the excellent Data + Narrative data storytelling workshops, and worked with dozens of organizations looking to create greater community engagement online and offline. You can also find me on Twitter, where I am <a href="http://www.twitter.com/lisawilliams">@lisawilliams</a>.
 
@@ -15,7 +15,7 @@ The best way to see a chronological view of my career is to look at my <a href =
 **Selected project, VidSpark**
 *January 2020*
 
-This program from Google and Poynter helps newsrooms develop innovative social video that grows youth audiences. The project I pitched, <a href="https://www.youtube.com/c/internetexpertwgbh/">Internet Expert: A Game Show About Democracy</a>, was selected as one of 3 winning projects.
+This program from Google and Poynter helps newsrooms develop innovative social video that grows youth audiences. The project I pitched, <a href="https://www.youtube.com/channel/UC6xfvN6hej_gtBFbO6HDRKw">Internet Expert: A Game Show About Democracy</a>, was selected as one of 3 winning projects.
 
 **Disruptive Journalism Educator Fellow, Tow-Knight Center, CUNY.**
 *April 2018*
