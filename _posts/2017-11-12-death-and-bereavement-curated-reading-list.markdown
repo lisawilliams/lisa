@@ -91,6 +91,10 @@ These books were suggested by friends & community members in response to this li
 
 ## Articles
 
+[Grief and Bereavement Guidance Around COVID-19](https://complicatedgrief.columbia.edu/wp-content/uploads/2020/04/Managing-Bereavement-Around-COVID-19-HSPH.pdf), from the Columbia University Center For Complicated Grief, 2020. 
+
+[Bereaved Families Are The 'Secondary Victims' of COVID-19](https://khn.org/news/bereaved-families-are-the-secondary-victims-of-covid-19/), Judith Graham, Kaiser Health News, August 2020. 
+
 [How The Coronavirus Has Changed The Process of Grieving](https://theconversation.com/how-coronavirus-has-transformed-the-grieving-process-136368), Lucy Selman, The Conversation, April 2020. Suggestions for bereaved people who can't have funerals or gather with friends and family. 
 
 [We're Not Ready For This Kind Of Grief](https://www.theatlantic.com/ideas/archive/2020/04/were-not-ready-for-this-kind-of-grief/609856/), Amitha Kalaichandran, The Atlantic, April 13, 2020. About the unique features of grief from the coronavirus pandemic.
