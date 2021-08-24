@@ -50,11 +50,11 @@ Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. 
 
 A very step-by step, action-oriented approach to grief with writing exercises. I enjoyed the straightforward, active approach, but ultimately I opted not to follow through with the exercises, which I felt focused on closure over continuing bonds. YMMV.<Br><BR>
 
-*Suggested Readings*
-
 **[The Five Invitations](https://www.amazon.com/gp/product/1250074657/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250074657&linkId=2b3c7785db587a5ca89632582f92c381)**, by Frank Ostaseski.
 
 Ostaseski is one of the founders of San Francisco's Zen Hospice Project, and this book contains his lessons for living learned from decades spent with the very ill and dying.<BR>
+
+*Suggested Readings*
 
 These books were suggested by friends & community members in response to this list:<BR>
 
@@ -67,13 +67,13 @@ These books were suggested by friends & community members in response to this li
 ## Podcasts
 
 [What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.<br>
-[Grief Out Loud](https://www.dougy.org/grief-resources/podcasts/dear-dougy-podcast/1621/) This podcast comes from The Dougy Center, one of the best centers serving bereaved children and adults in the US. It is excellent. I highly recommend it.
+[Grief Out Loud](https://www.dougy.org/grief-resources/podcasts/dear-dougy-podcast/1621/) This podcast comes from The Dougy Center, one of the best centers serving bereaved children and adults in the US. It is excellent. I highly recommend it.<br>
 [Terrible, Thanks For Asking](https://www.ttfa.org/), a podcast on grief and bereavement.<br>
-[Where's The Grief?](https://wheresthegrief.libsyn.com/)
+[Where's The Grief?](https://wheresthegrief.libsyn.com/)<br>
 
 ## Blogs, Websites, And Other Resources
 
-[Refuge in Grief](http://www.refugeingrief.com/), Megan Devine. Her "[Rules at Impact](https://www.refugeingrief.com/wp-content/uploads/2017/11/EarlyGrief-WebReady.png)" for surviving early grief are excellent.
+[Refuge in Grief](http://www.refugeingrief.com/), Megan Devine. Her "[Rules at Impact](https://www.refugeingrief.com/wp-content/uploads/2017/11/EarlyGrief-WebReady.png)" for surviving early grief are excellent.<br>
 [Grief Healing Blog](https://www.griefhealingblog.com/)<br>
 [Modern Loss](http://modernloss.com/)<br>
 [Grief Beyond Belief](http://griefbeyondbelief.org/) - A site with grief resources for atheists and agnostics.<br>
