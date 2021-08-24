@@ -52,35 +52,28 @@ A very step-by step, action-oriented approach to grief with writing exercises. I
 
 *Suggested Readings*
 
+**[The Five Invitations](https://www.amazon.com/gp/product/1250074657/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250074657&linkId=2b3c7785db587a5ca89632582f92c381)**, by Frank Ostaseski.
+
+Ostaseski is one of the founders of San Francisco's Zen Hospice Project, and this book contains his lessons for living learned from decades spent with the very ill and dying.<BR>
+
 These books were suggested by friends & community members in response to this list:<BR>
 
-**[The Five Invitations](https://www.amazon.com/gp/product/1250074657/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250074657&linkId=2b3c7785db587a5ca89632582f92c381)**, by Frank Ostaseski.<BR>
 **[Blue Nights](https://www.amazon.com/gp/product/0307387380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307387380&linkId=d80c3c5332047fe0c9a5de37dac6a116)**, by Joan Didion.<BR>
 **[A Widow's Story](https://www.amazon.com/gp/product/0062020501/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062020501&linkId=b6244a08e15ff43b6883d57093d73f5f)**, by Joyce Carol Oates.<BR>
 
-*Currently on my to-read stack*
 
-**[Confessions of a Funeral Director](https://www.amazon.com/gp/product/0062465244/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062465244&linkId=937dd64ad618dd606e26e983a173b192)** by Caleb Wilde. <br>
-
-*Want to read*
-
-**[The Undertaking: Notes from the Dismal Trade](https://www.amazon.com/gp/product/0393334872/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393334872&linkId=a36379409258ce0e2d232db76268f05b)**, by Thomas Lynch. <BR>
-**[Good Mourning](https://www.amazon.com/gp/product/1476783616/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476783616&linkId=5396c6d61f74fddd1eabd4cededc8fb5)** by Elizabeth Meyer.<BR>
-**[Pardon My Hearse](https://www.amazon.com/gp/product/1610352483/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1610352483&linkId=8535ccdbc5f58445cf6150d474c1fca5)**, by Allan and Greg Abbott. <BR>
-**[Nine Years Under: Coming of Age in an Inner City Funeral Home](https://www.amazon.com/gp/product/1592407625/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1592407625&linkId=3b64fd54bfeda612007220ad99a7224d)**, by Sheri Booker.<br>
 **[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/gp/product/1401940838/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401940838&linkId=0fe34616c2234c5dcccc81200074dbfd)**, by Christina Rasmussen.<BR>
-
-*Reading*<Br>
 
 ## Podcasts
 
 [What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.<br>
 [Grief Out Loud](https://www.dougy.org/grief-resources/podcasts/dear-dougy-podcast/1621/) This podcast comes from The Dougy Center, one of the best centers serving bereaved children and adults in the US. It is excellent. I highly recommend it.
+[Terrible, Thanks For Asking](https://www.ttfa.org/), a podcast on grief and bereavement.<br>
+[Where's The Grief?](https://wheresthegrief.libsyn.com/)
 
 ## Blogs, Websites, And Other Resources
 
 [Refuge in Grief](http://www.refugeingrief.com/), Megan Devine. Her "[Rules at Impact](https://www.refugeingrief.com/wp-content/uploads/2017/11/EarlyGrief-WebReady.png)" for surviving early grief are excellent.
-[What's Your Grief](https://whatsyourgrief.com/), Litsa Williams and Eleanor Haley<br>
 [Grief Healing Blog](https://www.griefhealingblog.com/)<br>
 [Modern Loss](http://modernloss.com/)<br>
 [Grief Beyond Belief](http://griefbeyondbelief.org/) - A site with grief resources for atheists and agnostics.<br>
@@ -88,6 +81,7 @@ These books were suggested by friends & community members in response to this li
 [Alliance of Hope](https://allianceofhope.org/) is an organization that helps people bereaved by suicide. <br>
 [GRASP](http://grasphelp.org/) Grief Recovery After a Substance Passing is an organization that helps people who have lost someone due to substance abuse.<br>
 [SAVE](https://save.org/what-we-do/grief-support/) Bereavement support for those who experience the loss of a loved one to suicide.<br>
+
 
 ## Articles
 
