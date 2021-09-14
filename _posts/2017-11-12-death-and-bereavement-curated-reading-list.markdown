@@ -6,6 +6,8 @@ categories: other
 ---
 
 
+![Desert at Otero Mesa](https://live.staticflickr.com/8495/8305315065_fbab53a746_z.jpg)
+
 ![Figure of the reaper with motto This Too Shall Pass](https://farm5.staticflickr.com/4581/38364280031_27d1ccf543.jpg)
 
 As I passed into the region of grief and bereavement after [my partner died](https://lisawilliams.github.io/lisa/art/2017/03/26/eulogy-for-a-fairy-princess-heather-adels.html), I was disappointed at the poor quality of the Google-able resources on the topic. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
