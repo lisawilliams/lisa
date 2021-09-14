@@ -7,6 +7,7 @@ categories: other
 
 
 ![Desert at Otero Mesa](https://live.staticflickr.com/8495/8305315065_fbab53a746_z.jpg)
+*[Southwest Otero Mesa 1.7 Miles North Of Grief Tank](https://www.flickr.com/photos/aspidoscelis/8305315065/in/photolist-2jbwupk-2jp88t5-GveWyz-t4A9mm-RDBQZW-2kV1XhD-VKsg6s-232y9CH-DZK2Lr-2bN68qo-2k96zDL-bVz5WQ-crMRSC-7fpum7-dZJS8H-71WTwq-2kR1ZnZ-YgfxYq-Y7Pvwj-2jRFfLm-nMs5PA-2ht1i42-2gMuUuL-a693Wg-6QPh8Z-TRALpK-4FFGzS-28XRRBj-4poeNV-fyeNoZ-2kV3D7T-JonPuF-2kgZGyc-fNVjbo-Hz2TBy-e2PAxA-ADRBca-dDUUPk-dDUUH4-5XDZNE-cr9fWE/), Patrick Alexander*
 
 As I passed into the region of grief and bereavement after [my partner died](https://lisawilliams.github.io/lisa/art/2017/03/26/eulogy-for-a-fairy-princess-heather-adels.html), I was disappointed at the poor quality of the Google-able resources on the topic. Too many simply had the same unhelpful five bullet points ("You're going to feel bad for awhile, maybe a long while." No, really?) or parroted Kubler-Ross's stages of grief, which Kubler-Ross herself came to doubt before she died.
 
@@ -44,7 +45,7 @@ I enjoyed this book, and its varied perspectives. Recommended.
 
 **[Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/gp/product/1524732680/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1524732680&linkId=53dc24752adb3c6bbe9d7d8b472066b3)**, by Sheryl Sandberg.
 
-Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, Lean In. Many people criticized Lean In for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
+Sandberg, the COO of Facebook, wrote this book after her husband died suddenly. While it has many excellent suggestions, it suffers from some of the same problems of Sandberg's book on women and leadership in the workplace, *Lean In*. Many people criticized *Lean In* for not seeming to countenance that leaning in is highly dependent on things like access to childcare; Option B also assumes that reaching out is always the right answer, and that everyone will receive the same response to asking for help that she did as a straight married woman. However, her focus on making a decision to recover and thrive was one I found interesting and helpful.
 
 **[The Grief Recovery Handbook](https://www.amazon.com/gp/product/0061686077/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061686077&linkId=1b477f89d37f6004470c98bcdffd08e3)** by John James and Russell Friedman.
 
