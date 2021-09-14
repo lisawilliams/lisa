@@ -86,6 +86,8 @@ These books were suggested by friends & community members in response to this li
 
 ## Articles
 
+[Walking With My Grief](https://www.autostraddle.com/walking-with-my-grief/), Vanessa Pamela, Autostraddle. "I didn’t really want to go walking with my grief today. I guess I never really want to hang out with my grief… who does? But I am here."
+
 [Grief and Bereavement Guidance Around COVID-19](https://complicatedgrief.columbia.edu/wp-content/uploads/2020/04/Managing-Bereavement-Around-COVID-19-HSPH.pdf), from the Columbia University Center For Complicated Grief, 2020. 
 
 [Bereaved Families Are The 'Secondary Victims' of COVID-19](https://khn.org/news/bereaved-families-are-the-secondary-victims-of-covid-19/), Judith Graham, Kaiser Health News, August 2020. 
