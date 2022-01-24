@@ -88,6 +88,8 @@ An individual podcast episode from New York Times' *The Daily*: "[What If There'
 
 ## Articles
 
+[How The Brain Responds To Grief Can Change Who We Are](https://aeon.co/essays/how-the-brain-responds-to-grief-can-change-who-we-are), April Reese, Aeon. "At times in those first hours, days and weeks after his death, it was hard to breathe. I couldn’t concentrate. I forgot things. Fatigue was a constant, no matter how much I slept."
+
 [Walking With My Grief](https://www.autostraddle.com/walking-with-my-grief/), Vanessa Pamela, Autostraddle. "I didn’t really want to go walking with my grief today. I guess I never really want to hang out with my grief… who does? But I am here."
 
 [Grief and Bereavement Guidance Around COVID-19](https://complicatedgrief.columbia.edu/wp-content/uploads/2020/04/Managing-Bereavement-Around-COVID-19-HSPH.pdf), from the Columbia University Center For Complicated Grief, 2020. 
