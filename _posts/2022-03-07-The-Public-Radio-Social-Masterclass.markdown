@@ -5,7 +5,7 @@ date:   2022-03-08 10:51:39 -0400
 categories: tech
 ---
 
-![The Social Masterclass](https://pixabay.com/images/id-6363633/)
+![The Social Masterclass](https://i.ibb.co/ctZc2rw/social-media-g835003572-1280.jpg)
 
 I'm the Audience Engagement Editor at GBH News, a public media newsroom where we have dozens of journalists fanning out across Greater Boston to cover the most important issues affecting the people who live here. 
 
