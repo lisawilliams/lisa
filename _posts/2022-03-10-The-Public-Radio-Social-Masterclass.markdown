@@ -1,55 +1,51 @@
 ---
 layout: post
-title:  "Building The Harvey Senior Homes Tracker"
-date:   2017-08-28 10:51:39 -0400
+title:  "The Social Masterclass For Public Media Journalists"
+date:   2022-03-08 10:51:39 -0400
 categories: tech
 ---
 
-**What is it?**
+![The Social Masterclass](https://pixabay.com/images/id-6363633/)
 
-The [Hurricane Harvey Senior Homes Tracker](http://f.benlk.com/harvey-senior-homes/) is a sortable, embeddable list of nursing home facilities in areas under evacuation notice or affected by Hurricane Harvey. It can be embedded in any web page and is free to use.
+I'm the Audience Engagement Editor at GBH News, a public media newsroom where we have dozens of journalists fanning out across Greater Boston to cover the most important issues affecting the people who live here. 
 
-![Harvey Senior Home Tracker Screenshot](https://farm5.staticflickr.com/4382/36131071154_1832661c27_z.jpg)
+One of the things I wanted to do is to create a situation where every one of our reporters (and increasingly, show production personnel) have a baseline of social skills.
 
-**Can I contribute?**
+And that baseline shouldn't be a low baseline. They should be able to approach every platform like a pro. 
 
-Yes, absolutely! You also don't have to be technical to contribute. Ben and I concentrated on getting the app and data up and running, but we need people who want to do the outbound calls to to confirm the statuses of the facilities. If you'd like to help, read about how to do it [here](https://github.com/benlk/harvey-senior-homes/blob/master/contributing.md).
+In fact, wanted to do more than transmit a collection of skills. 
 
-If you are a developer, we have a handy tab of issues that you can dig into right [here](https://github.com/benlk/harvey-senior-homes/issues).
+I wanted to transmit a body of knowledge, where those skills fit together. .
 
-**Who built it?**
+And more than a body of knowledge, I wanted to level up every single person in the newsroom who ever hit "send tweet" enough confidence to have an actual social strategy, including goals they came up with themselves, and an understanding of what they are doing to get there. 
 
-I noticed [Ben Keith talking about building a web app to track the status of senior homes on the 25th](https://twitter.com/benlkeith/status/901151245456551952), and offered to help. Ben works for the Institute for Nonprofit News, where he helps develop Largo, a Wordpress framework that has been used by dozens of news organizations. I offered to help.
+These are not only numerical goals: I asked them to come up with strategies that would help their work as journalists. That's more than just "output"; it's sourcing, it's having the skills to adapt the work to the platform it's on (and understand why you want to be on this platform and not that one), and much more. 
 
-You can find Ben on Twitter [here](https://twitter.com/benlkeith), and me on Twitter [here](http://twitter.com/lisawilliams).
+Of course, none of this works without a solid grasp of the fundamentals. 
 
-**I work in a newsroom, how can I use this?**
+And none of that could happen in a one hour course where people leaned back and watched a PowerPoint. 
 
-The Hurricane Harvey Senior Homes tracker can be [embedded in a web page](http://f.benlk.com/harvey-senior-homes/embedding.html). It's completely free to use.
+(Really, who wants to do that anyway?)
 
-Ben and I are not near the affected areas, and have been focusing on getting the app up and running and getting the base data (list of facilities, locations, etc) up and running. We have not made a lot of calls to confirm the statuses of the facilities on the list. That's where you come in, I hope!
+I came up with a six week course that we started calling "The Masterclass." This was named after a similar skill-building class led by Sean Corcoran, a master audio craftsman. This course took reporters who had never done radio before and turned them into capable and confident radio reporters. That was my inspiration; I wanted to do that for social. 
 
-You can add information to the tracker -- both adding new locations and updating their status by following the instructions [here](https://github.com/benlk/harvey-senior-homes/blob/master/contributing.md).
+The six week course covered the fundamentals of all the core social platforms, a strong understanding of analytics, and critically, combined that with a key assignment: each reporter had to come up with their own strategic plan, something they could share with their editor. 
 
-**How was it built?**
+The biggest surprise I got: A course that was a much bigger lift was much easier to fill than a one-hour, one-off training. People seemed way more committed to the course than they had been to isolated training. 
 
-Ben used the [NPR Apps Template](https://github.com/nprapps/app-template) to bootstrap the project. The project also uses Google Sheets as a backend. You can see the complete source code here. I did work on the back-end data, getting data from Medicare.gov and cleaning/reformatting it for use in the app.
+Also, we had to do all this during a pandemic. Although we had 6 40 minute sessions (which I would not allow to run over), I wanted each participant to be able to see all course materials at any time, including after they've finished. I also knew that I might want to do it again. 
 
-The source code for the project is [here](https://github.com/benlk/harvey-senior-homes).
+So I evaluated available learning management systems and chose one that would allow me to lay out the course and its materials and easily enroll participants to allow them to keep track of their own work. 
 
-**Where does the data come from?**
+The course covers: 
 
-The source data comes from Medicare.gov. You can find more information about the data source [here](https://github.com/lisawilliams/harvey-senior-homes/commit/977698ac1738d0f27c87680b87009fe72e49a208), and if you're interested in how we approached integrating the data into the app, you can read [here](https://github.com/benlk/harvey-senior-homes/issues/2).
+* Breaking down a high traffic story. When a story succeeds, WHY does it succeed? We cover Google Analytics, social platform analytics, YouTube Analytics, and Crowdtangle. 
+* Creating a personal plan for the part of your work that lives online. What are your goals as a reporter or producer? Which specific platforms and activities will help you get there, and how will you measure that? (We revisit the plan throughout the course).
+* Social visuals. Social is a visual medium. How do you get people to stop scrolling? What do you do when you don't have a photographer? How do you collect assets so you can look great across platforms beyond the web? What are three things you can do to take a better picture even if you only have your phone? 
+* Building a social package. Each story, episode, or project has a "social package." Tweeting it once isn't gonna get it. We teach a systematic way of laying out an entire package of social across all platforms, and how to decide things like timing and scheduling. Also: how to do that efficiently, because if you have to spend hours doing that you won't do it. 
+* Platform exploration. How do you figure out what platforms your work should be on? If you're not on them, how do they start? We start a professional Instagram account from scratch, helping you understand what you need to look good and MAINTAIN a social account. 
+* Final presentations. Participants share their plan and talk about how it has changed over the six weeks. 
 
+The entire class is available here (although you won't be able to do things like take quizzes unless you're enrolled in the class. But this allows you to drive around a little)
 
-**Are there important things I should know before my newsroom uses this?**
-
-So glad you asked! Yes, there is.
-
-*Heavy traffic warning:* Ben and I built this in our spare time and Ben is using his personal web hosting for this. The tracker is not currently set up to handle huge traffic loads and might crash. If you expect to use it in a high traffic situation, contact us (my email is at the bottom of the page) and we'll see what we can do. It is possible to run your own version of the tracker on your own web host, and the source  code is available [here](https://github.com/benlk/harvey-senior-homes).
-
-*Understanding the Data: The Medicare.gov dataset:* I used as the base data has a column on "ownership." Most facilities seem to have seven to ten entries, sometimes more, in this column. The column reflects anything from people who sit on the board, work at the facility, are investors in it. The column contains both the names of individuals and of management companies that own and operate facilities. If you are calling, or want to write stories based on this, it is up to you to dig deeper and understand the relationship of the organization or individual to the facility you are writing about. For more information about the data, read [here](https://github.com/lisawilliams/harvey-senior-homes/commit/89de8d7aef69d4f370404d4d15b212b468ef54ae).
-
-**Other projects**
-
-Learn about my other news/engagement projects [here](http://tomlinson.org). 
+I'll be giving it again in April of 2022. Got questions? [Get at me on LinkedIn](https://www.linkedin.com/in/lisawilliams/). 
