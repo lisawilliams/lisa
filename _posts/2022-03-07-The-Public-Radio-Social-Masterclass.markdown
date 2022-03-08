@@ -17,9 +17,9 @@ In fact, wanted to do more than transmit a collection of skills.
 
 I wanted to transmit a body of knowledge, where those skills fit together. .
 
-And more than a body of knowledge, I wanted to level up every single person in the newsroom who ever hit "send tweet" enough confidence to have an actual social strategy, including goals they came up with themselves, and an understanding of what they are doing to get there. 
+And more than a body of knowledge, I wanted to level up every single person in the newsroom who ever hit "send tweet" with enough confidence to have an actual social strategy, including goals they came up with themselves, and an understanding of what they are doing to get there. 
 
-These are not only numerical goals: I asked them to come up with strategies that would help their work as journalists. That's more than just "output"; it's sourcing, it's having the skills to adapt the work to the platform it's on (and understand why you want to be on this platform and not that one), and much more. 
+These are not only numerical goals: I asked them to come up with strategies that would help *their work as journalists.* Not to just get more people to see it, but to improve it, to widen their range of sources, to find new ways to tell a story. 
 
 Of course, none of this works without a solid grasp of the fundamentals. 
 
