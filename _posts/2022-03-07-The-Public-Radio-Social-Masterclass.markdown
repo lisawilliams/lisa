@@ -46,6 +46,6 @@ The course covers:
 * Platform exploration. How do you figure out what platforms your work should be on? If you're not on them, how do they start? We start a professional Instagram account from scratch, helping you understand what you need to look good and MAINTAIN a social account. 
 * Final presentations. Participants share their plan and talk about how it has changed over the six weeks. 
 
-The entire class is available here (although you won't be able to do things like take quizzes unless you're enrolled in the class. But this allows you to drive around a little)
+The [entire class is available here](http://shiftcourse.us/courses/social-digital-masterclass/) (although you won't be able to do things like take quizzes unless you're enrolled in the class. But this allows you to drive around a little)
 
 I'll be giving it again in April of 2022. Got questions? [Get at me on LinkedIn](https://www.linkedin.com/in/lisawilliams/). 
