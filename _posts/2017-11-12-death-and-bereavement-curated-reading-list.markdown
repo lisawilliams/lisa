@@ -65,6 +65,10 @@ These books were suggested by friends & community members in response to this li
 
 **[Second Firsts: Learning How To Live, Laugh, and Love Again](https://www.amazon.com/gp/product/1401940838/ref=as_li_tl?ie=UTF8&tag=lisawilliam0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401940838&linkId=0fe34616c2234c5dcccc81200074dbfd)**, by Christina Rasmussen.<BR>
 
+[Modern Loss: Candid Conversations About Grief](https://bookshop.org/books/modern-loss-candid-conversation-about-grief-beginners-welcome/9780062499189)
+
+[Do Death: For A Life Better Lived](https://www.amazon.com/Do-Death-life-better-lived/dp/1907974679)
+
 ## Podcasts
 
 [What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.<br>
@@ -127,6 +131,10 @@ An individual podcast episode from New York Times' *The Daily*: "[What If There'
 [What A Year Of Grief Taught Me About Monuments And Memorials](https://hyperallergic.com/420488/what-a-year-of-grief-taught-me-about-monuments-and-memorials/), Ric Kasini Kadour, Hyperallergic.
 
 [There Are No Five Stages Of Grief](https://www.nytimes.com/2019/02/28/style/self-care/there-are-no-five-stages-of-grief.html), Andy Kopsa, New York Times.
+
+[After A Lifetime, A Perspective On Grief](https://www.good.is/articles/best-comment-ever), Good.Is
+
+[For Those In Grief, Talking To A Dead Loved One Is Good For Your Mental Health (And Totally Normal)](https://www.teenvogue.com/story/grief-talking-to-a-dead-loved-one-is-good-for-mental-health?fbclid=IwAR2j2NAlN7EpIEYd-To05r13uVVfZek56lgYsJwHhZmMoVwwfb8Yc4jmyhc&verso=true), Adryan Corcione, Teen Vogue
 
 
 
