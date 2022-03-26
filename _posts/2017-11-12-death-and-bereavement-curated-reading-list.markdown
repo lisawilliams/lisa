@@ -162,7 +162,7 @@ Eisma, M. C., Schut, H. A. W., Stroebe, M. S., van den Bout, J., Stroebe, W., & 
 
 ## Disenfranchised Grief
 
-Disenfranchised grief happens when a person dies and that person's family or community may not recognize or approve of your relationship with that person. It's common among LGBT people. It can include being left out of the obituary, excluded from planning or participating fully in funeral rituals, and being excluded in planning for a person's legacy. LGBT people may also face homophobic attacks when they talk about the death of a loved one.
+Disenfranchised grief happens when a person dies and that person's family or community may not recognize or approve of your relationship with that person. It's common among LGBT people but can happen with other relationships as well. It can include being left out of the obituary, excluded from planning or participating fully in funeral rituals, and being excluded in planning for a person's legacy. 
 
 [Disenfranchised Grief after the loss of a partner](https://www.grieflink.com/disenfranchised-loss-after-death-partner-lgbt-community)
 
@@ -182,6 +182,8 @@ The Grief Therapy Method involves a process of walking through a review of a rel
 
 *There are many other grief recovery modalities, of course. Personal note: I did not use either of these modalities. I objected to the insistence in Grief Recovery Method that all letters to the person you've lost end with 'Goodbye.' I actually don't want to say goodbye. Complicated Grief Therapy, with its repeated retellings and relistenings, is not something that I personally would engage in.*
 
-*Updated September 14, 2021*
+[EMDR for Traumatic Grief](https://theranest.com/blog/emdr-therapy-traumatic-grief/) EMDR stands for Eye Movement Desensitization and Reprocessing. It's typically used as a trauma therapy but some therapists are using it with clients, particularly when grief presents with PTSD-like symptoms. 
+
+*Updated March 25, 2022*
 
 
