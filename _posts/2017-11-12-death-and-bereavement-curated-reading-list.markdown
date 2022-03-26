@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Death and Bereavement: A Curated Reading List"
+title:  "Death and Bereavement: A Curated Reading List And Resource Guide"
 date:   2017-11-12 01:15:39 -0400
 categories: other
 ---
