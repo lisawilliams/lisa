@@ -78,7 +78,4 @@ The National Constitution Center’s program for Journalists and the Constitutio
 
 The John S. and James L. Knight Foundation is the largest foundation working in the area of news and civic engagement. Their News Challenge program provided seed funding to about a dozen projects out of thousands of applicants. Knight funded Placeblogger, a project focusing on creating local communities online for neighborhoods, cities, and towns.
 
-**Board Member, Massachusetts Bicycle Coalition**
-*2001-2004*
 
-I served on the board of the Massachusetts Bicycle Coalition, an advocacy group dedicated to making the Commonwealth’s streets safe for cyclists through encouraging better infrastructure as well as providing cyclist education, particularly for cycling in urban areas.
