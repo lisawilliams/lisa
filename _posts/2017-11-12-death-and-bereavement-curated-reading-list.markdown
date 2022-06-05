@@ -80,6 +80,7 @@ An individual podcast episode from New York Times' *The Daily*: "[What If There'
 
 ## Blogs, Websites, And Other Resources
 
+
 [Refuge in Grief](http://www.refugeingrief.com/), Megan Devine. Her "[Rules at Impact](https://www.refugeingrief.com/wp-content/uploads/2017/11/EarlyGrief-WebReady.png)" for surviving early grief are excellent.<br>
 [Grief Healing Blog](https://www.griefhealingblog.com/)<br>
 [Modern Loss](http://modernloss.com/)<br>
