@@ -27,6 +27,8 @@ Speakers: Swapneel Mehta (New York University), Christopher Brennan (Overtone), 
 
 * Chris: "Going out and scraping everything is a very bad way to build a dataset." (Good point.)
 
-* Jessica is talking about a tool that can automate the process of writing a story over a number of locations (think, automating the writing of a story on unemployment numbers, only across 100 major metros). 
+* Jessica is talking about a tool that can automate the process of writing a story over a number of locations (think, automating the writing of a story on unemployment numbers, only across 100 major metros). She calls this "generating relevant stories at scale that can inform our communities." Also says that these newsrooms need to "wake up," because these tools are part of everyday life around us. 
+
+"Optimizing our internet for clicks and likes is going to be a nightmare when you can use [AI] to generate a huge number of slightly different or tailored versions of the same content." (I am paraphrasing Chris Brennan here). His point is that we will have to have algorithms that surface quality, not just approximate those through clicks and likes. (I think.)
 
 
