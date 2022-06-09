@@ -22,3 +22,5 @@ You can see these notes on my [Github](https://github.com/lisawilliams/lisa/blob
 * [Jessica Davis]() talks about the Localizer platform (which I regret not having seen). Someone asked a "what is your stack" q; Jessica says mostly Python, Chris says mainly Google Cloud based; Swapneel says Python (and says more about a stack that I don't catch, sadly) but also Postgres. He mentions Crowdtangle which is interesting since SimPPL looks like something that could fit the niche that Crowdtangle is in (since CT seems to be in maintenance mode and it doesn't seem like there will be more investment). 
 
 * There's some talk about having "product people" in newsrooms. This taps on one thing that is a fundamental issue: few newsrooms are big enough to have a technologist or product manager, and the media spends so little on technology in general that very few commercial entities (or investors) sees them as a market to develop specialty tools for.  Mainly, newsrooms use tools developed for other use cases. 
+
+* Chris: "Going out and scraping everything is a very bad way to build a dataset." (Good point.)
