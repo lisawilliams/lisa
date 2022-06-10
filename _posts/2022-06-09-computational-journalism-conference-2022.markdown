@@ -68,11 +68,22 @@ Comparing open-ended community dialogue with local news  Hope Schroeder, Doug Be
 Local, Social, and Online: Comparing the Perceptions and Impact of Local Online Groups and Local Media Pages on Facebook  Marianne Aubin Le Quéré (Cornell Tech), Mor Naaman (Cornell Tech) and Jenna Fields (Cornell University)
 Storytelling Structures in Data Journalism: Introducing the Water Tower structure  Bahareh Heravi (University of Surrey)<br>
 
-* *Hope Schroeder* project, take all tweeted stories from the Boston Globe house and Metro accounts, and match that with live (in person?) community conversations and see what the overlap (or lack thereof) is. Interesting: Top 3 topics in community sessions were: Housing, Education, Mental Health. Overall, media undercovers the things that were talked about the most. 
+## Hope Schroeder
 
-* *Marianne Aubin Le Quéré* Comparing local news to local online groups. 
+* Project, take all tweeted stories from the Boston Globe house and Metro accounts, and match that with live (in person?) community conversations and see what the overlap (or lack thereof) is. Interesting: Top 3 topics in community sessions were: Housing, Education, Mental Health. Overall, media undercovers the things that were talked about the most. 
+
+## Marianne Aubin Le Quéré
+
+* Comparing local news to local online groups. 
 * Started by interviewing essential workers about how they got news; many were telling her that they got it from local pages, FB groups, Nextdoor, Reddit etc. 
 * Experiment asked people to join random hobby groups, a local group, and like a news page (all on FB). 
 * Ask them how they felt after 4-6 weeks and ask them how they felt about their community (and about how they felt about the local news).
 * None of these had significant effects on individual community outcomes. 
+
+## Bahareh Heravi 
+
+* Intriguing title. "Water Tower Structure for Data Journalism"
+* Traditional journalistic story structures: Inverted Pyramid, Narrative (rising action, peak, resolution), "Martini" Inverted pyramid, followed by a chronological narrative (the stem) and a kicker (the base). Five act structure (water tower)
+* "Gold coins" pieces of a data story that help a reader relate or move forward. 
+* Studied 118 data stories from large and small news organizations (love that they included smaller orgs)
 
