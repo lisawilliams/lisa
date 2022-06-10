@@ -70,7 +70,7 @@ Storytelling Structures in Data Journalism: Introducing the Water Tower structur
 
 ## Hope Schroeder
 
-* Project, take all tweeted stories from the Boston Globe house and Metro accounts, and match that with live (in person?) community conversations and see what the overlap (or lack thereof) is. Interesting: Top 3 topics in community sessions were: Housing, Education, Mental Health. Overall, media undercovers the things that were talked about the most. 
+* Project, take all tweeted stories from the Boston Globe house and Metro accounts, and match that with live (in person?) community conversations and see what the overlap (or lack thereof) is. See [Real Talk For Change](https://realtalkforchange.org/)Interesting: Top 3 topics in community sessions were: Housing, Education, Mental Health. Overall, media undercovers the things that were talked about the most. 
 
 ## Marianne Aubin Le Quéré
 
