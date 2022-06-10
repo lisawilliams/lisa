@@ -44,8 +44,7 @@ Julia Angwin from The Markup.
 * You can get into this even if you can't learn to code, she says. "I can still interrogate these algorithms."
 * She says she got into it after talking to an Uber driver, who had applied for a baggage handler position and got a phone call asking him three questions (driven by AI)?
 * "How can we hold AI and algorithms accountable?" She mentions that if you're rejected for a job by an AI reviewing your resume, you usually have no idea that happened. 
-* Tested an AI that evaluated call center applicants on their grasp of english. 
-
+* Tested an AI that evaluated call center applicants on their grasp of english. But some of these...aren't great. 
 * Podcast: "In Machines We Trust"
 
 
