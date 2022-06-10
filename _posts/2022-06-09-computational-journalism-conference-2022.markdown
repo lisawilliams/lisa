@@ -62,9 +62,11 @@ Speakers: Swapneel Mehta (New York University), Christopher Brennan (Overtone), 
 * I always think of intent on frosting on the cake. The cake is the harm, that's most of the story. If you get the smoking gun email that proves intent, that's the frosting. Our job is to write about the harm so that it can be prevented in the future. (Julia Angwin)
 * Q: "How do you tell the story where there's no central villain" but instead a faceless algorithm. "That's a problem because humans really do love a villain." (IMO, "character bias" is a problem in current journalism.)
 
-# COVID Reporting
+# Online Communities and Local News
 
-Speakers: How The Economist estimated the pandemic's true death toll - Sondre Ulvund Solstad and Martín González (The Economist)
-The Covid Financial Crisis - Nick Thieme (The Atlanta Journal-Constitution)
-Managing the challenges of data reporting and visualization in year three of the Covid-19 pandemic at The New York Times - Lisa Waananen Jones (Washington State University/The New York Times), Aliza Aufrichtig (The New York Times) and Tiff Fehr (The New York Times) <br>
+Comparing open-ended community dialogue with local news - Hope Schroeder, Doug Beeferman and Deb Roy (MIT Center for Constructive Communication)
+Local, Social, and Online: Comparing the Perceptions and Impact of Local Online Groups and Local Media Pages on Facebook - Marianne Aubin Le Quéré (Cornell Tech), Mor Naaman (Cornell Tech) and Jenna Fields (Cornell University)
+Storytelling Structures in Data Journalism: Introducing the Water Tower structure - Bahareh Heravi (University of Surrey)
+
+* Hope Schroeder -- project, take all tweeted stories from the Boston Globe house and Metro accounts, and match that with live (in person?) community conversations and see what the overlap (or lack thereof) is. 
 
