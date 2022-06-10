@@ -29,6 +29,25 @@ Speakers: Swapneel Mehta (New York University), Christopher Brennan (Overtone), 
 
 * Jessica is talking about a tool that can automate the process of writing a story over a number of locations (think, automating the writing of a story on unemployment numbers, only across 100 major metros). She calls this "generating relevant stories at scale that can inform our communities." Also says that these newsrooms need to "wake up," because these tools are part of everyday life around us. 
 
-"Optimizing our internet for clicks and likes is going to be a nightmare when you can use [AI] to generate a huge number of slightly different or tailored versions of the same content." (I am paraphrasing Chris Brennan here). His point is that we will have to have algorithms that surface quality, not just approximate those through clicks and likes. (I think.)
+* "Optimizing our internet for clicks and likes is going to be a nightmare when you can use [AI] to generate a huge number of slightly different or tailored versions of the same content." (I am paraphrasing Chris Brennan here). His point is that we will have to have algorithms that surface quality, not just approximate those through clicks and likes. (I think.)
+
+# Investigations and AI 
+
+Julia Angwin from The Markup. 
+
+* The Markup built a tool that folks could volunteer to install that would monitor their FB feeds; with this they showed that they were showing content they previously said to Congress they would not (political, public health subjects). 
+* They are investigating how algorithms shape what we see and what choices we have; for instance, Allstate has an algorithm that offers you lower prices if they think you will shop around. 
+
+
+## Hilke Schellman, NYU professor and journalist
+
+* You can get into this even if you can't learn to code, she says. "I can still interrogate these algorithms."
+* She says she got into it after talking to an Uber driver, who had applied for a baggage handler position and got a phone call asking him three questions (driven by AI)?
+* "How can we hold AI and algorithms accountable?" She mentions that if you're rejected for a job by an AI reviewing your resume, you usually have no idea that happened. 
+* Tested an AI that evaluated call center applicants on their grasp of english. 
+
+* Podcast: "In Machines We Trust"
+
+
 
 
