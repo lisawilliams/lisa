@@ -57,6 +57,8 @@ Speakers: Swapneel Mehta (New York University), Christopher Brennan (Overtone), 
 * Julia Angwin: "I wish I could figure out a way to publish these null results...but responsible publishing means going to everyone to comment, and so it hasn't quite worked. But I wish there was a way to contribute these to public, because a null result is useful."
 * Julia Angwin on why the work contributes to accountability: Data is a precursor to policy in our world, we just don't change without data. (I am paraphrasing as I write these; if you want direct quotes you may need to seek them in a recording of this session.)
 * Meredith Broussard: "I have been very pleased with the impact." Did a story on the availability of textbooks in Philly public schools; proved that there weren't enough textbooks available for students to learn what was on the state mandated tests. Ultimately they spent $400M to buy enough books. 
+* "Humans are terrible at hiring. SO many biases!" (Me: So maybe algorithms could be better?)
+* except: next anecdote is about BigCo using an algorithm that, it turns out was tossing applications that referred to "women." The algorithm had learned that applicants with this on their resume did not get hired. So the algorithm was potentially automating human bias. (Pls note that I am paraphrasing. Any misunderstanding is my own.)
 
 
 
