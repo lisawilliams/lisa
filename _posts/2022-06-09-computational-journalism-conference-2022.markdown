@@ -95,4 +95,5 @@ Storytelling Structures in Data Journalism: Introducing the Water Tower structur
 
 * Querent says community orgs she has talked to feel that housing is covered more from a homeowner's point of view, not enough about tenants, affordable housing etc. 
 * Hope: notes that the Globe is paywalled and would like to experiment with other forms of media (hey GBH doesn't have a paywall!)
+* idea: using a gif as the lede of a data story (love this idea)
 
