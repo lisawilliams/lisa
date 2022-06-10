@@ -46,7 +46,17 @@ Speakers: Swapneel Mehta (New York University), Christopher Brennan (Overtone), 
 * "How can we hold AI and algorithms accountable?" She mentions that if you're rejected for a job by an AI reviewing your resume, you usually have no idea that happened. 
 * Tested an AI that evaluated call center applicants on their grasp of english. But some of these...aren't great. 
 * Podcast: "In Machines We Trust"
+* Advice: benchmark algorithms; benchmark them against each other by measuring the same thing. Bring your own dataset for testing. 
+* File a FOIA when they work with public entities -- public universities, public schools, cities, police, etc. 
+* Frustrated with her inbox, she partnered with a team to write a tool that reduced the amount of email she needs to read by 2/3. 
 
+
+### Questions from attendees 
+
+* "Do you ever put in this effort and don't find anything?" Schellman: "Absolutely yes." *laughter from the crowd.* Meredith Broussard (online): "This is one of the things that makes it really hard to fund investigative journalism." (*Good point.*)
+* Julia Angwin: "I wish I could figure out a way to publish these null results...but responsible publishing means going to everyone to comment, and so it hasn't quite worked. But I wish there was a way to contribute these to public, because a null result is useful."
+* Julia Angwin on why the work contributes to accountability: Data is a precursor to policy in our world, we just don't change without data. (I am paraphrasing as I write these; if you want direct quotes you may need to seek them in a recording of this session.)
+* Meredith Broussard: "I have been very pleased with the impact." Did a story on the availability of textbooks in Philly public schools; proved that there weren't enough textbooks available for students to learn what was on the state mandated tests. Ultimately they spent $400M to buy enough books. 
 
 
 
