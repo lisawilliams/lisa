@@ -68,5 +68,5 @@ Comparing open-ended community dialogue with local news - Hope Schroeder, Doug B
 Local, Social, and Online: Comparing the Perceptions and Impact of Local Online Groups and Local Media Pages on Facebook - Marianne Aubin Le Quéré (Cornell Tech), Mor Naaman (Cornell Tech) and Jenna Fields (Cornell University)
 Storytelling Structures in Data Journalism: Introducing the Water Tower structure - Bahareh Heravi (University of Surrey)
 
-* Hope Schroeder -- project, take all tweeted stories from the Boston Globe house and Metro accounts, and match that with live (in person?) community conversations and see what the overlap (or lack thereof) is. 
+* Hope Schroeder -- project, take all tweeted stories from the Boston Globe house and Metro accounts, and match that with live (in person?) community conversations and see what the overlap (or lack thereof) is. Interesting: Top 3 topics in community sessions were: Housing, Education, Mental Health. Overall, media undercovers the things that were talked about the most. 
 
