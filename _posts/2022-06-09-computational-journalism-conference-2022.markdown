@@ -69,4 +69,10 @@ Local, Social, and Online: Comparing the Perceptions and Impact of Local Online 
 Storytelling Structures in Data Journalism: Introducing the Water Tower structure - Bahareh Heravi (University of Surrey)
 
 * Hope Schroeder -- project, take all tweeted stories from the Boston Globe house and Metro accounts, and match that with live (in person?) community conversations and see what the overlap (or lack thereof) is. Interesting: Top 3 topics in community sessions were: Housing, Education, Mental Health. Overall, media undercovers the things that were talked about the most. 
+<br>
+* Marianne Aubin Le Quéré -- Comparing local news to local online groups. 
+* Started by interviewing essential workers about how they got news; many were telling her that they got it from local pages, FB groups, Nextdoor, Reddit etc. 
+* Experiment asked people to join random hobby groups, a local group, and like a news page (all on FB). 
+* Ask them how they felt after 4-6 weeks and ask them how they felt about their community (and about how they felt about the local news).
+* None of these had significant effects on individual community outcomes. 
 
