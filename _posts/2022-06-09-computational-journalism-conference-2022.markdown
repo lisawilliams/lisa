@@ -91,4 +91,8 @@ Storytelling Structures in Data Journalism: Introducing the Water Tower structur
 * 3rd is "other" (It's a developing space, so structures are still being developed and tried on. )
 * Suggestion for structure of data story: Water Tower. Inverted pyramid lede, with then topical sections (blocks) and an ending. 
 
+## Questions
+
+* Querent says community orgs she has talked to feel that housing is covered more from a homeowner's point of view, not enough about tenants, affordable housing etc. 
+* Hope: notes that the Globe is paywalled and would like to experiment with other forms of media (hey GBH doesn't have a paywall!)
 
