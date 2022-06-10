@@ -83,7 +83,12 @@ Storytelling Structures in Data Journalism: Introducing the Water Tower structur
 ## Bahareh Heravi 
 
 * Intriguing title. "Water Tower Structure for Data Journalism"
-* Traditional journalistic story structures: Inverted Pyramid, Narrative (rising action, peak, resolution), "Martini" Inverted pyramid, followed by a chronological narrative (the stem) and a kicker (the base). Five act structure (water tower)
+* Traditional journalistic story structures: Inverted Pyramid, Narrative (rising action, peak, resolution), "Martini" Inverted pyramid, followed by a chronological narrative (the stem) and a kicker (the base). Five act structure (stack of blocks)
 * "Gold coins" pieces of a data story that help a reader relate or move forward. 
 * Studied 118 data stories from large and small news organizations (love that they included smaller orgs)
+* Inverted is still the most common structure in data stories. 
+* 2nd is the stack of blocks structure
+* 3rd is "other" (It's a developing space, so structures are still being developed and tried on. )
+* Suggestion for structure of data story: Water Tower. Inverted pyramid lede, with then topical sections (blocks) and an ending. 
+
 
