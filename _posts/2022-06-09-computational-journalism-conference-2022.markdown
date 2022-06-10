@@ -33,13 +33,13 @@ Speakers: Swapneel Mehta (New York University), Christopher Brennan (Overtone), 
 
 # Investigations and AI 
 
-Julia Angwin from The Markup. 
+### Julia Angwin from The Markup. 
 
 * The Markup built a tool that folks could volunteer to install that would monitor their FB feeds; with this they showed that they were showing content they previously said to Congress they would not (political, public health subjects). 
 * They are investigating how algorithms shape what we see and what choices we have; for instance, Allstate has an algorithm that offers you lower prices if they think you will shop around. 
 
 
-## Hilke Schellman, NYU professor and journalist
+### Hilke Schellman, NYU professor and journalist
 
 * You can get into this even if you can't learn to code, she says. "I can still interrogate these algorithms."
 * She says she got into it after talking to an Uber driver, who had applied for a baggage handler position and got a phone call asking him three questions (driven by AI)?
