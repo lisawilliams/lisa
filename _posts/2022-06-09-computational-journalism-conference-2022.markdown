@@ -59,6 +59,8 @@ Speakers: Swapneel Mehta (New York University), Christopher Brennan (Overtone), 
 * Meredith Broussard: "I have been very pleased with the impact." Did a story on the availability of textbooks in Philly public schools; proved that there weren't enough textbooks available for students to learn what was on the state mandated tests. Ultimately they spent $400M to buy enough books. 
 * "Humans are terrible at hiring. SO many biases!" (Me: So maybe algorithms could be better?)
 * except: next anecdote is about BigCo using an algorithm that, it turns out was tossing applications that referred to "women." The algorithm had learned that applicants with this on their resume did not get hired. So the algorithm was potentially automating human bias. (Pls note that I am paraphrasing. Any misunderstanding is my own.)
+* I always think of intent on frosting on the cake. The cake is the harm, that's most of the story. If you get the smoking gun email that proves intent, that's the frosting. Our job is to write about the harm so that it can be prevented in the future. (Julia Angwin)
+* Q: "How do you tell the story where there's no central villain" but instead a faceless algorithm. "That's a problem because humans really do love a villain." (IMO, "character bias" is a problem in current journalism.)
 
 
 
