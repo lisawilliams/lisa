@@ -4,7 +4,6 @@ title:  "Greeting Pole: James Murray"
 date:   2022-10-16 00:16:39 -0400
 categories: art
 ---
-![Alstroemeria, painting, Heather Adels](https://farm5.staticflickr.com/4357/36778705146_91190d481b_k.jpg)
 
 ![Greeting Pole, James Murray, scuplpture](https://i.ibb.co/FkpPJqH/IMG-3595.jpg)
 
