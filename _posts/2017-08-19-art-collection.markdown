@@ -139,31 +139,7 @@ Dimensions: 8in x 8in<br>
 Added to collection: 2017<br>
 <br><br>
 
-<H3>Who's been in my garden? (pigeon)</H3>
-![Who's been in my garden? Pigeon](https://farm5.staticflickr.com/4442/36131082944_74b81846cc_z.jpg)<br><br>
-Title: Who's been in my garden (pigeon)<br>
-Artist: Callie Hastings<br>
-Year Created: 2017<br>
-Artform: Painting<br>
-Materials: Acrylic paint<br>
-Surface: Wood<br>
-Dimensions: 4in x 4in<br>
-Added to collection: 2017<br>
-Gallery: [Davis Gallery](https://www.flickr.com/photos/davispublications/sets/72157687541837156)<br>
-<br><br>
 
-<h3>Who's been in my garden? (rabbit)</h3>
-![Who's been in my garden? (rabbit)](https://farm5.staticflickr.com/4347/36569636760_9208dae973_z.jpg)<br><br>
-Title: Who's been in my garden (rabbit)<br>
-Artist: Callie Hastings<br>
-Year Created: 2017<br>
-Artform: Painting<br>
-Materials: Acrylic paint<br>
-Surface: Wood<br>
-Dimensions: 4in x 4in<br>
-Added to collection: 2017<br>
-Gallery: [Davis Gallery](https://www.flickr.com/photos/davispublications/sets/72157687541837156)<br>
-<br><br>
 
 <h3>Biltmore</h3>
 ![Biltmore, Dan Butler](https://farm5.staticflickr.com/4371/36569636170_ddc0f21c3f.jpg)<br><br>
@@ -178,6 +154,18 @@ Added to collection: 2015<br>
 Gallery: Craftland<br>
 <br><br>
 
+
+<h3>Welcome Pole</h3>
+![Greeting Pole, James Murray, scuplpture](https://i.ibb.co/FkpPJqH/IMG-3595.jpg)
+Title: Welcome Pole <br>
+Artist: James Murray<br>
+Year created: Unknown, probably not before 2010; acquired 2022<br>
+Artform: Sculpture<br>
+Materials: Wood, stone, steel<br>
+Dimensions: 8in x 12in x 7ft, 6in<br>
+Added to collection: 2022<br>
+Gallery: Hammock Gallery, Provincetown<br>
+
 <h3>Works not yet photographed:</h3>
 
 
@@ -191,24 +179,6 @@ Dimensions: 5in sphere<br>
 Added to collection: 2017<br>
 <br>
 
-Title: Untitled<br>
-Artist: Serena Miller<br>
-Year Created: 2017<br>
-Artform: Sculpture<br>
-Materials: Cotton fabric, mesh, and cotton fiber<br>
-Surface: Fabric<br>
-Dimensions: 8in x 4in<br>
-Added to collection: 2017<br><br>
-
-Title: Self portrait<br>
-Artist: Heather Adels<br>
-Year Created: 1995<br>
-Artform: Painting<br>
-Materials: Oil paint<br>
-Surface: Canvas art board<br>
-Dimensions: 12in x 6in<br>
-Added to collection: 2013
-<br><br>
 
 Schema for future works:
 Image:
