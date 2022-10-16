@@ -24,6 +24,9 @@ Provincetown was host to many midcentury abstract artists including Franz Kline,
 
 I found this work by the contemporary artist James Murray at the Hammock Gallery and found the echoes of Constantin Brancusi's Infinite Column irresistible. 
 
+<iframe width="480" height="360" src="https://www.youtube.com/embed/iQHunUJ7Ld8" frameborder="0"> </iframe>
+
+
 I typically collect abstract paintings and works on paper by emerging artists; this is the first time I've added a sculpture to my collection. 
 
 "Welcome Pole" is seven and a half feet high, and in my living room it gives off an undeniable guardian vibe, friend to us but foe to anyone who might mean ill to us and ours. 
