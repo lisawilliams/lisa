@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Greeting Pole: James Murray"
+title:  "Welcome Pole: James Murray"
 date:   2022-10-16 00:16:39 -0400
 categories: art
 ---
 
 ![Greeting Pole, James Murray, scuplpture](https://i.ibb.co/FkpPJqH/IMG-3595.jpg)
 
-## Greeting Pole
+## Welcome Pole
 
 *Artist: James Murray<br>*
 *Year Created: Unknown; not before 2010, probably<br>*
