@@ -37,4 +37,4 @@ More about James Murray and his work can be found at [his website](https://james
 
 A photo of our new friend in situ: <br><br>
 
-![James Murray, Welcome Pole]([url=https://ibb.co/rt8hTX6][img]https://i.ibb.co/hMQNhTW/IMG-3594.jpg[/img][/url])
+![James Murray, Welcome Pole](https://ibb.co/rt8hTX6][img]https://i.ibb.co/hMQNhTW/IMG-3594.jpg)
