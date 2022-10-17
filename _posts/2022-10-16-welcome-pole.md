@@ -34,3 +34,7 @@ I typically collect abstract paintings and works on paper by emerging artists; t
 One thing I look for in an artwork is the ability to develop a long relationship with it; I want to be able to see something new in it, and in me, over a time span that might be years. (This is one of the reasons I don't usually collect figurative art; I find that at some point I have seen all I can see in it). The variety and texture, and the mystery of this work (where did the materials come from? what were they used for before? What does it mean)? along with the obvious skill that is not hidden by the rough surface, are the hallmarks of a work that we can grow with over time. 
 
 More about James Murray and his work can be found at [his website](https://jameshmurray.com). 
+
+A photo of our new friend in situ: <br><br>
+
+![James Murray, Welcome Pole]([url=https://ibb.co/rt8hTX6][img]https://i.ibb.co/hMQNhTW/IMG-3594.jpg[/img][/url])
