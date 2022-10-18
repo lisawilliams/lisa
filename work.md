@@ -12,6 +12,11 @@ I have run startups, been an MIT Media Lab fellow, worked at NPR affiliates, The
 
 The best way to see a chronological view of my career is to look at my <a href ="https://www.linkedin.com/in/lisawilliams/LinkedIn">LinkedIn profile</a>. There are some things I’m proud of that don’t show up on my resume, however. These are a few of them:
 
+**Membership & Outreach, Public Media Journalists Association**
+*Oct 2022*
+
+Delighted to be working with the Public Media Journalists Association to connect with our members and foster more affiliate-to-affiliate collaboration. 
+
 **Selected project, VidSpark**
 *January 2020*
 
