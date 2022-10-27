@@ -156,7 +156,7 @@ Gallery: Craftland<br>
 
 
 <h3>Welcome Pole</h3>
-![Greeting Pole, James Murray, scuplpture](https://i.ibb.co/FkpPJqH/IMG-3595.jpg)
+![Greeting Pole, James Murray, scuplpture](https://i.ibb.co/FkpPJqH/IMG-3595.jpg)<br>
 Title: Welcome Pole <br>
 Artist: James Murray<br>
 Year created: Unknown, probably not before 2010; acquired 2022<br>
@@ -167,6 +167,16 @@ Added to collection: 2022<br>
 Gallery: Hammock Gallery, Provincetown<br>
 
 <h3>Works not yet photographed:</h3>
+
+Title: Study for Certain Dark Things<br>
+Artist: Sarah Dineen <br>
+Year Created: 2021<br>
+Artform: Painting<br>
+Materials: Acrylic<br>
+Surface: Paper<br>
+Dimensions: 5in x 8in<br>
+Added to collection: 2021
+Gallery: Acquired from the artist as part of a benefit for Elizabeth Studios<br><br>
 
 
 Title: Infinity Drawing<br>
