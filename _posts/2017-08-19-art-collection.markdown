@@ -5,9 +5,7 @@ date:   2017-08-19 18:13:39 -0400
 categories: art
 ---
 
-A catalog of the artworks in my current collection. For background on what I collect and why, see [How I Became An Art Collector](http://localhost:4000/lisa/art/2017/08/18/art-collector.html).
-
-I still have a lot of work to do here, adding images to items. I may choose to install a Jekyll gallery plugin at some point. But this exists to help me keep track of my growing art collection, in particular, when works were made and when I acquired them.
+A catalog of the artworks in my current collection. 
 
 <h3>Four Corners of the World</h3>
 !['Four Corners of the World,' Heather Adels, 2013](https://farm5.staticflickr.com/4409/36131442674_7c1ff6d01f_z.jpg)<br><br>
