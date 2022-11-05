@@ -22,9 +22,11 @@ Provincetown has a long history as an arts colony. I'm not aware of any town of 
 
 Provincetown was host to many midcentury abstract artists including Franz Kline, Lee Krasner, Robert Motherwell, and Helen Frankenthaler. 
 
-I found this work by the contemporary artist James Murray at the Hammock Gallery and found the echoes of Constantin Brancusi's Infinite Column irresistible. 
+I found this work by the contemporary artist James Murray and found the echoes of Constantin Brancusi's Infinite Column irresistible. 
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/iQHunUJ7Ld8" frameborder="0"> </iframe>
+Murray works in the Hudson River Valley, but I found this work in the Hammock Gallery in Provincetown. <br>
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/iQHunUJ7Ld8" frameborder="0"> </iframe><br>
 
 
 I typically collect abstract paintings and works on paper by emerging artists; this is the first time I've added a sculpture to my collection. 
@@ -38,3 +40,6 @@ More about James Murray and his work can be found at [his website](https://james
 A photo of our new friend in situ: <br><br>
 
 ![James Murray, Welcome Pole](https://i.ibb.co/hMQNhTW/IMG-3594.jpg)
+<br>
+
+[A listing of artworks in my personal collection](https://lisawilliams.github.io/lisa/art/2017/08/19/art-collection.html)
