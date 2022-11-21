@@ -10,6 +10,6 @@ Professionally, I currently work in a newsroom using technology to help people b
 
 Here's my <a href ="https://github.com/lisawilliams/">GitHub</a>.
 
-Find me on Mastodon <a href="https://toot.lgbt/@lisawilliams">here</a>. 
+Find me on Mastodon <<a rel="me" href="https://toot.lgbt/@lisawilliams">Mastodon</a>here</a>. 
 
 Personally, my interests include contemporary art and vintage motorcycles. You can read about those interests, and some tech stuff, <a href ="https://lisawilliams.github.io/lisa/">here</a>.
