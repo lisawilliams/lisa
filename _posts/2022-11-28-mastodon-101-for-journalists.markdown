@@ -52,7 +52,7 @@ You can find a [searchable list of instances here](https://observablehq.com/@eas
 A few tips: 
 
 1. **Bigger isn't necessarily better.** Because Mastodon servers can talk to each other, being on a big server isn't necessarily better than being on a small server. Consider, too, that one of the resources that does not scale is moderation. A smaller instance may have the opportunity for better community management than one with tens or hundreds of thousands of users. 
-2. **Read your instance's about page and consider what you read there.**  Here is the [About page for Mastodon.art](https://mastodon.art/about), an instance focused on artists and their work. An about page should tell you what kind of community you will find there, what the code of conduct is, and more. Note that this page lists the moderation team for that server. An about page will also often show which servers the managers of that server have chosen to "defederate" from. When you look at a server, do you agree with what's found on the about page? Do they have a moderation team listed? Which servers have they defederated from? You should broadly agree with what you find there. If the about page is not filled out, you should wonder why and what the actual rules are.
+2. **Read your instance's about page and consider what you read there.**  Here is the [About page for Mastodon.art](https://mastodon.art/about), an instance focused on artists and their work. An about page should tell you what kind of community you will find there, what the code of conduct is, and more. Note that this page lists the moderation team for that server. An about page will also often show which servers the managers of that server have chosen to "defederate" from. If a server's about page doesn't have much on it, that's not a good look. 
 3. **Explore.** Look at the "Explore Tab" on a server you're considering joining. What do you see being posted there? Are they talking about topics that interest you? What's the vibe? 
 3. **Don't sweat it too much.** If you want to move servers, you can, and you can take your data, including your posts, follwers and follows, with you. 
 
@@ -101,7 +101,7 @@ A few things to remember:
 4.  **It's not Twitter**, and we like it like that: A lot of people on Mastodon are there because they did not like what was happening on Twitter. They react negatively to people using Mastodon like Twitter (blasting out nothing but self-promotional links; combative behavior). 
 5.  **Mastodon slang** Twitter is often referred to as "the birdsite." Elon Musk is rarely referred to by name and is often called "Space Karen."
 
-I am continuing to invite input on this via [our Mastodon account](https://mastodon.social/@gbhnews), so if you have something to say, please feel free to say hi. 
+*I am continuing to invite input on this via [our Mastodon account](https://mastodon.social/@gbhnews), so if you have something to say, please feel free to say hi.*
 
 
 
