@@ -7,7 +7,7 @@ categories: tech
 
 ![Screen shot of GBH News Mastodon account](https://i.ibb.co/174VrG5/Screen-Shot-2022-11-29-at-4-51-07-PM.png" alt="A screen shot of the GBH News Mastodon account reading Good morning fediverse! This is GBH News from Boston")
 
-I established the [GBH News presence on Mastodon](https://mastodon.social/@gbhnews). Due to wide interest and plenty of questions from reporters in our newsroom, I put together a brief session, "Mastodon 101 for Journalists." [slides](https://lisawilliams.github.io/Mastodon-101/slides/)
+I established the [GBH News presence on Mastodon](https://mastodon.social/@gbhnews). Due to wide interest and plenty of questions from reporters in our newsroom, I put together a brief session, "Mastodon 101 for Journalists." [Slides available here](https://lisawilliams.github.io/Mastodon-101/slides/).
 
 Much of what I put there, and in this tipsheet, came from people already on Mastodon. I asked them what they wanted journalists to know about them and about the platform, and their responses were [insightful and sometimes incisive](https://mastodon.social/@gbhnews/109422100167391959).
 
@@ -23,11 +23,11 @@ Mastodon instances are "federated," meaning that they can communicate with each 
 
 We'll get back to the 'how to choose a server' thing in a minute. 
 
-### How many people are on Mastodon?</h3>
+### How many people are on Mastodon?
 
 As of today, November 29, 2022, stats from the Fediverse Observer put [Mastodon at just under 7 million users](https://fediverse.observer/stats). That's tiny compared to Twitter (237 million), Youtube (2.6 billion) or Facebook (2.9 billion). It's grown rapidly and mentioned a lot lately because the agita surrounding Elon Musk's acquisition of Twitter and his behavior thereafter has prompted a lot of Twitter users to seek out a new platform (and be vocal about that search). 
 
-You can find current stats on Fediverse users here: [Fediverse Observer | Stats](https://fediverse.observer/stats). 
+You can find current stats on Fediverse users here: [Fediverse Observer: Stats](https://fediverse.observer/stats). 
 
 #### If it's so tiny, why be on it?
 
@@ -57,7 +57,7 @@ A few tips:
 3. **Explore.** Look at the "Explore Tab" on a server you're considering joining. What do you see being posted there? Are they talking about topics that interest you? What's the vibe? 
 3. **Don't sweat it too much.** If you want to move servers, you can, and you can take your data, including your posts, follwers and follows, with you. 
 
-#### What happens when someone reports a post or account on Mastodon?</h4>	
+#### What happens when someone reports a post or account on Mastodon?	
 
 Mastodon is decentralized, so when someone reports a post or account, that report goes to the people running that server. Depending on many factors, that report could be handled responsibly, or not. This is why reading an instance's about page, finding out what their approach is, and making a judgment call about whether they have the capacity to effectively moderate that community is something you'll have to give some thought to. 
 
@@ -85,17 +85,21 @@ The good news: you don't have to pay anybody $8. Basically, you add a special li
 
 #### Where can I find journalists on Mastodon? 
 
+[Here is one of several lists online](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit#gid=1320898902). 
+
+There are a number of journalism-focused servers, including [newsie.social](https://newsie.social/explore) and [journa.host](https://journa.host/about). Journa.host has had some moderation controversy; again, it's worth exploring a server and understanding its moderation policies and history in order to make a decision you are comfortable with. 
+
 ### Mastodon culture(s)
 
 Because different servers have different customs and practices, you don't have one Mastodon culture; you have cultures, plural. But these are a few observations from where I have been hanging out:
 
 A few things to remember: 
 
-* Accessibility is important to a lot of Mastodon users. 
-* Use of Content Warnings (CW). When you post, you can choose to hide your post behind a content warning. There is no broad agreement about when to use these, but I think it's funny that I often see people hiding news about Twitter behind a CW, presumably so that it doesn't clutter up people's feed. 
-* Consent. A number of people have shared with me that they want to bring LiveJournal like practices to Mastodon, where not everyone sees everything and there is a widespread agreement that you don't share things publicly that weren't initially made public. 
-* It's not Twitter, and we like it like that: A lot of people on Mastodon are there because they did not like what was happening on Twitter. They react negatively to people using Mastodon like Twitter (blasting out nothing but self-promotional links; combative behavior). 
-* Mastodon slang: Twitter is often referred to as "the birdsite." Elon Musk is rarely referred to by name and is often called "Space Karen."
+* **Accessibility** is important to a lot of Mastodon users. 
+* **Use of Content Warnings (CW)**. When you post, you can choose to hide your post behind a content warning. There is no broad agreement about when to use these, but I think it's funny that I often see people hiding news about Twitter behind a CW, presumably so that it doesn't clutter up people's feed. 
+* **Consent.** A number of people have shared with me that they want to bring LiveJournal like practices to Mastodon, where not everyone sees everything and there is a widespread agreement that you don't share things publicly that weren't initially made public. 
+* **It's not Twitter**, and we like it like that: A lot of people on Mastodon are there because they did not like what was happening on Twitter. They react negatively to people using Mastodon like Twitter (blasting out nothing but self-promotional links; combative behavior). 
+* **Mastodon slang** Twitter is often referred to as "the birdsite." Elon Musk is rarely referred to by name and is often called "Space Karen."
 
 
 
