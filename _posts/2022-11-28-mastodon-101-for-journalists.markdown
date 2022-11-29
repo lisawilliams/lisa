@@ -56,13 +56,14 @@ A few tips:
 3. **Explore.** Look at the "Explore Tab" on a server you're considering joining. What do you see being posted there? Are they talking about topics that interest you? What's the vibe? 
 3. **Don't sweat it too much.** If you want to move servers, you can, and you can take your data, including your posts, follwers and follows, with you. 
 
-#### What happens when someone reports a post or account on Mastodon?	
-
-Mastodon is decentralized, so when someone reports a post or account, that report goes to the people running that server. Depending on many factors, that report could be handled responsibly, or not. This is why reading an instance's about page, finding out what their approach is, and making a judgment call about whether they have the capacity to effectively moderate that community is something you'll have to give some thought to. 
-
 #### What is defederation? 
 
-People running a server can choose to "defederate" from any other server. This means that you will not see messages from people posting on that server in your Federated feed (more on feeds in a minute). 
+People running a server can choose to "defederate" from any other server. This means that you will not see messages from people posting on that server in your Federated feed. 
+
+#### What do I see when I log in? What are feeds? 
+
+When you log in you will see three feeds. Your Home feed shows you post from people you follow. Your Local feed shows you posts from people on your server. 
+Your Federated feed shows you posts from people across the servers that your server is in contact with.
 
 #### Can I migrate my Twitter follows/followers?
 
@@ -75,7 +76,7 @@ The good news: you don't have to pay anybody $8. Basically, you add a special li
 ### What should I know about using Mastodon? 
 
 1. You get 500 characters! On some servers, it's even more. 
-2. You can *drumroll* **EDIT POSTS.**
+2. You can edit posts.
 3. There's no full-text search, by design (for now). 
 4. There's no algorithm, by design (for now). People see what you post in reverse chronological order. That's it. 
 5. Use image descriptions. No, seriously, use image descriptions. I've never seen a platform where people were more vocal about accessibility than Mastodon. It's great! 
@@ -99,6 +100,8 @@ A few things to remember:
 3.  **Consent.** A number of people have shared with me that they want to bring LiveJournal like practices to Mastodon, where not everyone sees everything and there is a widespread agreement that you don't share things publicly that weren't initially made public. 
 4.  **It's not Twitter**, and we like it like that: A lot of people on Mastodon are there because they did not like what was happening on Twitter. They react negatively to people using Mastodon like Twitter (blasting out nothing but self-promotional links; combative behavior). 
 5.  **Mastodon slang** Twitter is often referred to as "the birdsite." Elon Musk is rarely referred to by name and is often called "Space Karen."
+
+I am continuing to invite input on this via [our Mastodon account](https://mastodon.social/@gbhnews), so if you have something to say, please feel free to say hi. 
 
 
 
