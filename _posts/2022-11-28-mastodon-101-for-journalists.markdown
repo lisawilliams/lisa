@@ -35,8 +35,7 @@ I'm actually not here to convince anyone to get on Mastodon, or any other social
 
 1. As someone running the social media accounts for a large newsroom, to say that I have been frustrated and disappointed by how companies running centralized social media have operated is an understatement. 
 2. The prospect of a federated social network where we could set up our own server, and have more control over how it is run, is pretty attractive. Personally, I think it's time for news organizations, and public media more broadly, to own a piece of the pie. 
-3. So far I've really enjoyed the experience of being in community on Mastodon. 
-4. Every new platform gives us a new opportunity to be in community in a new way. I deliberately chose to manage and run our Mastodon account very differently than I run our Twitter account, and the results have been enlightening. 
+3. Every new platform gives us a new opportunity to be in community in a new way. I deliberately chose to manage and run our Mastodon account very differently than I run our Twitter account. I've enjoyed the experience so far and I think we can build a relationship that is valuable to our newsroom and to the people who care about the community we share.
 
 ### What is the fediverse?
 
@@ -95,11 +94,11 @@ Because different servers have different customs and practices, you don't have o
 
 A few things to remember: 
 
-* **Accessibility** is important to a lot of Mastodon users. 
-* **Use of Content Warnings (CW)**. When you post, you can choose to hide your post behind a content warning. There is no broad agreement about when to use these, but I think it's funny that I often see people hiding news about Twitter behind a CW, presumably so that it doesn't clutter up people's feed. 
-* **Consent.** A number of people have shared with me that they want to bring LiveJournal like practices to Mastodon, where not everyone sees everything and there is a widespread agreement that you don't share things publicly that weren't initially made public. 
-* **It's not Twitter**, and we like it like that: A lot of people on Mastodon are there because they did not like what was happening on Twitter. They react negatively to people using Mastodon like Twitter (blasting out nothing but self-promotional links; combative behavior). 
-* **Mastodon slang** Twitter is often referred to as "the birdsite." Elon Musk is rarely referred to by name and is often called "Space Karen."
+1. **Accessibility** is important to a lot of Mastodon users. 
+2.  **Use of Content Warnings (CW)**. When you post, you can choose to hide your post behind a content warning. There is no broad agreement about when to use these, but I think it's funny that I often see people hiding news about Twitter behind a CW, presumably so that it doesn't clutter up people's feed. 
+3.  **Consent.** A number of people have shared with me that they want to bring LiveJournal like practices to Mastodon, where not everyone sees everything and there is a widespread agreement that you don't share things publicly that weren't initially made public. 
+4.  **It's not Twitter**, and we like it like that: A lot of people on Mastodon are there because they did not like what was happening on Twitter. They react negatively to people using Mastodon like Twitter (blasting out nothing but self-promotional links; combative behavior). 
+5.  **Mastodon slang** Twitter is often referred to as "the birdsite." Elon Musk is rarely referred to by name and is often called "Space Karen."
 
 
 
