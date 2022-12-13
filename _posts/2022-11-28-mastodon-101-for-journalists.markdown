@@ -57,7 +57,7 @@ A few tips:
 4. **Don't sweat it too much.** If you want to move servers, you can, and you can take your follwers and follows with you. 
 5. There are a few journalist-specific instances, including journa.host and newsie.social. Again, make yourself aware of their moderation history and policies. 
 
-### Why is it important to write an introduction post? 
+#### Why is it important to write an introduction post? 
 
 An introduction post is one way for people to find and decide whether or not to follow your account. Write a little about you, your work, your interests, and use hashtags. Geographical hashtags like #Boston or #Massachusetts are good. Also use the hashtag #introduction...and take a look at that hashtag yourself to see if there are people you want to follow. 
 
@@ -68,7 +68,7 @@ An introduction post is one way for people to find and decide whether or not to 
 
 The good news: you don't have to pay anybody $8. Basically, you add a special link to a page on your own website, and then link back to that page from your Mastodon profile. You can [find a tutorial here](https://barrd.dev/article/add-a-verified-website-to-your-mastodon-account/). 
 
-### What should I know about using Mastodon? 
+#### What should I know about using Mastodon? 
 
 1. You get 500 characters! On some servers, it's even more. 
 2. You can edit posts.
@@ -78,7 +78,7 @@ The good news: you don't have to pay anybody $8. Basically, you add a special li
 6. Use hashtags (wisely). There is no full-text search, but there IS hashtag search. If your hashtag has two words, like #BostonPolitics, capitalize the first letter of each word (this is also for accessibility reasons: that makes it easier for people using screen readers to understand what the hashtag is saying). 
 7. You have a number of post privacy options...but nothing is truly private, so post accordingly. A post can be public, unlisted (so public but not searchable), for your followers only, for mentioned people only, or DMs. 
 
-### Following and followers
+#### Following and followers
 
 Because of the intentional limits on search and the lack of an algorithm, the most effective way to build up your following/follower base is to follow people. Take a look at people you find interesting. Who are they following? You might want to follow them too. Search hashtags that interest you, to see if people are talking about those topics you might want to follow. 
 
