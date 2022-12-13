@@ -27,7 +27,7 @@ We'll get back to the 'how to choose a server' thing in a minute.
 
 As of today, November 29, 2022, stats from the Fediverse Observer put [Mastodon at just under 7 million users](https://fediverse.observer/stats). That's tiny compared to Twitter (237 million), Youtube (2.6 billion) or Facebook (2.9 billion). It's grown rapidly and mentioned a lot lately because the agita surrounding Elon Musk's acquisition of Twitter and his behavior thereafter has prompted a lot of Twitter users to seek out a new platform (and be vocal about that search). 
 
-You can find current stats on Fediverse users here: [Fediverse Observer: Stats](https://fediverse.observer/stats). 
+You can find current stats on Fediverse users here: [Fediverse Observer: Stats](https://fediverse.observer/stats). It's likely that by the time you read this there will be more users, as the trend of people joining the service to flee Twitter is moving sharply upward. 
 
 #### If it's so tiny, why be on it?
 
