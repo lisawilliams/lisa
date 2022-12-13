@@ -54,20 +54,15 @@ A few tips:
 1. **Bigger isn't necessarily better.** Because Mastodon servers can talk to each other, being on a big server isn't necessarily better than being on a small server. Consider, too, that one of the resources that does not scale is moderation. A smaller instance may have the opportunity for better community management than one with tens or hundreds of thousands of users. 
 2. **Read your instance's about page and consider what you read there.**  Here is the [About page for Mastodon.art](https://mastodon.art/about), an instance focused on artists and their work. An about page should tell you what kind of community you will find there, what the code of conduct is, and more. Note that this page lists the moderation team for that server. An about page will also often show which servers the managers of that server have chosen to "defederate" from. If a server's about page doesn't have much on it, that's not a good look. 
 3. **Explore.** Look at the "Explore Tab" on a server you're considering joining. What do you see being posted there? Are they talking about topics that interest you? What's the vibe? 
-3. **Don't sweat it too much.** If you want to move servers, you can, and you can take your follwers and follows with you. 
+4. **Don't sweat it too much.** If you want to move servers, you can, and you can take your follwers and follows with you. 
+5. There are a few journalist-specific instances, including journa.host and newsie.social. Again, make yourself aware of their moderation history and policies. 
 
-#### What is defederation? 
+### Why is it important to write an introduction post? 
 
-People running a server can choose to "defederate" from any other server. This means that you will not see messages from people posting on that server in your Federated feed. 
+An introduction post is one way for people to find and decide whether or not to follow your account. Write a little about you, your work, your interests, and use hashtags. Geographical hashtags like #Boston or #Massachusetts are good. Also use the hashtag #introduction...and take a look at that hashtag yourself to see if there are people you want to follow. 
 
-#### What do I see when I log in? What are feeds? 
+[Here's an example of an introduction post](https://mastodon.social/@azylbertal@neuromatch.social/109507341148338346).
 
-When you log in you will see three feeds. Your Home feed shows you post from people you follow. Your Local feed shows you posts from people on your server. 
-Your Federated feed shows you posts from people across the servers that your server is in contact with.
-
-#### Can I migrate my Twitter follows/followers?
-
-There are services, namely debirdify and fedifinder, that attempt to match/find Twitter users and Mastodon accounts. I haven't used these, so I can't report on how they work. 
 
 #### How do I verify my account? 
 
@@ -83,11 +78,28 @@ The good news: you don't have to pay anybody $8. Basically, you add a special li
 6. Use hashtags (wisely). There is no full-text search, but there IS hashtag search. If your hashtag has two words, like #BostonPolitics, capitalize the first letter of each word (this is also for accessibility reasons: that makes it easier for people using screen readers to understand what the hashtag is saying). 
 7. You have a number of post privacy options...but nothing is truly private, so post accordingly. A post can be public, unlisted (so public but not searchable), for your followers only, for mentioned people only, or DMs. 
 
+### Following and followers
+
+Because of the intentional limits on search and the lack of an algorithm, the most effective way to build up your following/follower base is to follow people. Take a look at people you find interesting. Who are they following? You might want to follow them too. Search hashtags that interest you, to see if people are talking about those topics you might want to follow. 
+
 #### Where can I find journalists on Mastodon? 
 
 [Here is one of several lists online](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit#gid=1320898902). 
 
 There are a number of journalism-focused servers, including [newsie.social](https://newsie.social/explore) and [journa.host](https://journa.host/about). Journa.host has had some moderation controversy; again, it's worth exploring a server and understanding its moderation policies and history in order to make a decision you are comfortable with. 
+
+#### What is defederation? 
+
+People running a server can choose to "defederate" from any other server. This means that you will not see messages from people posting on that server in your Federated feed. 
+
+#### What do I see when I log in? What are feeds? 
+
+When you log in you will see three feeds. Your Home feed shows you post from people you follow. Your Local feed shows you posts from people on your server. 
+Your Federated feed shows you posts from people across the servers that your server is in contact with.
+
+#### Can I migrate my Twitter follows/followers?
+
+There are services, namely debirdify and fedifinder, that attempt to match/find Twitter users and Mastodon accounts. I haven't used these, so I can't report on how they work. 
 
 ### Mastodon culture(s)
 
