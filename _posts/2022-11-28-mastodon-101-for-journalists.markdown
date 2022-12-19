@@ -55,11 +55,11 @@ A few tips:
 2. **Read your instance's about page and consider what you read there.**  Here is the [About page for Mastodon.art](https://mastodon.art/about), an instance focused on artists and their work. An about page should tell you what kind of community you will find there, what the code of conduct is, and more. Note that this page lists the moderation team for that server. An about page will also often show which servers the managers of that server have chosen to "defederate" from. If a server's about page doesn't have much on it, that's not a good look. 
 3. **Explore.** Look at the "Explore Tab" on a server you're considering joining. What do you see being posted there? Are they talking about topics that interest you? What's the vibe? 
 4. **Don't sweat it too much.** If you want to move servers, you can, and you can take your follwers and follows with you. 
-5. There are a few journalist-specific instances, including journa.host and newsie.social. Again, make yourself aware of their moderation history and policies. 
+5. **There are a few journalist-specific instances**, including journa.host and newsie.social. Again, make yourself aware of their moderation history and policies. 
 
 #### Why is it important to write an introduction post? 
 
-An introduction post is one way for people to find and decide whether or not to follow your account. Write a little about you, your work, your interests, and use hashtags. Geographical hashtags like #Boston or #Massachusetts are good. Also use the hashtag #introduction...and take a look at that hashtag yourself to see if there are people you want to follow. 
+An introduction post is one way for people to find and decide whether or not to follow your account. Write a little about you, your work, your interests, and use hashtags. Geographical hashtags like #Boston or #Massachusetts are good. Also use the hashtag #introduction...and take a look at that hashtag yourself to see if there are people you want to follow. Make sure you use the #introduction hashtag. 
 
 [Here's an example of an introduction post](https://mastodon.social/@azylbertal@neuromatch.social/109507341148338346).
 
@@ -70,23 +70,22 @@ The good news: you don't have to pay anybody $8. Basically, you add a special li
 
 #### What should I know about using Mastodon? 
 
-1. You get 500 characters! On some servers, it's even more. 
-2. You can edit posts.
-3. There's no full-text search, by design (for now). 
-4. There's no algorithm, by design (for now). People see what you post in reverse chronological order. That's it. 
-5. Use image descriptions. No, seriously, use image descriptions. I've never seen a platform where people were more vocal about accessibility than Mastodon. It's great! 
-6. Use hashtags (wisely). There is no full-text search, but there IS hashtag search. If your hashtag has two words, like #BostonPolitics, capitalize the first letter of each word (this is also for accessibility reasons: that makes it easier for people using screen readers to understand what the hashtag is saying). 
-7. You have a number of post privacy options...but nothing is truly private, so post accordingly. A post can be public, unlisted (so public but not searchable), for your followers only, for mentioned people only, or DMs. 
+1. **You get 500 characters!** On some servers, it's even more. 
+2. **You can edit posts.**
+3. **There's no full-text search**, by design (for now). 
+4. **There's no algorithm**, by design (for now). People see what you post in reverse chronological order. That's it. 
+5. **Use image descriptions**. No, seriously, use image descriptions. I've never seen a platform where people were more vocal about accessibility than Mastodon. It's great! 
+6. **Use hashtags** (wisely). There is no full-text search, but there IS hashtag search. If your hashtag has two words, like #BostonPolitics, capitalize the first letter of each word (this is also for accessibility reasons: that makes it easier for people using screen readers to understand what the hashtag is saying). 
+7. **You have a number of post privacy options**...but nothing is truly private, so post accordingly. A post can be public, unlisted (so public but not searchable), for your followers only, for mentioned people only, or DMs. 
 
 #### Following and followers
 
 Because of the intentional limits on search and the lack of an algorithm, the most effective way to build up your following/follower base is to follow people. Take a look at people you find interesting. Who are they following? You might want to follow them too. Search hashtags that interest you, to see if people are talking about those topics you might want to follow. 
 
+
 #### Where can I find journalists on Mastodon? 
 
 [Here is one of several lists online](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit#gid=1320898902). 
-
-There are a number of journalism-focused servers, including [newsie.social](https://newsie.social/explore) and [journa.host](https://journa.host/about). Journa.host has had some moderation controversy; again, it's worth exploring a server and understanding its moderation policies and history in order to make a decision you are comfortable with. 
 
 #### What is defederation? 
 
@@ -99,7 +98,7 @@ Your Federated feed shows you posts from people across the servers that your ser
 
 #### Can I migrate my Twitter follows/followers?
 
-There are services, namely debirdify and fedifinder, that attempt to match/find Twitter users and Mastodon accounts. I haven't used these, so I can't report on how they work. 
+You may want to try tools like [Debirdify](https://debirdify.pruvisto.org/) or [Fedifinder](https://fedifinder.glitch.me/) to see if people who follow you, or you follow, are also on Mastodon. 
 
 ### Mastodon culture(s)
 
