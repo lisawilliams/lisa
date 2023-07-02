@@ -5,6 +5,8 @@ date:   2022-11-28 00:16:39 -0400
 categories: tech
 ---
 
+_updated July 2, 2023_
+
 ![Screen shot of GBH News Mastodon account](https://i.ibb.co/174VrG5/Screen-Shot-2022-11-29-at-4-51-07-PM.png" alt="A screen shot of the GBH News Mastodon account reading Good morning fediverse! This is GBH News from Boston")
 
 I established the [GBH News presence on Mastodon](https://mastodon.social/@gbhnews) in October of 2022. It is currently our fastest-growing and most-engaged social account; it is likely that in the near future we will have more followers on Mastodon than we do on Instagram. Due to wide interest and plenty of questions from reporters in our newsroom, I put together a brief session, "Mastodon 101 for Journalists." [Slides available here](https://lisawilliams.github.io/Mastodon-101/slides/).
