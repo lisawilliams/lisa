@@ -7,7 +7,7 @@ categories: tech
 
 ![Screen shot of GBH News Mastodon account](https://i.ibb.co/174VrG5/Screen-Shot-2022-11-29-at-4-51-07-PM.png" alt="A screen shot of the GBH News Mastodon account reading Good morning fediverse! This is GBH News from Boston")
 
-I established the [GBH News presence on Mastodon](https://mastodon.social/@gbhnews). Due to wide interest and plenty of questions from reporters in our newsroom, I put together a brief session, "Mastodon 101 for Journalists." [Slides available here](https://lisawilliams.github.io/Mastodon-101/slides/).
+I established the [GBH News presence on Mastodon](https://mastodon.social/@gbhnews) in October of 2022. It is currently our fastest-growing and most-engaged social account; it is likely that in the near future we will have more followers on Mastodon than we do on Instagram. Due to wide interest and plenty of questions from reporters in our newsroom, I put together a brief session, "Mastodon 101 for Journalists." [Slides available here](https://lisawilliams.github.io/Mastodon-101/slides/).
 
 Much of what I put there, and in this tipsheet, came from people already on Mastodon. I asked them what they wanted journalists to know about them and about the platform, and their responses were [insightful and sometimes incisive](https://mastodon.social/@gbhnews/109422100167391959).
 
@@ -15,7 +15,7 @@ Much of what I put there, and in this tipsheet, came from people already on Mast
 
 Mastodon is a decentralized, *federated* social network. 
 
-Anyone can set up and run a Mastodon server (sometimes called an "instance"). The software is free and open source. In this way, you can think of it like Wordpress: Wordpress lets you set up your own website to host a blog (or many other uses at this point). Mastodon lets you set up your own node of a social network. 
+Anyone can set up and run a Mastodon server (sometimes called an "instance"). The software is free and open source. In this way, you can think of it like Wordpress: Wordpress lets you set up your own website to host a blog (or many other uses at this point). Mastodon lets you set up your own node of a social network. This means the network is not owned by a single company, the way Twitter and Facebook are. 
 
 #### The 'federated' part is important.
 
@@ -55,11 +55,11 @@ A few tips:
 2. **Read your instance's about page and consider what you read there.**  Here is the [About page for Mastodon.art](https://mastodon.art/about), an instance focused on artists and their work. An about page should tell you what kind of community you will find there, what the code of conduct is, and more. Note that this page lists the moderation team for that server. An about page will also often show which servers the managers of that server have chosen to "defederate" from. If a server's about page doesn't have much on it, that's not a good look. 
 3. **Explore.** Look at the "Explore Tab" on a server you're considering joining. What do you see being posted there? Are they talking about topics that interest you? What's the vibe? 
 4. **Don't sweat it too much.** If you want to move servers, you can, and you can take your follwers and follows with you. 
-5. **There are a few journalist-specific instances**, including journa.host and newsie.social. Again, make yourself aware of their moderation history and policies. 
+5. **There are a few journalist-specific instances**, but I don't currently recommend those to journalists in my newsroom due to questions about moderation policies on those servers. 
 
 #### Why is it important to write an introduction post? 
 
-An introduction post is one way for people to find and decide whether or not to follow your account. Write a little about you, your work, your interests, and use hashtags. Geographical hashtags like #Boston or #Massachusetts are good. Also use the hashtag #introduction...and take a look at that hashtag yourself to see if there are people you want to follow. Make sure you use the #introduction hashtag. 
+An introduction post is one way for people to find and decide whether or not to follow your account. Write a little about you, your work, your interests, and use hashtags. Geographical hashtags like #Boston or #Massachusetts are good. Topical hashtags are great. Also use the hashtag #introduction...and take a look at that hashtag yourself to see if there are people you want to follow. Make sure you use the #introduction hashtag. 
 
 [Here's an example of an introduction post](https://mastodon.social/@azylbertal@neuromatch.social/109507341148338346).
 
@@ -98,7 +98,7 @@ Your Federated feed shows you posts from people across the servers that your ser
 
 #### Can I migrate my Twitter follows/followers?
 
-You may want to try tools like [Debirdify](https://debirdify.pruvisto.org/) or [Fedifinder](https://fedifinder.glitch.me/) to see if people who follow you, or you follow, are also on Mastodon. 
+You may want to try tools like [Debirdify](https://debirdify.pruvisto.org/) or [Fedifinder](https://fedifinder.glitch.me/) to see if people who follow you, or you follow, are also on Mastodon. Some of these may no longer be operational due to API limits at Twitter. 
 
 ### Mastodon culture(s)
 
@@ -106,7 +106,7 @@ Because different servers have different customs and practices, you don't have o
 
 A few things to remember: 
 
-1. **Accessibility** is important to a lot of Mastodon users. 
+1. **Accessibility** is important to a lot of Mastodon users. When you upload a photo, add alt text describing the photo for users who are blind or visually impaired.
 2.  **Use of Content Warnings (CW)**. When you post, you can choose to hide your post behind a content warning. There is no broad agreement about when to use these, but I think it's funny that I often see people hiding news about Twitter behind a CW, presumably so that it doesn't clutter up people's feed. 
 3.  **Consent.** A number of people have shared with me that they want to bring LiveJournal like practices to Mastodon, where not everyone sees everything and there is a widespread agreement that you don't share things publicly that weren't initially made public. 
 4.  **It's not Twitter**, and we like it like that: A lot of people on Mastodon are there because they did not like what was happening on Twitter. They react negatively to people using Mastodon like Twitter (blasting out nothing but self-promotional links; combative behavior). 
