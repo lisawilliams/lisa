@@ -77,6 +77,7 @@ These books were suggested by friends & community members in response to this li
 [Where's The Grief?](https://wheresthegrief.libsyn.com/)<br>
 [Griefcast: Funny People Talking About Grief](https://cariadlloyd.com/griefcast)<br>
 An individual podcast episode from New York Times' *The Daily*: "[What If There's No Such Thing As Closure?](https://www.nytimes.com/2022/01/09/podcasts/the-daily/closure-pauline-boss-sunday-read.html)."" It's about the social scientist Pauline Boss' work on the concept of "ambiguous loss." Think about when we lose someone we had a difficult relationship with, or the loss of a parent who is an active addict or alcoholic, or a missing person. Particularly important during COVID when many people's rituals of saying goodbye or memorializing are disrupted. <br>
+[Esther Perel on Grief](https://pca.st/sq2z4wsj) This is an episode of one of my favorite podcasts, 'On with Kara Swisher.' Swisher is a tech journalist, so this is an unusual topic for this podcast. Swisher brought on Perel to discuss grief after the death of a member of the podcast production team, Blakeney Schick. She died unexpectedly of a heart attack at the age of 40.<br>
 
 ## Blogs, Websites, And Other Resources
 
