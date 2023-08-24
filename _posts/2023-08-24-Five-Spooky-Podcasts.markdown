@@ -5,14 +5,16 @@ date:   2023-08-24 00:16:39 -0400
 categories: culture
 ---
 
-![Cheerful jack-o-lantern wearing headphones](https://i.ibb.co/QH2tdC0/pumpkin-headphones.webp)<br>
+![Cheerful jack-o-lantern wearing headphones](<img src="https://i.ibb.co/gRcH2Gv/qc-halloween-pumpkin-headphones-760.webp")<br>
 
-It's my favorite time of the year! I sifted through a mountain of spooky podcasts to put together this top 5 list. If you're ready to start spooky season, or celebrate Halloween all year round, these are for you. <br>
+It's my favorite time of the year! I sifted through a mountain of spooky podcasts to put together this top 5 list. If you're ready to start spooky season, or just get a taste of that spooky life at any time of the year, these are for you. <br>
 
 
 **Bridgewater**
 
 Superbly written and acted, this multi-episode story updates the classic radio drama format, but with nods to modern twists on the old campfire tale. It focuses on the disappearance of a man's father in what's known as The Bridgewater Triangle, an area of southeastern Massachusetts rumored by some to be a place where weird stuff happens. For those of you who are *Firefly* fans, Nathan Fillion has a part here. 
+
+[Bridgewater podcast from Grim & Mild](https://www.grimandmild.com/bridgewater)
 
 **Spooked**
 
