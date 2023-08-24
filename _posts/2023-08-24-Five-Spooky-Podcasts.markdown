@@ -5,7 +5,7 @@ date:   2023-08-24 00:16:39 -0400
 categories: culture
 ---
 
-![Cheerful jack-o-lantern wearing headphones](<img src="https://i.ibb.co/gRcH2Gv/qc-halloween-pumpkin-headphones-760.webp")<br>
+![Cheerful jack-o-lantern wearing headphones]("https://i.ibb.co/gRcH2Gv/qc-halloween-pumpkin-headphones-760.webp")<br>
 
 It's my favorite time of the year! I sifted through a mountain of spooky podcasts to put together this top 5 list. If you're ready to start spooky season, or just get a taste of that spooky life at any time of the year, these are for you. <br>
 
