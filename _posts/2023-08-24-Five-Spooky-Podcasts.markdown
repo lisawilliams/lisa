@@ -13,7 +13,7 @@ Halloween is my favorite holiday, and I start spooky season, well...probably a l
 
 **Bridgewater**
 
-Superbly written and acted, this multi-episode story updates the classic radio drama format, but with nods to modern twists on the old campfire tale. It focuses on the disappearance of a man's father in what's known as The Bridgewater Triangle, an area of southeastern Massachusetts rumored by some to be a place where weird stuff happens. For those of you who are *Firefly* fans, Nathan Fillion has a part here. 
+Superbly written and acted, this multi-episode story updates the classic radio drama format, but with nods to modern twists on the old campfire tale. It focuses on the disappearance of a man's father in what's known as The Bridgewater Triangle, an area of southeastern Massachusetts rumored by some to be a place where weird stuff happens. For those of you who are *Firefly* fans, Nathan Fillion has a part here. From the producer of *Lore.*
 
 [Bridgewater podcast from Grim & Mild](https://www.grimandmild.com/bridgewater)
 
@@ -37,6 +37,6 @@ I'll admit it, I love this podcast. Host Mandy Spooks dives deep into why scary 
 
 **The Magnus Archive**
 
-An anthology series with a story arc to tie it together, The Magnus Archives puts a paranormal investigator in a demented file room. He has to sort it all out -- and ends up digging into some chilling mysteries. 
+An anthology series with a story arc to tie it together, The Magnus Archives puts a paranormal investigator in a demented file room. He has to sort it all out -- and ends up digging into some chilling mysteries. Close in spirit to *Archive 81*, but with a few more laughs. 
 
 [The Magnus Archive website](https://rustyquill.com/show/the-magnus-archives/)
