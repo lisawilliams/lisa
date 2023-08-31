@@ -51,7 +51,7 @@ I squeezed my hand into a fist and pressed it against my tee shirt. By the time 
 
 ![Reference area, Woburn Public Library](https://i.ibb.co/ftWk0XJ/woburn-library-reference-area.jpg)
 
-_<sub>This area of the library once housed the raised platform where librarians checked out your books. Richardson also made custom furniture to go with this building. Most of it is gone, but at least one piece can be seen, protected in an upper gallery that can be seen but isn't accessible to the general public.</sub>_
+_<sub>This area of the library once housed the raised platform where librarians checked out your books. I did not go to Woburn for many years after I left. Recently, I had reason to go and visited the library I once loved so much. I'm glad to say that a renovation did not ruin it, and I felt very uplifted by my visit, as if the building itself welcomed back a devoted believer. Photo Lisa Williams, 8/30/2023, 6:30PM.</sub>_
 
 The paper towels in the restroom were no help -- they were those scratchy, brown, industrial kind that never seemed to absorb anything at all. We left, and got the rest of the miscreants behind the library. The one with the car took off immediately. We walked around the neighborhood behind the library until we decided to go see the mother of one of the kids. She worked in some sort of medical job -- maybe a nurse or a nurse assistant -- and worked nights. She looked harassed when she got woken up and said, "You're going to have to take her to the hospital. That needs stitches."
 
