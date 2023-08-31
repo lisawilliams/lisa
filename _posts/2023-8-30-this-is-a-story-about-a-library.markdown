@@ -45,7 +45,7 @@ Then, of course, we were instantly united in a single, shared, urgent mission: w
 
 And that meant we couldn't let the adults find out. 
 
-They were the babysitters and I was the kid, but our instant allegiance proved one thing: we were both just kids. And kids can't rat on each other to the grownups. 
+They were the babysitters and I was the kid, but our immediate and unshakable allegiance proved one thing: we were both just kids. And this was the biggest kid rule: don't tell the adults. Stick together, shut up, and stay out of trouble. 
 
 We raced down the spiral staircase. We had to get to the bathroom, but that meant crossing the reference area of the library, where the librarians stood on a raised square platform surrounded by a wooden counter. 
 
