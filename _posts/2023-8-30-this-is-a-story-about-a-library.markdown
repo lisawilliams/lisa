@@ -29,7 +29,7 @@ But back then, Woburn wasn't an affluent place. And to have a public library thi
 
 ![Woburn Public Library, exterior](https://freedomsway.org/wp-content/uploads/2021/12/woburn-ma_winn-memorial-library-1.jpeg)
 
-<sub>_Like many of Richardson's buildings, including Boston's Trinity Church, the library, built with the money from a family that owned a leather goods factory, uses a distinctive red sandstone that came from quarries in East Longmeadow, MA, and Medina, NY._</sub>
+<sub>_Like many of Richardson's buildings, including Boston's Trinity Church, the library, built with the money from a family that owned a leather goods factory, uses a distinctive red sandstone that came from quarries in East Longmeadow, Massachusetts._</sub>
 
 My babysitter and her friends never came inside; at the time, there were big mounds of earth behind the library, construction debris that had been left there long enough that long grass and weeds covered them. They'd go out back and smoke cigarettes. What I remember about their conversations was how much of it was about who to be angry with, what they'd done, why that was so bad. 
 
@@ -48,6 +48,10 @@ They were the babysitters and I was the kid, but our instant allegiance proved o
 We raced down the spiral staircase. We had to get to the bathroom, but that meant crossing the reference area of the library, where the librarians stood on a raised square platform surrounded by a wooden counter. 
 
 I squeezed my hand into a fist and pressed it against my tee shirt. By the time we got into the entryway, I'd left a trail of dots of blood on the tiles. It was really bleeding. 
+
+![Reference area, Woburn Public Library](https://i.ibb.co/ftWk0XJ/woburn-library-reference-area.jpg)
+
+_<sub>This area of the library once housed the raised platform where librarians checked out your books. Richardson also made custom furniture to go with this building. Most of it is gone, but at least one piece can be seen, protected in an upper gallery that can be seen but isn't accessible to the general public.</sub>_
 
 The paper towels in the restroom were no help -- they were those scratchy, brown, industrial kind that never seemed to absorb anything at all. We left, and got the rest of the miscreants behind the library. The one with the car took off immediately. We walked around the neighborhood behind the library until we decided to go see the mother of one of the kids. She worked in some sort of medical job -- maybe a nurse or a nurse assistant -- and worked nights. She looked harassed when she got woken up and said, "You're going to have to take her to the hospital. That needs stitches."
 
