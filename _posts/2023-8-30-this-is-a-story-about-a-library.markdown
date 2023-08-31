@@ -7,6 +7,8 @@ categories: culture
 
 ![Woburn Public Library, Interior](https://i.ibb.co/WGhdfPX/woburn-public-library.jpg)
 
+<sub>_Woburn Public Library, Interior. Built in 1879, the library was designed by H.H. Richardson in a style that became known as "American Romanesque."_ Photo by Lisa Williams, taken 8/30/2023.</sub>
+
 This story won't make a lot of sense unless you understand _How Things Were Back Then._
 
 There were no cell phones, and there were actual commercials on television (not cable, you understand: old fashioned broadcast television) that implored adults to look around at 10PM and consider whether or not they knew where their children were. 
@@ -19,7 +21,7 @@ I rarely saw my babysitter by herself. We'd get picked up in a car one of her fr
 
 I read countless novels. I remember being in the upper stacks in the folklore section and reading about the folklore of every holiday, especially my favorite holiday, Halloween. I never visited the kids' section, and I feel grateful now that librarians let me check out anything I wanted, even though the books I checked out were written for adults and not for kids. Over the few years I was a patron I read Stephen King and War and Peace and lots of books about stars and history and travel. I read On The Road and Howl. And nobody ever hassled me about anything I checked out. 
 
-Woburn was a tough, white working-class town then. It was pretty common for me to hear racist slurs and mean homophobic jokes when adults got together in the backyard to grill burgers and drink beer. Today when I visit I see people of color. I've even seen a Pride flag, something I never saw growing up. At the same time, stories about homophobic hazing on school sports teams, and a town police officer ousted after revelations that he helped organize the "Unite the Right" event in Charlottesville where neo-nazis gathered to march have also been in the news, and just in the past few years.
+Woburn was a tough, white working-class town then. It was pretty common for me to hear racist slurs and mean homophobic jokes when adults got together in the backyard to grill burgers and drink beer. Today when I visit I see people of color. I've even seen a Pride flag, something I never saw growing up. At the same time, stories about homophobic hazing on school sports teams, and a town police officer ousted after revelations that he helped organize the "Unite the Right" event in Charlottesville where neo-nazis gathered to march have also been in the news, and just in the past few years. Perhaps things haven't changed so much as layers have been added, layers of diversity and tolerance that weren't present when I was a kid. But sadly, it appears that the bad stuff is still here. 
 
 But back then, Woburn wasn't an affluent place. And to have a public library this grand...it was almost like a Victorian-era UFO had landed in sight of City Hall. 
 
