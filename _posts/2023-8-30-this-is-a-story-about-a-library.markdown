@@ -25,7 +25,7 @@ I read countless novels. It was an emergency, to be without a book. I remember b
 
 Woburn was a tough, white working-class town then. It was pretty common for me to hear racist slurs and mean homophobic jokes when adults got together in backyards to grill burgers and drink beer. Today when I visit I see people of color. I've even seen a Pride flag, something I never saw growing up. At the same time, stories about homophobic hazing on school sports teams<sup>[1](https://www.nbcboston.com/news/local/7-teens-face-charges-in-hazing-incidents-at-woburn-memorial-high-school/2694401/)</sup>, and a town police officer ousted after revelations that he helped organize the "Unite the Right" event in Charlottesville<sup>[2](https://www.huffpost.com/entry/john-donnelly-police-officer-charlottesville-white-supremacist-woburn-massachusetts_n_634856a1e4b08e0e60812d63)</sup> where neo-nazis gathered to march have also been in the news, and just in the past few years. 
 
-Perhaps things haven't changed so much as layers have been added, layers of diversity and tolerance that weren't present when I was a kid. But sadly, it appears that the bad stuff is still here. 
+Maybe things haven't changed so much as layers have been added, layers of diversity and tolerance that weren't present when I was a kid. But sadly, it appears that the bad stuff is still here. 
 
 But back then, Woburn wasn't an affluent place. And to have a public library this grand...it was almost like a Victorian-era UFO had landed in sight of City Hall. 
 
