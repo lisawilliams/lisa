@@ -172,10 +172,10 @@ Gallery: Hammock Gallery, Provincetown<br>
 Title: Pattern Language 21<br>
 Artist: Maya Erdelyi<br>
 Year Created: 2022<br>
-Artform: Painting/Collage<br>
-Materials: Unknown <br>
+Artform: Mixed media<br>
+Materials: Collage on archival paper<br>
 Surface: Paper<br>
-Dimensions: 12x12in<br>
+Dimensions: 11x8.5in<br>
 Added to collection: 2023<br>
 Gallery: Room 68 <br>
 
