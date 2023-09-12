@@ -163,7 +163,7 @@ Materials: Wood, stone, steel<br>
 Dimensions: 8in x 12in x 7ft, 6in<br>
 Added to collection: 2022<br>
 Gallery: Hammock Gallery, Provincetown<br>
-
+<br><br>
 
 <h3>Pattern Language 21</h3>
 
@@ -177,7 +177,7 @@ Materials: Unknown <br>
 Surface: Paper<br>
 Dimensions: 12x12in<br>
 Added to collection: 2023<br>
-Gallery: Somewhere in Provincetown <br>
+Gallery: Room 68 <br>
 
 
 <h3>Works not yet photographed:</h3>
