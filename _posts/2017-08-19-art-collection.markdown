@@ -164,6 +164,22 @@ Dimensions: 8in x 12in x 7ft, 6in<br>
 Added to collection: 2022<br>
 Gallery: Hammock Gallery, Provincetown<br>
 
+
+<h3>Pattern Language 21</h3>
+
+![Pattern Language, Painting](https://i.ibb.co/B2V8k1J/IMG-5868.jpg)
+
+Title: Pattern Language 21<br>
+Artist: Maya Erdelyi<br>
+Year Created: 2022<br>
+Artform: Painting/Collage<br>
+Materials: Unknown <br>
+Surface: Paper<br>
+Dimensions: 12x12in<br>
+Added to collection: 2023<br>
+Gallery: Somewhere in Provincetown <br>
+
+
 <h3>Works not yet photographed:</h3>
 
 Title: Study for Certain Dark Things<br>
