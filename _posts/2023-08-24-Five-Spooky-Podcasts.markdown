@@ -15,7 +15,9 @@ Halloween is my favorite holiday, and I start spooky season, well...probably a l
 
 Superbly written and acted, this multi-episode story updates the classic radio drama format, but with nods to modern twists on the old campfire tale. It focuses on the disappearance of a man's father in what's known as The Bridgewater Triangle, an area of southeastern Massachusetts rumored by some to be a place where weird stuff happens. For those of you who are *Firefly* fans, Nathan Fillion has a part here. From the producer of *Lore.*
 
-[Bridgewater podcast from Grim & Mild](https://www.grimandmild.com/bridgewater)
+[Bridgewater podcast from Grim & Mild](https://www.grimandmild.com/bridgewater) 
+
+_Bonus: Season 3 of [13 Days of Halloween](https://www.grimandmild.com/13days) will premiere Oct 19...until then you can listen to the first 2 seasons._
 
 **Spooked**
 
