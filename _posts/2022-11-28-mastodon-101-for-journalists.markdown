@@ -57,7 +57,7 @@ A few tips:
 2. **Read your instance's about page and consider what you read there.**  Here is the [About page for Mastodon.art](https://mastodon.art/about), an instance focused on artists and their work. An about page should tell you what kind of community you will find there, what the code of conduct is, and more. Note that this page lists the moderation team for that server. An about page will also often show which servers the managers of that server have chosen to "defederate" from. If a server's about page doesn't have much on it, that's not a good look. 
 3. **Explore.** Look at the "Explore Tab" on a server you're considering joining. What do you see being posted there? Are they talking about topics that interest you? What's the vibe? 
 4. **Don't sweat it too much.** If you want to move servers, you can, and you can take your follwers and follows with you. 
-5. **There are a few journalist-specific instances**, but I don't currently recommend those to journalists in my newsroom due to questions about moderation policies on those servers. 
+5. **There are a few journalist-specific instances**, but I don't currently recommend those to journalists in my newsroom, because moderation/management at these instances makes me wary that they would not be stable hosts for your account. 
 
 #### Why is it important to write an introduction post? 
 

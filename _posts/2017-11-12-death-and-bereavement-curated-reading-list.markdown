@@ -96,9 +96,18 @@ An individual podcast episode from New York Times' *The Daily*: "[What If There'
 
 [How The Brain Responds To Grief Can Change Who We Are](https://aeon.co/essays/how-the-brain-responds-to-grief-can-change-who-we-are), April Reese, Aeon. "At times in those first hours, days and weeks after his death, it was hard to breathe. I couldn’t concentrate. I forgot things. Fatigue was a constant, no matter how much I slept."
 
+[Grief during the holidays: 8 Strategies](https://thepsychologygroup.com/how-to-cope-with-grief-during-the-holidays/) "Don’t you wish you could press pause on the grieving process during the holiday season? I remember wishing I could do just that during the first (and several) holiday season following the painful loss of a loved one in my life."
+
 [Walking With My Grief](https://www.autostraddle.com/walking-with-my-grief/), Vanessa Pamela, Autostraddle. "I didn’t really want to go walking with my grief today. I guess I never really want to hang out with my grief… who does? But I am here."
 
+[What The Loss of a Parent Can Teach Us](https://www.latimes.com/health/la-he-death-of-a-parent-20180120-story.html) "Our parents are our first relationship… So when a parent dies, it is your anchor being taken away."
+
+[When an Estranged Relative Dies, Some Face Grief, Regret and Relief](https://www.nytimes.com/2021/04/05/well/family/grief-family-estrangement.html) On the unfinished feeling, and sometimes relief, at the death of an estranged family member. 
+
 [Grief and Bereavement Guidance Around COVID-19](https://complicatedgrief.columbia.edu/wp-content/uploads/2020/04/Managing-Bereavement-Around-COVID-19-HSPH.pdf), from the Columbia University Center For Complicated Grief, 2020. 
+
+[Continuing Bonds: Shifting the grief paradigm](https://whatsyourgrief.com/continuing-bonds-shifting-the-grief-paradigm/) In the U.S. and some other Western countries, if you keep talking about your loved one who has died, you may face pushback or concerns that you haven't "moved on." But in other cultures, a continuing bond with someone you are close to who has died is considered normal, and more research shows that this is healthy. 
+
 
 [Bereaved Families Are The 'Secondary Victims' of COVID-19](https://khn.org/news/bereaved-families-are-the-secondary-victims-of-covid-19/), Judith Graham, Kaiser Health News, August 2020. 
 
