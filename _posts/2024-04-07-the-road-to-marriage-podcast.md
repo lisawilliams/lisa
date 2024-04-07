@@ -7,13 +7,15 @@ categories: LGBTQ
 
 ![Provincetown Town Hall, Provincetown, MA. Taken on Tuesday, March 23, 2024 by Lisa Williams](https://i.imgur.com/Vpv0ULA.jpg)
 
-In February, I went to an [event](https://www.wgbh.org/events/february-lounge-thursdays-featuring-nadjya-facey-maccow) to celebrate the success of "What Is Owed?". I was so transported listening to my treasured colleague, Saraya Wintersmith, who was the host of the podcast, address a rapt audience at the Boston Public Library that driving home, I kept thinking: What other Boston stories from history are newly relevant now, and need to be told today? 
+In February, I went to an [event](https://www.wgbh.org/events/february-lounge-thursdays-featuring-nadjya-facey-maccow) to celebrate the success of "What Is Owed?".  I was utterly transported listening to my treasured colleague, podcast host and journalist Saraya Wintersmith address a rapt audience. 
+
+On the way home, I couldn't stop thinking: _What other Boston stories from history are newly relevant now, and need to be told today?_
 
 Driving home in the rain on The Pike, I flipped through my mental catalogue of the big Boston stories. And then, as I saw the sign for the Allston exit, it came to me: 
 
-_Same sex marriage._
+_I got it. It's same sex marriage._
 
-Like the telephone, the telegraph, the chocolate chip cookie (you're welcome, by the way), the microwave oven, medical anesthesia, the radical notion that girls and not just boys should be taught to read, birth control pills, universal healthcare, one of the major COVID mRNA vaccines, same sex marriage is just one more entry in Boston's centuries-long list of innovations<sup>2</sup>. Boston changes the world, again and again. 
+Like the telephone, the telegraph, the chocolate chip cookie (you're welcome, by the way), the microwave oven, medical anesthesia, the radical notion that girls and not just boys should be taught to read, birth control pills, universal healthcare, same sex marriage is just one more entry in Boston's centuries-spanning list of innovations<sup>2</sup>. Boston changes the world, again and again. 
 
 Just like we did on May 17, 2004. 
 
@@ -25,17 +27,17 @@ What happened?
 
 What happened is a truly extroardinary story. 
 
-It is a story that is especially relevant now, as attacks on LGBTQ+ people spike<sup>4</sup>, reporting intimidation online and violence and threats offline. The threats are not only against individuals but also against companies and public institutions. Only a few weeks ago, the public library in Reading, Mass, received bomb threats targeting the attendees of an LGBTQ event.<sup>5</sup> Extremists targeted Boston's renowned Childrens' Hospital with bomb threats<sup>6</sup>. I could make a much longer list.  
+It is a story that is especially relevant now, as attacks on LGBTQ+ people spike<sup>4</sup>, reporting intimidation online and violence and threats offline. The threats are not only against individuals but also against companies and public institutions. Here in Boston, libraries and childrens' hospitals have been the targets of bomb threats.<sup>5,6</sup>  
 
-And it's not just on the internet or on the streets: it's in the legislatures. A record number of anti-LGBTQ bills were introduced in legislatures across the country in 2023.<sup>7</sup>
+And it's not just on the internet or on the streets: it's in the legislatures. A record number of anti-LGBTQ bills were introduced across the country in 2023.<sup>7</sup>
 
  It seems like a good time to return to the history, to understand why marriage was important then, why it's important now. 
 
  (And: is there ever a time when we do not need to reflect on the enduring and central importance of love? How it changes us, individually and as a society?)
 
-I started to think about a podcast and gather material (I want to clarify that although I work for GBH News, we have such a massive pipeline of amazing projects that I wouldn't consider trying to wedge another one in right at the moment. So what you are reading here is "Lisa Williams is thinking," not "GBH News is doing" (although that would be great too of course)) It's something I'm tinkering with on vacations and weekends. 
+I started to think about a podcast and gather material (I want to clarify that although I work for GBH News, we have such a massive pipeline of amazing projects that I wouldn't consider trying to wedge another one in right at the moment. So what you are reading here is "Lisa Williams is thinking," not "GBH News is doing" (although that would be great too of course)).
 
-Last month, I took a four day weekend in Provincetown, Massachusetts with my partner Rebecca. March 19th 2024 dawned sunny and brisk, and I was smiling as I got a cup of coffee at Joe's and walked down an empty Commercial Street to Town Hall, where I asked to see marriage records from 2004.<sup>8</sup>
+So I have been tinkering with the idea on vacations and on weekends. Last month, I took a four day weekend in Provincetown, Massachusetts with my partner Rebecca. March 19th 2024 dawned sunny and brisk, and I was smiling as I got a cup of coffee at Joe's and walked down an empty Commercial Street to Town Hall, where I asked to see marriage records from 2004.<sup>8</sup>
 
 Town Clerk Elizabeth Paine showed me a slender, leather bound volume, about an inch thick, first. "This is for years and years."
 
