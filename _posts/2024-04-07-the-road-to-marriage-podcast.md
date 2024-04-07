@@ -27,9 +27,7 @@ What happened?
 
 What happened is a truly extroardinary story. 
 
-It is a story that is especially relevant now, as attacks on LGBTQ+ people spike<sup>4</sup>, reporting intimidation online and violence and threats offline. The threats are not only against individuals but also against companies and public institutions: Here in Boston, libraries and childrens' hospitals have been the targets of bomb threats.<sup>5,6</sup>  
-
-And it's not just on the internet or on the streets: it's in the legislatures. A record number of anti-LGBTQ bills were introduced across the country in 2023.<sup>7</sup>
+It is a story that is especially relevant now, as attacks on LGBTQ+ people spike<sup>4</sup>, reporting intimidation online and violence and threats offline. The threats are not only against individuals but also against companies and public institutions: Here in Boston, libraries and childrens' hospitals have been the targets of bomb threats.<sup>5,6</sup>  And it's not just on the internet or on the streets: it's in the legislatures. A record number of anti-LGBTQ bills were introduced across the country in 2023.<sup>7</sup>
 
  It seems like a good time to return to the history, to understand why marriage was important then, why it's important now. 
 
