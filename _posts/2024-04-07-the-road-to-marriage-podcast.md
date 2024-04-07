@@ -19,15 +19,15 @@ Like the telephone, the telegraph, the chocolate chip cookie (you're welcome, by
 
 Just like we did on May 17, 2004. 
 
-On that day, attorney Mary Bonauto shepherded three of the same-sex couples who were plaintiffs in the Goodridge vs. Department of Public Health<sup>1</sup> lawsuit to Boston City Hall to get marriage certificates — with a police escort and while sharpshooters were stationed on the roofs of adjoining buildings. 
+On that day, attorney Mary Bonauto shepherded three of the same-sex couples who were plaintiffs in the _Goodridge v. Department of Public Health<sup>1</sup>_ lawsuit to Boston City Hall to get marriage certificates — with a police escort and while sharpshooters were stationed on the roofs of adjoining buildings. 
 
-This year is the 20th anniversary of marriage equality in Massachusetts, and next June is the 10th anniversary of marriage equality in the United States<sup>3</sup>. 
+This year is the 20th anniversary of marriage equality in Massachusetts, and next year is the 10th anniversary of marriage equality in the United States<sup>3</sup>. 
 
 What happened? 
 
 What happened is a truly extroardinary story. 
 
-It is a story that is especially relevant now, as attacks on LGBTQ+ people spike<sup>4</sup>, reporting intimidation online and violence and threats offline. The threats are not only against individuals but also against companies and public institutions. Here in Boston, libraries and childrens' hospitals have been the targets of bomb threats.<sup>5,6</sup>  
+It is a story that is especially relevant now, as attacks on LGBTQ+ people spike<sup>4</sup>, reporting intimidation online and violence and threats offline. The threats are not only against individuals but also against companies and public institutions: Here in Boston, libraries and childrens' hospitals have been the targets of bomb threats.<sup>5,6</sup>  
 
 And it's not just on the internet or on the streets: it's in the legislatures. A record number of anti-LGBTQ bills were introduced across the country in 2023.<sup>7</sup>
 
@@ -37,7 +37,7 @@ And it's not just on the internet or on the streets: it's in the legislatures. A
 
 I started to think about a podcast and gather material (I want to clarify that although I work for GBH News, we have such a massive pipeline of amazing projects that I wouldn't consider trying to wedge another one in right at the moment. So what you are reading here is "Lisa Williams is thinking," not "GBH News is doing" (although that would be great too of course)).
 
-So I have been tinkering with the idea on vacations and on weekends. Last month, I took a four day weekend in Provincetown, Massachusetts with my partner Rebecca. March 19th 2024 dawned sunny and brisk, and I was smiling as I got a cup of coffee at Joe's and walked down an empty Commercial Street to Town Hall, where I asked to see marriage records from 2004.<sup>8</sup>
+So I have been tinkering with the idea on vacations and on weekends. Last month, I took a four day weekend in Provincetown, Massachusetts with my partner Rebecca. March 19th, 2024 dawned sunny and brisk, and I was smiling as I got a cup of coffee at Joe's and walked down an empty Commercial Street to Town Hall, where I asked to see marriage records from 2004.<sup>8</sup>
 
 Town Clerk Elizabeth Paine showed me a slender, leather bound volume, about an inch thick, first. "This is for years and years."
 
@@ -47,7 +47,13 @@ Then she brought out three volumes, two three inch thick leather binders, and an
 
 Most of the coverage at the time focused on Cambridge, which opened at midnight on May 17, 2004, and had a big lawn where couples gathered and celebrated. (It made great TV). 
 
-But it happened in Provincetown too. Flipping through the records, it felt like the first thing that happened was that every inkeeper in town got married. At first, it's locals. Then, as I flip forward, I start seeing: New York. New Jersey. Nashville. Alabama. Alaska (!). Marriage records have a place for an applicant to list their professions. I was fascinated by the ones who did the same work: two midwives got married. Two postal workers. Two accountants. 
+But it happened in Provincetown too. Flipping through the records, it felt like the first thing that happened was that every inkeeper in town got married. A lot of the same sex couples that filled out a marriage license on that first day lived right in Provincetown.
+
+But as I flip forward I see New York. New Jersey. Then further. 
+
+They come from Tennessee. They come from Florida. They come from Alabama. 
+
+I would have fallen off my chair when I spotted the one from Alaska. Fortunately I was standing at a counter, near the Clerk's friendly office dog, a yellow lab named Maverick. 
 
 And perhaps for many observers, May 17, 2004 is the end of the story. 
 
@@ -66,7 +72,7 @@ Again.
 
 
 1. ["Goodridge vs. Department of Public Health," Massachusetts Supreme Judicial Court, Nov. 18, 2003](http://masscases.com/cases/sjc/440/440mass309.html).
-2. ["Boston's Innovation Trail showcases innovations," GBH News, Aug. 7, 2023](https://www.wgbh.org/news/local/2023-06-05/bostons-innovation-trail-showcases-scientific-breakthroughs-past-and-present). Documenting every item in the list would create more footnotes than would benefit the reader but if you are interested, it is an entertaining Google rabbit hole. I use "Boston" here poetically, to mean the Greater Boston area writ large.
+2. ["Boston's Innovation Trail showcases innovations," GBH News, Aug. 7, 2023](https://www.wgbh.org/news/local/2023-06-05/bostons-innovation-trail-showcases-scientific-breakthroughs-past-and-present). Documenting every item in the list would create more footnotes than would benefit the reader but if you are interested, it is an entertaining Google rabbit hole. I use "Boston" here lyrically througout, the way one might wave their hand in the general direction of the city while standing on the ferry dock in Provincetown.
 3. ["Obergefell v. Hodges," Supreme Court of The United States, Jun. 26, 2015](https://www.oyez.org/cases/2014/14-556).
 4. [Hate crime statistics, The Marshall Project, March, 2023](https://www.themarshallproject.org/2023/03/25/asian-hate-crime-fbi-black-lgbtq). It is worth noting that I experienced anti-gay harassment and death threats after the death of my own partner in 2017. Some in journalism still don't believe that queer people can cover their own objectively (it interests me that I have never heard this 'can't cover your own' brought up when, for example, white men cover other white men). Objectivity is important, but vapid objectivity is the nugget of truth that makes the joke about a headline that says "Shape of Earth: Views Differ" funny.
 5. [Bomb threat at Reading public library targets LGBTQ event attendees. March 23, 2024, NBC Boston](https://www.nbcboston.com/news/local/bomb-threat-disrupts-pride-event-at-reading-public-library/3317417/)
