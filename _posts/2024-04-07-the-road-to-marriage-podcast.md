@@ -5,7 +5,7 @@ date:   2024-04-07 11:07:00 -0400
 categories: LGBTQ
 ---
 
-![Provincetown Town Hall, Provincetown, MA. Taken on Tuesday, March 23, 2024 by Lisa Williams](https://imgur.com/Vpv0ULA)
+![Provincetown Town Hall, Provincetown, MA. Taken on Tuesday, March 23, 2024 by Lisa Williams](https://i.imgur.com/Vpv0ULA.jpg)
 
 In February, I went to an [event](https://www.wgbh.org/events/february-lounge-thursdays-featuring-nadjya-facey-maccow) to celebrate the success of "What Is Owed?". I was so transported listening to my treasured colleague, Saraya Wintersmith, who was the host of the podcast, address a rapt audience at the Boston Public Library that driving home, I kept thinking: What other Boston stories from history are newly relevant now, and need to be told today? 
 
@@ -58,13 +58,14 @@ Again.
 
 
 
+<br><br><br>
+
 
 1. ["Goodridge vs. Department of Public Health," Massachusetts Supreme Judicial Court, Nov. 18, 2003](http://masscases.com/cases/sjc/440/440mass309.html).
-2. ["Boston's Innovation Trail showcases innovations," GBH News, Aug. 7, 2023]. Documenting every item in the list would create more footnotes than would benefit the reader but if you are interested, it is an entertaining Google rabbit hole.
+2. ["Boston's Innovation Trail showcases innovations," GBH News, Aug. 7, 2023](https://www.wgbh.org/news/local/2023-06-05/bostons-innovation-trail-showcases-scientific-breakthroughs-past-and-present). Documenting every item in the list would create more footnotes than would benefit the reader but if you are interested, it is an entertaining Google rabbit hole.
 3. ["Obergefell v. Hodges," Supreme Court of The United States, Jun. 26, 2016](https://www.oyez.org/cases/2014/14-556).
 4. [Bomb threat at Reading public library targets LGBTQ event attendees. March 23, 2024, NBC Boston](https://www.nbcboston.com/news/local/bomb-threat-disrupts-pride-event-at-reading-public-library/3317417/)
 5. [FBI arrests Mass. woman charged with bomb threat against Boston's Children's Hospital, GBH News, Sep. 2022](https://www.wgbh.org/news/local/2022-09-15/fbi-arrests-mass-woman-charged-with-bomb-threat-against-boston-childrens-hospital)
-
 6. [Record number of anti-LGBTQ bills introduced in 2022, CNN](https://www.cnn.com/politics/anti-lgbtq-plus-state-bill-rights-dg/index.html)
 7. My partner says I do not know how to vacation, and any reasonable observer would have to admit she has a point. 
 
