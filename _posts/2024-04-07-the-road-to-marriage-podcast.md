@@ -5,8 +5,7 @@ date:   2024-04-07 11:07:00 -0400
 categories: LGBTQ
 ---
 
-<span style="display:block;text-align:center">![Provincetown Town Hall, Provincetown, MA. Taken on Tuesday, March 23, 2024 by Lisa Williams](a href="//imgur.com/a/m5iBAojpg)</span>
-
+![Provincetown Town Hall, Provincetown, MA. Taken on Tuesday, March 23, 2024 by Lisa Williams](https://imgur.com/Vpv0ULA)
 
 In February, I went to an [event](https://www.wgbh.org/events/february-lounge-thursdays-featuring-nadjya-facey-maccow) to celebrate the success of "What Is Owed?". I was so transported listening to my treasured colleague, Saraya Wintersmith, who was the host of the podcast, address a rapt audience at the Boston Public Library that driving home, I kept thinking: What other Boston stories from history are newly relevant now, and need to be told today? 
 
