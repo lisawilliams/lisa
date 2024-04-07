@@ -13,7 +13,7 @@ On the way home, I couldn't stop thinking: _What other Boston stories from histo
 
 Driving home in the rain on The Pike, I flipped through my mental catalogue of the big Boston stories. And then, as I saw the sign for the Allston exit, it came to me: 
 
-_I got it. It's same sex marriage._
+_Oh. It's same sex marriage._
 
 Like the telephone, the telegraph, the chocolate chip cookie (you're welcome, by the way), the microwave oven, medical anesthesia, the radical notion that girls and not just boys should be taught to read, birth control pills, universal healthcare, same sex marriage is just one more entry in Boston's centuries-spanning list of innovations<sup>2</sup>. Boston changes the world, again and again. 
 
