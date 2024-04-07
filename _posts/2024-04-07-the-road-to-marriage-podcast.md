@@ -15,19 +15,19 @@ Driving home in the rain on The Pike, I flipped through my mental catalogue of t
 
 _Oh. It's same sex marriage._
 
-Like the telephone, the telegraph, the chocolate chip cookie (you're welcome, by the way), the microwave oven, medical anesthesia, the radical notion that girls and not just boys should be taught to read, birth control pills, universal healthcare, same sex marriage is just one more entry in Boston's centuries-spanning list of innovations<sup>2</sup>. Boston changes the world, again and again. 
+Like the telephone, the telegraph, the chocolate chip cookie (you're welcome, by the way), the microwave oven, medical anesthesia, the radical notion that girls and not just boys should be taught to read, birth control pills, universal healthcare, same sex marriage is just one more entry in Boston's centuries-spanning list of innovations.<sup>2</sup> Boston changes the world, again and again. 
 
 Just like we did on May 17, 2004. 
 
 On that day, attorney Mary Bonauto shepherded three of the same-sex couples who were plaintiffs in the _Goodridge v. Department of Public Health<sup>1</sup>_ lawsuit to Boston City Hall to get marriage certificates — with a police escort and while sharpshooters were stationed on the roofs of adjoining buildings. 
 
-This year is the 20th anniversary of marriage equality in Massachusetts, and next year is the 10th anniversary of marriage equality in the United States<sup>3</sup>. 
+This year is the 20th anniversary of marriage equality in Massachusetts, and next year is the 10th anniversary of marriage equality in the United States.<sup>3</sup> 
 
 What happened? 
 
 What happened is a truly extroardinary story. 
 
-It is a story that is especially relevant now, as attacks on LGBTQ+ people spike<sup>4</sup>, reporting intimidation online and violence and threats offline. The threats are not only against individuals but also against companies and public institutions: Here in Boston, libraries and childrens' hospitals have been the targets of bomb threats.<sup>5,6</sup>  And it's not just on the internet or on the streets: it's in the legislatures. A record number of anti-LGBTQ bills were introduced across the country in 2023.<sup>7</sup>
+It is a story that is especially relevant now, as attacks on LGBTQ+ people spike,<sup>4</sup> reporting intimidation online and violence and threats offline. The threats are not only against individuals but also against companies and public institutions: Here in Boston, libraries and childrens' hospitals have been the targets of bomb threats.<sup>5,6</sup>  And it's not just on the internet or on the streets: it's in the legislatures. A record number of anti-LGBTQ bills were introduced across the country in 2023.<sup>7</sup>
 
  It seems like a good time to return to the history, to understand why marriage was important then, why it's important now. 
 
