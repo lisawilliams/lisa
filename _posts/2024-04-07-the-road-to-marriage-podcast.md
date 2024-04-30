@@ -6,6 +6,7 @@ categories: LGBTQ
 ---
 
 ![Provincetown Town Hall, Provincetown, MA. Taken on Tuesday, March 23, 2024 by Lisa Williams](https://i.imgur.com/Vpv0ULA.jpg)
+<sup>Provincetown Town Hall, Provincetown, MA. Lisa Williams, Mar. 23, 2024</sup>
 
 In February, I went to an [event](https://www.wgbh.org/events/february-lounge-thursdays-featuring-nadjya-facey-maccow) to celebrate the success of "What Is Owed?".  I was utterly transported listening to my treasured colleague, podcast host and journalist Saraya Wintersmith address a rapt audience. 
 
@@ -61,7 +62,7 @@ It is not the end of the story. It is the beginning of the backlash.
 
 Marriage equality supporters had to fight in the legislature, in the the courts, and in the court of public opinion to keep the rights that the state's Supreme Judicial Court had granted in _Goodridge._ 
 
-That backlash is the one we are still living in today, and how we respond to it will make history. 
+That backlash is one we are still living in today, and how we respond to it will make history. 
 
 Again. 
 
