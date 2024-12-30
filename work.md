@@ -6,16 +6,11 @@ permalink: /work/
 
 ![Shiny stuff!](https://live.staticflickr.com/65535/40300050893_1eedda48ab_z.jpg)
 
-I am currently working at <a href ="http://www.wgbh.org/news">GBH News</a>, where I am Audience Engagement Editor. It's my job to drive audience growth and loyalty. During my time there, I was able to increase the News division's digital audience sixfold.
+I am currently working at <a href ="http://www.wgbh.org/news">GBH News</a>, where I am Audience Engagement Editor. 
 
-I have run startups, been an MIT Media Lab fellow, worked at NPR affiliates, The Boston Globe/Boston.com, helped out with the excellent Data + Narrative data storytelling workshops, and worked with dozens of organizations looking to create greater community engagement online and offline. You can also find me on Mastodon, where I am <a href="https://toot.lgbt/@lisawilliams">@lisawilliams</a>.
+I have run startups, been an MIT Media Lab fellow, worked at NPR affiliates, The Boston Globe/Boston.com, and helped out with the excellent Data + Narrative data storytelling workshops. You can also find me on Mastodon, where I am <a href="https://toot.lgbt/@lisawilliams">@lisawilliams</a>.
 
-The best way to see a chronological view of my career is to look at my <a href ="https://www.linkedin.com/in/lisawilliams/LinkedIn">LinkedIn profile</a>. There are some things I’m proud of that don’t show up on my resume, however. These are a few of them:
-
-**Membership & Outreach, Public Media Journalists Association**
-*Oct 2022-23*
-
-Delighted to be working with the Public Media Journalists Association to connect with our members and foster more affiliate-to-affiliate collaboration. 
+The best way to see a chronological view of my career is to look at my <a href ="https://www.linkedin.com/in/lisawilliams/LinkedIn">LinkedIn profile</a>. There are some things I’m proud of that don’t show up on my resume, however. These are a few of them: 
 
 **Selected project, VidSpark**
 *January 2020*
