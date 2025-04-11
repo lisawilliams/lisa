@@ -55,6 +55,8 @@ A very step-by step, action-oriented approach to grief with writing exercises. I
 
 Ostaseski is one of the founders of San Francisco's Zen Hospice Project, and this book contains his lessons for living learned from decades spent with the very ill and dying.<BR>
 
+**[Dead People Suck](https://bookshop.org/p/books/dead-people-suck-a-guide-for-survivors-of-the-newly-departed-laurie-kilmartin/LonPMe8dop2GZZ6A?ean=9781635650013&next=t)** If you like a little black humor with your grieving process, this book is for you. <BR><BR>
+
 *Suggested Readings*
 
 These books were suggested by friends & community members in response to this list:<BR>
@@ -83,6 +85,7 @@ An individual podcast episode from New York Times' *The Daily*: "[What If There'
 
 
 [Refuge in Grief](http://www.refugeingrief.com/), Megan Devine. Her "[Rules at Impact](https://www.refugeingrief.com/wp-content/uploads/2017/11/EarlyGrief-WebReady.png)" for surviving early grief are excellent.<br>
+[GriefShare](https://www.griefshare.org/) runs online and in person peer support groups for grievers. <br>
 [Grief Healing Blog](https://www.griefhealingblog.com/)<br>
 [Modern Loss](http://modernloss.com/)<br>
 [Grief Beyond Belief](http://griefbeyondbelief.org/) - A site with grief resources for atheists and agnostics.<br>
