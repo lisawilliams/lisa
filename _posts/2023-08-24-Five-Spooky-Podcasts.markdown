@@ -42,3 +42,10 @@ I'll admit it, I love this podcast. Host Mandy Spooks dives deep into why scary 
 An anthology series with a story arc to tie it together, The Magnus Archives puts a paranormal investigator in a demented file room. He has to sort it all out -- and ends up digging into some chilling mysteries. Close in spirit to *Archive 81*, but with a few more laughs. 
 
 [The Magnus Archive website](https://rustyquill.com/show/the-magnus-archives/)
+
+
+**UPDATE**
+
+Listen, listen, listen: Halloween is a _state of mind,_ and it can be invoked at any time. So here's me in April of 2024 with a fresh (and freshly discovered, to me anyway,) recommendation: Ghosts In The Burbs. <br><br>
+
+I have been delighted by [Ghosts In The Burbs](https://www.ghostsintheburbs.com/) shaggy, spooky social satire of an ultra-wealthy Boston suburb that just happens to be overrun with ghosts, cryptids, and supernatural creatures. And I'm discovering it with 88+ episodes?! Amazing. 
