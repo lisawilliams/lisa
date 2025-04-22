@@ -71,6 +71,8 @@ These books were suggested by friends & community members in response to this li
 
 [Do Death: For A Life Better Lived](https://www.amazon.com/Do-Death-life-better-lived/dp/1907974679)
 
+[Curated list of books on bereavement after a suicide](https://www.allinahealth.org/health-conditions-and-treatments/grief-resources/suggested-books/books-for-grieving-a-suicide)
+
 ## Podcasts
 
 [What's Your Grief Podcast](https://whatsyourgrief.com/grief-podcast/) -- occasional podcast by hosts Litsa Williams and Eleanor Haley, covering everything from the holidays to dating after bereavement.<br>
