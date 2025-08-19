@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Five Podcasts for Spooky Season"
+title:  "Seven Podcasts for Spooky Season"
 date:   2023-08-24 00:16:39 -0400
 categories: culture
 ---
@@ -9,6 +9,12 @@ categories: culture
 <br>
 
 Halloween is my favorite holiday, and I start spooky season, well...probably a little earlier than most people. Like, I'm writing this in August, okay? I sifted through a mountain of spooky podcasts to put together this top 5 list. If you're ready to start spooky season, or just get a taste of that spooky life at any time of the year, these are for you. <br>
+
+**Ghosts In The Burbs** 
+
+I have been delighted by [Ghosts In The Burbs](https://www.ghostsintheburbs.com/) shaggy, spooky social satire of an ultra-wealthy Boston suburb that just happens to be overrun with ghosts, cryptids, and supernatural creatures. And I'm discovering it with 88+ episodes?! Amazing. 
+
+[Ghosts In The Burbs website](https://www.ghostsintheburbs.com/)
 
 
 **Bridgewater**
@@ -24,6 +30,12 @@ _Bonus: Season 3 of [13 Days of Halloween](https://www.grimandmild.com/13days) w
 You really can't talk about the spooky podcast landscape without talking about KQED's "Spooked." Host Glynn Washington puts together superbly paced tales with beautiful production values and haunting music. This used to be a treat you could only get around Halloween, but the podcast has become a weekly event. 
 
 [Spooked Podcast website](https://spookedpodcast.org/)
+
+**Stoney Creek** 
+
+I love the voice acting on this serialized fiction podcast about a town where young men mysteriously disappear, stalked by a monster only they can see. 
+
+[Stoney Creek IG account](https://www.instagram.com/stoneycreekpod/?hl=en)
 
 **Campfire Radio Theater**
 
@@ -43,9 +55,7 @@ An anthology series with a story arc to tie it together, The Magnus Archives put
 
 [The Magnus Archive website](https://rustyquill.com/show/the-magnus-archives/)
 
+_Updated August 2025_
 
-**UPDATE**
 
-Listen, listen, listen: Halloween is a _state of mind,_ and it can be invoked at any time. So here's me in April of 2024 with a fresh (and freshly discovered, to me anyway,) recommendation: Ghosts In The Burbs. <br><br>
 
-I have been delighted by [Ghosts In The Burbs](https://www.ghostsintheburbs.com/) shaggy, spooky social satire of an ultra-wealthy Boston suburb that just happens to be overrun with ghosts, cryptids, and supernatural creatures. And I'm discovering it with 88+ episodes?! Amazing. 
