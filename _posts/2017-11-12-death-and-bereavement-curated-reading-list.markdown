@@ -99,6 +99,8 @@ An individual podcast episode from New York Times' *The Daily*: "[What If There'
 
 ## Articles
 
+[The Strange Joy of My Grief](https://www.nytimes.com/2025/09/27/opinion/grief-death-family.html) Roger Rosenblatt writes about the period after the death of his 38 year old daughter, who was a mother and a pediatrician. At first, he feels nothing but the grief, but after a period of years, other emotions begin to return. <br>
+
 [How The Brain Responds To Grief Can Change Who We Are](https://aeon.co/essays/how-the-brain-responds-to-grief-can-change-who-we-are), April Reese, Aeon. "At times in those first hours, days and weeks after his death, it was hard to breathe. I couldn’t concentrate. I forgot things. Fatigue was a constant, no matter how much I slept."
 
 [Grief during the holidays: 8 Strategies](https://thepsychologygroup.com/how-to-cope-with-grief-during-the-holidays/) "Don’t you wish you could press pause on the grieving process during the holiday season? I remember wishing I could do just that during the first (and several) holiday season following the painful loss of a loved one in my life."
