@@ -29,5 +29,7 @@ So, no: I don't think group projects should be abolished. What I _do_ think is t
 
 I'm in the process of creating a zine with an outline for a group project. It's based on experiences I had in recent grad school classes, where I had an excellent time engaging with my peers to work together. But I also saw that not all of my fellow students were having the same experience, and I thought I would share what I felt was most effective. (The cover will also feature my first linocut/block print). 
 
+**UPDATE** Here's a [copy of that zine](https://drive.google.com/file/d/17VycBR2GyeHRKjOhWVdW1AMvxfEqnmpj/view?usp=sharing) if you would like it. 
+
 
 
