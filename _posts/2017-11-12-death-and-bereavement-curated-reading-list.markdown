@@ -204,6 +204,6 @@ The Grief Therapy Method involves a process of walking through a review of a rel
 
 [EMDR for Traumatic Grief](https://theranest.com/blog/emdr-therapy-traumatic-grief/) EMDR stands for Eye Movement Desensitization and Reprocessing. It's typically used as a trauma therapy but some therapists are using it with clients, particularly when grief presents with PTSD-like symptoms. 
 
-*Updated March 25, 2022*
+*Updated Jan 7, 2026*
 
 
