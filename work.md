@@ -6,7 +6,9 @@ permalink: /work/
 
 ![Shiny stuff!](https://live.staticflickr.com/65535/40300050893_1eedda48ab_z.jpg)
 
-I am currently working at <a href ="http://www.wgbh.org/news">GBH News</a>, where I am Audience Engagement Editor. 
+I am currently a graduate student in the School of Social Work at Salem State University, where I am digging in to my enduring fascination around community solutions. 
+
+Until recently, I was working <a href ="http://www.wgbh.org/news">GBH News</a>, where I was the Audience Engagement Editor. 
 
 I have run startups, been an MIT Media Lab fellow, worked at NPR affiliates, The Boston Globe/Boston.com, and helped out with the excellent Data + Narrative data storytelling workshops. 
 
