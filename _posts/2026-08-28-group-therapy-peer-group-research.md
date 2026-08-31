@@ -5,7 +5,9 @@ date:   2026-08-28 08:15:39 -0500
 categories: groupwork
 ---
 
-What follows are summaries of research studies and papers investigating the impact and effectiveness of support groups and group psychotherapy across many domains. If you'd like an annotated bibliography with APA citations, you can find that here: [Group Work, An Annotated Bibliography](https://docs.google.com/spreadsheets/d/1wC8Px-nffjo6DMmHJT9O9ERbuZ8I_7vJNKtuerNCkfk/edit?usp=sharing) _Note: Some of the links you will find here and in the bibliography may not be accessible to you; I accessed them via my university library. If a link to a paper or text is inaccessible to you I encourage you to reach out to the authors via email. Or befriend a librarian, which is never a bad idea)._
+What follows are summaries of research studies and papers investigating the impact and effectiveness of support groups and group psychotherapy across many domains. If you'd like an annotated bibliography with APA citations, you can find that here: [Group Work, An Annotated Bibliography](https://docs.google.com/spreadsheets/d/1wC8Px-nffjo6DMmHJT9O9ERbuZ8I_7vJNKtuerNCkfk/edit?usp=sharing) 
+
+_Note: Some of the links you will find here and in the bibliography may not be accessible to you; I accessed them via my university library. If a link to a paper or text is inaccessible to you I encourage you to reach out to the authors via email. Or befriend a librarian, which is never a bad idea)._
 
 **Core texts and historical perspectives**
 
