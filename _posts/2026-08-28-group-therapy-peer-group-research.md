@@ -9,6 +9,9 @@ What follows are summaries of research studies and papers investigating the impa
 
 _Note: Some of the links you will find here and in the bibliography may not be accessible to you; I accessed them via my university library. If a link to a paper or text is inaccessible to you I encourage you to reach out to the authors via email. Or befriend a librarian, which is never a bad idea)._
 
+_This is a living document -- I'll continue working on summaries of what I have read over time. Feel free to return!_
+
+
 **Core texts and historical perspectives**
 
 _[Theory And Practice of Group Psychotherapy](https://www.hachettebookgroup.com/titles/irvin-d-yalom/the-theory-and-practice-of-group-psychotherapy/9781541617568/?lens=basic-books)_, Irwin Yalom & Molyn Leszcz. 
@@ -84,7 +87,6 @@ _Is Online Group Therapy As Effective as Face to Face Group Therapy? A Mixed Met
 
 In this study of 214 participants, researchers found that online and face to face group therapy was equivalent across most domains except for cognitive domains. As a mixed methods study, one interesting feature of this paper is feedback from group participants on their impressions of what worked and what didn't in each modality. 
 
-
 **What about peer support groups?**
 
 _"Alcoholics Anonymous and other 12-step programs for alcohol use disorder,"_ Kelly, et al., 2020, Cochrane Database of Systematic Reviews. 
@@ -95,7 +97,16 @@ The Recovery Research Institute summarizes many important studies in their month
 
 **What impact does group cohesion have, and what factors influence group cohesion?**
 
-_This is a living document -- I'll continue working on summaries of what I have read over time. Feel free to return!_
+Group cohesion - a sense of "we" is one of the 11 therapeutic factors that Yalom posits as the qualities in a group that help people heal and grow. 
+
+_Cohesion in Group Therapy: A Meta-Analysis,_ Burlingame et al., 2018, Psychotherapy. 
+
+This meta-analysis found that across studies, there was a statistically significant correlation between group cohesion and treatment outcomes. The paper also discusses common definitions of cohesion and how it is measured. 
+
+_Examining a Cohesion-Focused Model in Experiential Growth Groups: A Single Case Research Design,_ Zhu et al., 2023, Journal for Specialists In Group Work
+
+In this study, researchers implemented a phased, cohesion-focused model across two experiential growth groups. The groups responded differently and the researchers examined potential causes.  
+
 
 **Associations dedicated to studying group work and training group clinicians**
 
@@ -111,6 +122,10 @@ You'll note that many of the papers above were published in more generalist jour
 * [Social Work With Groups Journal](https://www.tandfonline.com/journals/wswg20)
 * [Groupwork Journal](https://journals.whitingbirch.net/index.php/GPWK/)
 * [Journal for Specialists in Group Work](https://www.tandfonline.com/journals/usgw20)
+
+**Other sites offering or summarizing research**
+
+* [The Recovery Bulletin](https://recoveryanswers.org/addiction-research-summaries)
 
 
 
