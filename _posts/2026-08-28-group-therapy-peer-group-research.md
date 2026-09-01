@@ -62,7 +62,7 @@ Oh, he's not done:
 
 "The length of time that it took for the evidence to surface may also reflect the fact that clinicians usually do not read research publications. Finally, it may reflect much of the field's ambivalence, even denial, of the efficacy of short-term group therapy."
 
-OWWWWW burn :fire:
+OWWWWW burn :fire emoji: 
 
 _"[Terrified Of Group Therapy: Investigating Obstacles To Entering Or Leading Groups](https://psychiatryonline.org/doi/10.1176/appi.psychotherapy.20200033),"_ Shay, 2021, American Journal of Psychotherapy.
 
@@ -72,7 +72,18 @@ _"[Group Psychotherapy As A Specialty: An Inconvenient Truth](10.1176/appi.psych
 
 **Are online groups as effective as in-person groups?**
 
-_This is a living document -- I'll continue working on summaries of what I have read over time. Feel free to return!_
+_The evidence on differences between online and in person groups is mixed and still emerging. I summarize a few papers here._
+
+"Effectiveness of online mutual-help group attendance for adults with alcohol use disorders in the pooled, longitudinal US National PAL study cohorts," Zemore, et al., 2025, Journal of Drug & Alcohol Dependence. The Recovery Bulletin summarized this study of 1,152 individuals with a diagnosis of alcohol use disorder who attended mutual-help groups. The study found that outcomes for attendees of in-person meetings were better at 6 months and 12 month followups. Furthermore, the study pointed out that higher levels of engagement and participation in in-person groups, along with the ability to form social connections with other sober people, were likely a factor in the differing outcomes between in-person and online groups. 
+
+_A comparison of telehealth versus in-person group therapy: Results from a DBT-based dual diagnosis IOP,"_ Bean et. al, 2021, Journal of Clinical Psychology. 
+
+This study looked at outcomes for participants in an intensive outpatient program (IOP) offered for people who had both mental health and substance use disorder diagnoses. 96 participants engaged in the study, which found that outcomes for those who were enrolled in the IOP online and those in person had statistically equivalent outcomes. 
+
+_Is Online Group Therapy As Effective as Face to Face Group Therapy? A Mixed Methods Study,"_ Lin et al., 2025, Clinical Social Work Journal
+
+In this study of 214 participants, researchers found that online and face to face group therapy was equivalent across most domains except for cognitive domains. As a mixed methods study, one interesting feature of this paper is feedback from group participants on their impressions of what worked and what didn't in each modality. 
+
 
 **What about peer support groups?**
 
