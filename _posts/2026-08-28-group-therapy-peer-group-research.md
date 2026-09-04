@@ -18,11 +18,22 @@ _[Theory And Practice of Group Psychotherapy](https://www.hachettebookgroup.com/
 
 First published in 1967, this has been a core text in the field for decades. It's chunky, clocking in at over 700 pages, and is full of clinical vignettes, frameworks, and references to research. 
 
+
 _Key insights:_ 
 
 * There's a central tension in groups -- people who cannot or will not participate in the group task are unlikely to be helped by a group and may be harmed by it. **BUT** participants should be encouraged to stay because the issues we face inside a group are nearly inevitably the same challenges we face in the world. The group provides members the opportunity to face and master challenges in the 'here and now' of the group, thereby gaining skills that they can take into the real world to live better lives. 
 
 There's so much more to this text, more than can fit in the kind of summaries I am presenting here; perhaps I'll write a longer piece about it. 
+
+_[Developmental Sequence In Small Groups](http://www.communicationcache.com/uploads/1/0/8/8/10887248/developmental_sequence_in_small_groups_-_reprint.pdf)_ Bruce W. Tuckman, 1965, Psychological Bulletin. 
+
+In this paper, Tuckman outlines the group formation model that's been widely referenced ever since, suggesting that groups go through the following phases: 
+
+* Forming (putting a group together)
+* Storming (conflicts over who makes decisions, who gets heard)
+* Norming (developing group norms)
+* Performing (the group in its active work phase, can be indefinite)
+* Adjourning (wrapping up a group)
 
 _"[The Status Of Psychiatric Inpatient Group Therapy: Past, Present And Future](https://www.tandfonline.com/doi/full/10.1080/01609513.2011.553711),"_ Emond & Rasmussen, 2012, Social Work With Groups.
 
