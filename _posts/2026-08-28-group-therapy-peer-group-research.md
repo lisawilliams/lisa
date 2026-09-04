@@ -23,6 +23,8 @@ _Key insights:_
 
 * There's a central tension in groups -- people who cannot or will not participate in the group task are unlikely to be helped by a group and may be harmed by it. **BUT** participants should be encouraged to stay because the issues we face inside a group are nearly inevitably the same challenges we face in the world. The group provides members the opportunity to face and master challenges in the 'here and now' of the group, thereby gaining skills that they can take into the real world to live better lives. 
 
+[Yalom's 11 therapeutic factors](https://pmhealthnp.com/stages-and-yaloms-therapeutic-forces/) -- the qualities present in a group that actually create change for participants -- also remain widely cited today. 
+
 There's so much more to this text, more than can fit in the kind of summaries I am presenting here; perhaps I'll write a longer piece about it. 
 
 _[Developmental Sequence In Small Groups](http://www.communicationcache.com/uploads/1/0/8/8/10887248/developmental_sequence_in_small_groups_-_reprint.pdf)_ Bruce W. Tuckman, 1965, Psychological Bulletin. 
