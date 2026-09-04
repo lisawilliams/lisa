@@ -102,7 +102,7 @@ In this study of 214 participants, researchers found that online and face to fac
 
 **What about peer support groups?**
 
-_"Alcoholics Anonymous and other 12-step programs for alcohol use disorder,"_ Kelly, et al., 2020, Cochrane Database of Systematic Reviews. 
+_"[Alcoholics Anonymous and other 12-step programs for alcohol use disorder](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012880.pub2/full),"_ Kelly, et al., 2020, Cochrane Database of Systematic Reviews. 
 
 This 2020 systematic review of 67 studies involving more than 10,000 study participants [made news at the time](https://www.wbur.org/news/2020/03/11/medical-science-alcoholic-anonymous-review) because it showed not only that 12-step facilitation programs and AA work, but that they work significantly better in helping people achieve abstinence than other treatments for alcohol use disorder, including cognitive behavioral therapy and motivational interviewing. 
 
