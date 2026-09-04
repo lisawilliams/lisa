@@ -88,7 +88,7 @@ _"[Group Psychotherapy As A Specialty: An Inconvenient Truth](10.1176/appi.psych
 
 **Are online groups as effective as in-person groups?**
 
-_The evidence on differences between online and in person groups is mixed and still emerging. I summarize a few papers here._
+_The evidence on differences between online and in person groups is mixed and still emerging. I summarize a few papers here. Links to come, I was typing on an airplane._
 
 "Effectiveness of online mutual-help group attendance for adults with alcohol use disorders in the pooled, longitudinal US National PAL study cohorts," Zemore, et al., 2025, Journal of Drug & Alcohol Dependence. The Recovery Bulletin summarized this study of 1,152 individuals with a diagnosis of alcohol use disorder who attended mutual-help groups. The study found that outcomes for attendees of in-person meetings were better at 6 months and 12 month followups. Furthermore, the study pointed out that higher levels of engagement and participation in in-person groups, along with the ability to form social connections with other sober people, were likely a factor in the differing outcomes between in-person and online groups. 
 
