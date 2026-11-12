@@ -88,15 +88,15 @@ _"[Group Psychotherapy As A Specialty: An Inconvenient Truth](10.1176/appi.psych
 
 **Are online groups as effective as in-person groups?**
 
-_The evidence on differences between online and in person groups is mixed and still emerging. I summarize a few papers here. Links to come, I was typing on an airplane._
+_The evidence on differences between online and in person groups is mixed and still emerging. I summarize a few papers here._
 
-"Effectiveness of online mutual-help group attendance for adults with alcohol use disorders in the pooled, longitudinal US National PAL study cohorts," Zemore, et al., 2025, Journal of Drug & Alcohol Dependence. The Recovery Bulletin summarized this study of 1,152 individuals with a diagnosis of alcohol use disorder who attended mutual-help groups. The study found that outcomes for attendees of in-person meetings were better at 6 months and 12 month followups. Furthermore, the study pointed out that higher levels of engagement and participation in in-person groups, along with the ability to form social connections with other sober people, were likely a factor in the differing outcomes between in-person and online groups. 
+"[Effectiveness of online mutual-help group attendance for adults with alcohol use disorders in the pooled, longitudinal US National PAL study cohorts](https://pubmed.ncbi.nlm.nih.gov/41167988/)," Zemore, et al., 2025, Journal of Drug & Alcohol Dependence. The Recovery Bulletin summarized this study of 1,152 individuals with a diagnosis of alcohol use disorder who attended mutual-help groups. The study found that outcomes for attendees of in-person meetings were better at 6 months and 12 month followups. Furthermore, the study pointed out that higher levels of engagement and participation in in-person groups, along with the ability to form social connections with other sober people, were likely a factor in the differing outcomes between in-person and online groups. 
 
-_A comparison of telehealth versus in-person group therapy: Results from a DBT-based dual diagnosis IOP,"_ Bean et. al, 2021, Journal of Clinical Psychology. 
+_[A comparison of telehealth versus in-person group therapy: Results from a DBT-based dual diagnosis IOP](https://pubmed.ncbi.nlm.nih.gov/35531794/),"_ Bean et. al, 2021, Journal of Clinical Psychology. 
 
 This study looked at outcomes for participants in an intensive outpatient program (IOP) offered for people who had both mental health and substance use disorder diagnoses. 96 participants engaged in the study, which found that outcomes for those who were enrolled in the IOP online and those in person had statistically equivalent outcomes. 
 
-_Is Online Group Therapy As Effective as Face to Face Group Therapy? A Mixed Methods Study,"_ Lin et al., 2025, Clinical Social Work Journal
+_[Is Online Group Therapy As Effective as Face to Face Group Therapy](https://psycnet.apa.org/record/2024-79090-001)? A Mixed Methods Study,"_ Lin et al., 2025, Clinical Social Work Journal
 
 In this study of 214 participants, researchers found that online and face to face group therapy was equivalent across most domains except for cognitive domains. As a mixed methods study, one interesting feature of this paper is feedback from group participants on their impressions of what worked and what didn't in each modality. 
 
@@ -112,11 +112,11 @@ The Recovery Research Institute summarizes many important studies in their month
 
 Group cohesion - a sense of "we" is one of the 11 therapeutic factors that Yalom posits as the qualities in a group that help people heal and grow. 
 
-_Cohesion in Group Therapy: A Meta-Analysis,_ Burlingame et al., 2018, Psychotherapy. 
+_[Cohesion in Group Therapy: A Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/30335452/),_ Burlingame et al., 2018, Psychotherapy. 
 
 This meta-analysis found that across studies, there was a statistically significant correlation between group cohesion and treatment outcomes. The paper also discusses common definitions of cohesion and how it is measured. 
 
-_Examining a Cohesion-Focused Model in Experiential Growth Groups: A Single Case Research Design,_ Zhu et al., 2023, Journal for Specialists In Group Work
+_[Examining a Cohesion-Focused Model in Experiential Growth Groups: A Single Case Research Design](https://www.tandfonline.com/doi/full/10.1080/01933922.2023.2248635),_ Zhu et al., 2023, Journal for Specialists In Group Work
 
 In this study, researchers implemented a phased, cohesion-focused model across two experiential growth groups. The groups responded differently and the researchers examined potential causes.  
 
@@ -125,6 +125,7 @@ In this study, researchers implemented a phased, cohesion-focused model across t
 
 * [American Association of Group Workers](https://archives.lib.umn.edu/repositories/11/archival_objects/168353). Formed in 1946, merged into the [National Association of Social Work (NASW)](https://nasw.org) in 1955. 
 * [International Association for Social Work With Groups](https://www.iaswg.org/history). Formed in 1979. Has a newsletter and an annual symposium. 
+* [Northeastern Society for Group Psychotherapy](https://nsgp.wildapricot.org/Home)
 * [Association for Specialists In Group Work](https://www.asgw.org/). A division of the American Counseling Association. Publishes The Journal for Specialists in Group Work. 
 * [American Group Psychotherapy Association](https://agpa.org/). 
 
